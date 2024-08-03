@@ -11,7 +11,7 @@ import (
 	"github.com/uptrace/bun/migrate"
 	"github.com/urfave/cli/v2"
 	"github.com/verde-websites/fpldb/bunapp"
-	"github.com/verde-websites/fpldb/cmd/bun/migrations"
+	"github.com/verde-websites/fpldb/cmd/fpldb/migrations"
 	"github.com/verde-websites/fpldb/generate"
 	"github.com/verde-websites/fpldb/models"
 )
