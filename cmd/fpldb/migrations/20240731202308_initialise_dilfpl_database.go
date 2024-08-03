@@ -39,6 +39,10 @@ func init() {
 		if err != nil {
 			return err
 		}
+		_, err = db.NewCreateTable().Model((*models.PlayerFixture)(nil)).Exec(ctx)
+		if err != nil {
+			return err
+		}
 		fmt.Println("done")
 		return nil
 	}, func(ctx context.Context, db *bun.DB) error {
@@ -68,6 +72,10 @@ func init() {
 			return err
 		}
 		_, err = db.NewDropTable().Model((*models.Fixture)(nil)).Exec(ctx)
+		if err != nil {
+			return err
+		}
+		_, err = db.NewDropTable().Model((*models.PlayerFixture)(nil)).Exec(ctx)
 		if err != nil {
 			return err
 		}
