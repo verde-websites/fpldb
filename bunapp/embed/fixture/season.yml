@@ -1,0 +1,6 @@
+- model: Season
+  rows:
+    - _id: 2024/2025
+      season_name: 2024/2025
+    - _id: 2023/2024
+      season_name: 2023/2024

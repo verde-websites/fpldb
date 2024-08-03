@@ -1,0 +1,5 @@
+debug: true
+
+pgx:
+  dsn: postgres://fpl-web:lcjQkPirwxWrTJPo@localhost:5432/fpl-web?sslmode=disable
+  #dsn: postgres://postgres:postgres@localhost:5432/fpldb?sslmode=disable

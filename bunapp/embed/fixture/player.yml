@@ -1,0 +1,4682 @@
+- model: Player
+  rows:
+    - _id: player438098
+      id: 438098
+      first_name: Fábio
+      second_name: Ferreira Vieira
+      web_name: Fábio Vieira
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player205651
+      id: 205651
+      first_name: Gabriel
+      second_name: Fernando de Jesus
+      web_name: G.Jesus
+      player_type: 4
+      status: a
+      team_id: 3
+    - _id: player226597
+      id: 226597
+      first_name: Gabriel
+      second_name: dos Santos Magalhães
+      web_name: Gabriel
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player219847
+      id: 219847
+      first_name: Kai
+      second_name: Havertz
+      web_name: Havertz
+      player_type: 4
+      status: a
+      team_id: 3
+    - _id: player463748
+      id: 463748
+      first_name: Karl
+      second_name: Hein
+      web_name: Hein
+      player_type: 1
+      status: a
+      team_id: 3
+    - _id: player445122
+      id: 445122
+      first_name: Jurriën
+      second_name: Timber
+      web_name: J.Timber
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player85955
+      id: 85955
+      first_name: Jorge Luiz
+      second_name: Frello Filho
+      web_name: Jorginho
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player440854
+      id: 440854
+      first_name: Jakub
+      second_name: Kiwior
+      web_name: Kiwior
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player444145
+      id: 444145
+      first_name: Gabriel
+      second_name: Martinelli Silva
+      web_name: Martinelli
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player200641
+      id: 200641
+      first_name: Reiss
+      second_name: Nelson
+      web_name: Nelson
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player205533
+      id: 205533
+      first_name: Eddie
+      second_name: Nketiah
+      web_name: Nketiah
+      player_type: 4
+      status: a
+      team_id: 3
+    - _id: player499175
+      id: 499175
+      first_name: Ethan
+      second_name: Nwaneri
+      web_name: Nwaneri
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player184029
+      id: 184029
+      first_name: Martin
+      second_name: Ødegaard
+      web_name: Ødegaard
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player225321
+      id: 225321
+      first_name: Aaron
+      second_name: Ramsdale
+      web_name: Ramsdale
+      player_type: 1
+      status: a
+      team_id: 3
+    - _id: player154561
+      id: 154561
+      first_name: David
+      second_name: Raya Martin
+      web_name: Raya
+      player_type: 1
+      status: a
+      team_id: 3
+    - _id: player204480
+      id: 204480
+      first_name: Declan
+      second_name: Rice
+      web_name: Rice
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player223340
+      id: 223340
+      first_name: Bukayo
+      second_name: Saka
+      web_name: Saka
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player462424
+      id: 462424
+      first_name: William
+      second_name: Saliba
+      web_name: Saliba
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player209289
+      id: 209289
+      first_name: Emile
+      second_name: Smith Rowe
+      web_name: Smith Rowe
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player167199
+      id: 167199
+      first_name: Thomas
+      second_name: Partey
+      web_name: Thomas
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player192895
+      id: 192895
+      first_name: Kieran
+      second_name: Tierney
+      web_name: Tierney
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player223723
+      id: 223723
+      first_name: Tomiyasu
+      second_name: Takehiro
+      web_name: Tomiyasu
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player116216
+      id: 116216
+      first_name: Leandro
+      second_name: Trossard
+      web_name: Trossard
+      player_type: 3
+      status: a
+      team_id: 3
+    - _id: player198869
+      id: 198869
+      first_name: Benjamin
+      second_name: White
+      web_name: White
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player206325
+      id: 206325
+      first_name: Oleksandr
+      second_name: Zinchenko
+      web_name: Zinchenko
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player466075
+      id: 466075
+      first_name: Riccardo
+      second_name: Calafiori
+      web_name: Calafiori
+      player_type: 2
+      status: a
+      team_id: 3
+    - _id: player106468
+      id: 106468
+      first_name: Álex
+      second_name: Moreno Lopera
+      web_name: Alex Moreno
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player433979
+      id: 433979
+      first_name: Cameron
+      second_name: Archer
+      web_name: Archer
+      player_type: 4
+      status: a
+      team_id: 7
+    - _id: player215711
+      id: 215711
+      first_name: Leon
+      second_name: Bailey
+      web_name: Bailey
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player88894
+      id: 88894
+      first_name: Ross
+      second_name: Barkley
+      web_name: Barkley
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player491287
+      id: 491287
+      first_name: Enzo
+      second_name: Barrenechea
+      web_name: Barrenechea
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player195546
+      id: 195546
+      first_name: Emiliano
+      second_name: Buendía Stati
+      web_name: Buendia
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player199796
+      id: 199796
+      first_name: Matty
+      second_name: Cash
+      web_name: Cash
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player151589
+      id: 151589
+      first_name: Leander
+      second_name: Dendoncker
+      web_name: Dendoncker
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player243557
+      id: 243557
+      first_name: Moussa
+      second_name: Diaby
+      web_name: Diaby
+      player_type: 3
+      status: u
+      team_id: 7
+    - _id: player165659
+      id: 165659
+      first_name: Diego Carlos
+      second_name: Santos Silva
+      web_name: Diego Carlos
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player101188
+      id: 101188
+      first_name: Lucas
+      second_name: Digne
+      web_name: Digne
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player461421
+      id: 461421
+      first_name: Lewis
+      second_name: Dobbin
+      web_name: Dobbin
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player476344
+      id: 476344
+      first_name: Jhon
+      second_name: Durán
+      web_name: Duran
+      player_type: 4
+      status: a
+      team_id: 7
+    - _id: player462492
+      id: 462492
+      first_name: Joe
+      second_name: Gauci
+      web_name: Gauci
+      player_type: 1
+      status: a
+      team_id: 7
+    - _id: player123354
+      id: 123354
+      first_name: Kortney
+      second_name: Hause
+      web_name: Hause
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player469247
+      id: 469247
+      first_name: Samuel
+      second_name: Iling-Junior
+      web_name: Iling Jr
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player226944
+      id: 226944
+      first_name: Boubacar
+      second_name: Kamara
+      web_name: Kamara
+      player_type: 3
+      status: i
+      team_id: 7
+    - _id: player465390
+      id: 465390
+      first_name: Kaine
+      second_name: Kesler-Hayden
+      web_name: Kesler-Hayden
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player199798
+      id: 199798
+      first_name: Ezri
+      second_name: Konsa Ngoyo
+      web_name: Konsa
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player441302
+      id: 441302
+      first_name: Ian
+      second_name: Maatsen
+      web_name: Maatsen
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player462381
+      id: 462381
+      first_name: Filip
+      second_name: Marschall
+      web_name: Marschall
+      player_type: 1
+      status: u
+      team_id: 7
+    - _id: player98980
+      id: 98980
+      first_name: Emiliano
+      second_name: Martínez Romero
+      web_name: Martinez
+      player_type: 1
+      status: a
+      team_id: 7
+    - _id: player122806
+      id: 122806
+      first_name: John
+      second_name: McGinn
+      web_name: McGinn
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player149484
+      id: 149484
+      first_name: Tyrone
+      second_name: Mings
+      web_name: Mings
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player578545
+      id: 578545
+      first_name: Kosta
+      second_name: Nedeljković
+      web_name: Nedeljkovic
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player111782
+      id: 111782
+      first_name: Robin
+      second_name: Olsen
+      web_name: Olsen
+      player_type: 1
+      status: a
+      team_id: 7
+    - _id: player244954
+      id: 244954
+      first_name: Pau
+      second_name: Torres
+      web_name: Pau
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player232653
+      id: 232653
+      first_name: Jacob
+      second_name: Ramsey
+      web_name: Ramsey
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player244850
+      id: 244850
+      first_name: Morgan
+      second_name: Rogers
+      web_name: Rogers
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player248164
+      id: 248164
+      first_name: Viljami
+      second_name: Sinisalo
+      web_name: Sinisalo
+      player_type: 1
+      status: u
+      team_id: 7
+    - _id: player514315
+      id: 514315
+      first_name: Lino
+      second_name: da Cruz Sousa
+      web_name: Sousa
+      player_type: 2
+      status: a
+      team_id: 7
+    - _id: player166989
+      id: 166989
+      first_name: Youri
+      second_name: Tielemans
+      web_name: Tielemans
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player178301
+      id: 178301
+      first_name: Ollie
+      second_name: Watkins
+      web_name: Watkins
+      player_type: 4
+      status: a
+      team_id: 7
+    - _id: player449871
+      id: 449871
+      first_name: Amadou
+      second_name: Onana
+      web_name: Onana
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player481624
+      id: 481624
+      first_name: Jaden
+      second_name: Philogene
+      web_name: Jaden
+      player_type: 3
+      status: a
+      team_id: 7
+    - _id: player232980
+      id: 232980
+      first_name: Max
+      second_name: Aarons
+      web_name: Aarons
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player200785
+      id: 200785
+      first_name: Tyler
+      second_name: Adams
+      web_name: Adams
+      player_type: 3
+      status: i
+      team_id: 91
+    - _id: player444180
+      id: 444180
+      first_name: Jaidon
+      second_name: Anthony
+      web_name: Anthony
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player111317
+      id: 111317
+      first_name: David
+      second_name: Brooks
+      web_name: Brooks
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player158499
+      id: 158499
+      first_name: Ryan
+      second_name: Christie
+      web_name: Christie
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player155408
+      id: 155408
+      first_name: Lewis
+      second_name: Cook
+      web_name: Cook
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player168636
+      id: 168636
+      first_name: Enes
+      second_name: Ünal
+      web_name: Enes Ünal
+      player_type: 4
+      status: a
+      team_id: 91
+    - _id: player441240
+      id: 441240
+      first_name: Romain
+      second_name: Faivre
+      web_name: Faivre
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player424044
+      id: 424044
+      first_name: Hamed
+      second_name: Traorè
+      web_name: H.Traorè
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player463981
+      id: 463981
+      first_name: James
+      second_name: Hill
+      web_name: Hill
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player523700
+      id: 523700
+      first_name: Daniel
+      second_name: Jebbison
+      web_name: Jebbison
+      player_type: 4
+      status: a
+      team_id: 91
+    - _id: player544877
+      id: 544877
+      first_name: Milos
+      second_name: Kerkez
+      web_name: Kerkez
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player222683
+      id: 222683
+      first_name: Justin
+      second_name: Kluivert
+      web_name: Kluivert
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player223911
+      id: 223911
+      first_name: Chris
+      second_name: Mepham
+      web_name: Mepham
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player69752
+      id: 69752
+      first_name: Norberto
+      second_name: Murara Neto
+      web_name: Neto
+      player_type: 1
+      status: a
+      team_id: 91
+    - _id: player533463
+      id: 533463
+      first_name: Dango
+      second_name: Ouattara
+      web_name: O.Dango
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player495145
+      id: 495145
+      first_name: Alex
+      second_name: Paulsen
+      web_name: Paulsen
+      player_type: 1
+      status: a
+      team_id: 91
+    - _id: player168991
+      id: 168991
+      first_name: Philip
+      second_name: Billing
+      web_name: Philip
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player503139
+      id: 503139
+      first_name: Alex
+      second_name: Scott
+      web_name: Scott
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player437730
+      id: 437730
+      first_name: Antoine
+      second_name: Semenyo
+      web_name: Semenyo
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player221466
+      id: 221466
+      first_name: Marcos
+      second_name: Senesi
+      web_name: Senesi
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player224995
+      id: 224995
+      first_name: Luis
+      second_name: Sinisterra
+      web_name: Sinisterra
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player54469
+      id: 54469
+      first_name: Adam
+      second_name: Smith
+      web_name: Smith
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player154566
+      id: 154566
+      first_name: Dominic
+      second_name: Solanke-Mitchell
+      web_name: Solanke
+      player_type: 4
+      status: a
+      team_id: 91
+    - _id: player201658
+      id: 201658
+      first_name: Marcus
+      second_name: Tavernier
+      web_name: Tavernier
+      player_type: 3
+      status: a
+      team_id: 91
+    - _id: player229600
+      id: 229600
+      first_name: Mark
+      second_name: Travers
+      web_name: Travers
+      player_type: 1
+      status: a
+      team_id: 91
+    - _id: player477580
+      id: 477580
+      first_name: Illia
+      second_name: Zabarnyi
+      web_name: Zabarnyi
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player554605
+      id: 554605
+      first_name: Dean
+      second_name: Huijsen
+      web_name: Huijsen
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player191866
+      id: 191866
+      first_name: Kristoffer
+      second_name: Ajer
+      web_name: Ajer
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player494041
+      id: 494041
+      first_name: Ethan
+      second_name: Brierley
+      web_name: Brierley
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player432830
+      id: 432830
+      first_name: Nathan
+      second_name: Collins
+      web_name: Collins
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player440089
+      id: 440089
+      first_name: Mikkel
+      second_name: Damsgaard
+      web_name: Damsgaard
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player183656
+      id: 183656
+      first_name: Josh
+      second_name: Dasilva
+      web_name: Dasilva
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player118342
+      id: 118342
+      first_name: Mark
+      second_name: Flekken
+      web_name: Flekken
+      player_type: 1
+      status: a
+      team_id: 94
+    - _id: player194010
+      id: 194010
+      first_name: Rico
+      second_name: Henry
+      web_name: Henry
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player472713
+      id: 472713
+      first_name: Aaron
+      second_name: Hickey
+      web_name: Hickey
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player204580
+      id: 204580
+      first_name: Vitaly
+      second_name: Janelt
+      web_name: Janelt
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player207283
+      id: 207283
+      first_name: Mathias
+      second_name: Jensen
+      web_name: Jensen
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player570241
+      id: 570241
+      first_name: Kim
+      second_name: Ji-soo
+      web_name: Ji-soo
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player628204
+      id: 628204
+      first_name: Yunus Emre
+      second_name: Konak
+      web_name: Konak
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player249231
+      id: 249231
+      first_name: Keane
+      second_name: Lewis-Potter
+      web_name: Lewis-Potter
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player446008
+      id: 446008
+      first_name: Bryan
+      second_name: Mbeumo
+      web_name: Mbeumo
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player51927
+      id: 51927
+      first_name: Ben
+      second_name: Mee
+      web_name: Mee
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player128295
+      id: 128295
+      first_name: Christian
+      second_name: Nørgaard
+      web_name: Nørgaard
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player428580
+      id: 428580
+      first_name: Frank
+      second_name: Onyeka
+      web_name: Onyeka
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player450539
+      id: 450539
+      first_name: Myles
+      second_name: Peart-Harris
+      web_name: Peart-Harris
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player231065
+      id: 231065
+      first_name: Ethan
+      second_name: Pinnock
+      web_name: Pinnock
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player226956
+      id: 226956
+      first_name: Mads
+      second_name: Roerslev Rasmussen
+      web_name: Roerslev
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player513418
+      id: 513418
+      first_name: Kevin
+      second_name: Schade
+      web_name: Schade
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player502500
+      id: 502500
+      first_name: Igor Thiago
+      second_name: Nascimento Rodrigues
+      web_name: Thiago
+      player_type: 4
+      status: a
+      team_id: 94
+    - _id: player144485
+      id: 144485
+      first_name: Ivan
+      second_name: Toney
+      web_name: Toney
+      player_type: 4
+      status: a
+      team_id: 94
+    - _id: player507433
+      id: 507433
+      first_name: Hákon
+      second_name: Valdimarsson
+      web_name: Valdimarsson
+      player_type: 1
+      status: a
+      team_id: 94
+    - _id: player216646
+      id: 216646
+      first_name: Yoane
+      second_name: Wissa
+      web_name: Wissa
+      player_type: 4
+      status: a
+      team_id: 94
+    - _id: player508395
+      id: 508395
+      first_name: Yehor
+      second_name: Yarmoliuk
+      web_name: Yarmoliuk
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player48760
+      id: 48760
+      first_name: Mathias
+      second_name: Jorgensen
+      web_name: Zanka
+      player_type: 2
+      status: a
+      team_id: 94
+    - _id: player535818
+      id: 535818
+      first_name: Simon
+      second_name: Adingra
+      web_name: Adingra
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player475480
+      id: 475480
+      first_name: Benicio
+      second_name: Baker-Boaitey
+      web_name: Baker-Boaitey
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player535301
+      id: 535301
+      first_name: Carlos
+      second_name: Baleba
+      web_name: Baleba
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player543158
+      id: 543158
+      first_name: Valentín
+      second_name: Barco
+      web_name: Barco
+      player_type: 2
+      status: a
+      team_id: 36
+    - _id: player536916
+      id: 536916
+      first_name: Facundo
+      second_name: Buonanotte
+      web_name: Buonanotte
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player519324
+      id: 519324
+      first_name: Amario
+      second_name: Cozier-Duberry
+      web_name: Cozier-Duberry
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player168090
+      id: 168090
+      first_name: Mahmoud
+      second_name: Dahoud
+      web_name: Dahoud
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player83299
+      id: 83299
+      first_name: Lewis
+      second_name: Dunk
+      web_name: Dunk
+      player_type: 2
+      status: a
+      team_id: 36
+    - _id: player474120
+      id: 474120
+      first_name: Julio
+      second_name: Enciso
+      web_name: Enciso
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player204214
+      id: 204214
+      first_name: Pervis
+      second_name: Estupiñán
+      web_name: Estupiñan
+      player_type: 2
+      status: i
+      team_id: 36
+    - _id: player487117
+      id: 487117
+      first_name: Evan
+      second_name: Ferguson
+      web_name: Ferguson
+      player_type: 4
+      status: i
+      team_id: 36
+    - _id: player243568
+      id: 243568
+      first_name: Billy
+      second_name: Gilmour
+      web_name: Gilmour
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player60307
+      id: 60307
+      first_name: Pascal
+      second_name: Groß
+      web_name: Gross
+      player_type: 3
+      status: u
+      team_id: 36
+    - _id: player532529
+      id: 532529
+      first_name: Jack
+      second_name: Hinshelwood
+      web_name: Hinshelwood
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player612855
+      id: 612855
+      first_name: Ibrahim
+      second_name: Osman
+      web_name: I.Osman
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player223434
+      id: 223434
+      first_name: Igor Julio
+      second_name: dos Santos de Paulo
+      web_name: Igor
+      player_type: 2
+      status: a
+      team_id: 36
+    - _id: player475168
+      id: 475168
+      first_name: João Pedro
+      second_name: Junqueira de Jesus
+      web_name: João Pedro
+      player_type: 4
+      status: a
+      team_id: 36
+    - _id: player484658
+      id: 484658
+      first_name: Kacper
+      second_name: Kozłowski
+      web_name: Kozlowski
+      player_type: 3
+      status: u
+      team_id: 36
+    - _id: player232792
+      id: 232792
+      first_name: Tariq
+      second_name: Lamptey
+      web_name: Lamptey
+      player_type: 2
+      status: a
+      team_id: 36
+    - _id: player109345
+      id: 109345
+      first_name: Solly
+      second_name: March
+      web_name: March
+      player_type: 3
+      status: i
+      team_id: 36
+    - _id: player550141
+      id: 550141
+      first_name: Adrian
+      second_name: Mazilu
+      web_name: Mazilu
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player15157
+      id: 15157
+      first_name: James
+      second_name: Milner
+      web_name: Milner
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player592031
+      id: 592031
+      first_name: Yankuba
+      second_name: Minteh
+      web_name: Minteh
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player451340
+      id: 451340
+      first_name: Mitoma
+      second_name: Kaoru
+      web_name: Mitoma
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player243505
+      id: 243505
+      first_name: Jakub
+      second_name: Moder
+      web_name: Moder
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player574402
+      id: 574402
+      first_name: Mark
+      second_name: O’Mahony
+      web_name: O’Mahony
+      player_type: 4
+      status: a
+      team_id: 36
+    - _id: player445548
+      id: 445548
+      first_name: Odeluga
+      second_name: Offiah
+      web_name: Offiah
+      player_type: 2
+      status: a
+      team_id: 36
+    - _id: player491598
+      id: 491598
+      first_name: Cameron
+      second_name: Peupion
+      web_name: Peupion
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player441192
+      id: 441192
+      first_name: Jeremy
+      second_name: Sarmiento Morante
+      web_name: Sarmiento
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player49262
+      id: 49262
+      first_name: Jason
+      second_name: Steele
+      web_name: Steele
+      player_type: 1
+      status: a
+      team_id: 36
+    - _id: player450434
+      id: 450434
+      first_name: Deniz
+      second_name: Undav
+      web_name: Undav
+      player_type: 4
+      status: a
+      team_id: 36
+    - _id: player469142
+      id: 469142
+      first_name: Jan Paul
+      second_name: van Hecke
+      web_name: Van Hecke
+      player_type: 2
+      status: a
+      team_id: 36
+    - _id: player111478
+      id: 111478
+      first_name: Joël
+      second_name: Veltman
+      web_name: Veltman
+      player_type: 2
+      status: a
+      team_id: 36
+    - _id: player489639
+      id: 489639
+      first_name: Bart
+      second_name: Verbruggen
+      web_name: Verbruggen
+      player_type: 1
+      status: a
+      team_id: 36
+    - _id: player110735
+      id: 110735
+      first_name: Adam
+      second_name: Webster
+      web_name: Webster
+      player_type: 2
+      status: a
+      team_id: 36
+    - _id: player50175
+      id: 50175
+      first_name: Danny
+      second_name: Welbeck
+      web_name: Welbeck
+      player_type: 4
+      status: a
+      team_id: 36
+    - _id: player467779
+      id: 467779
+      first_name: Mats
+      second_name: Wieffer
+      web_name: Wieffer
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player532605
+      id: 532605
+      first_name: Andrey
+      second_name: Nascimento dos Santos
+      web_name: Andrey Santos
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player518620
+      id: 518620
+      first_name: Ângelo Gabriel
+      second_name: Borges Damaceno
+      web_name: Ângelo
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player109745
+      id: 109745
+      first_name: Kepa
+      second_name: Arrizabalaga
+      web_name: Arrizabalaga
+      player_type: 1
+      status: a
+      team_id: 8
+    - _id: player242880
+      id: 242880
+      first_name: Benoît
+      second_name: Badiashile
+      web_name: B.Badiashile
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player482158
+      id: 482158
+      first_name: Lucas
+      second_name: Bergström
+      web_name: Bergström
+      player_type: 1
+      status: a
+      team_id: 8
+    - _id: player122074
+      id: 122074
+      first_name: Marcus
+      second_name: Bettinelli
+      web_name: Bettinelli
+      player_type: 1
+      status: a
+      team_id: 8
+    - _id: player440323
+      id: 440323
+      first_name: Armando
+      second_name: Broja
+      web_name: Broja
+      player_type: 4
+      status: a
+      team_id: 8
+    - _id: player486672
+      id: 486672
+      first_name: Moisés
+      second_name: Caicedo Corozo
+      web_name: Caicedo
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player505187
+      id: 505187
+      first_name: Cesare
+      second_name: Casadei
+      web_name: Casadei
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player180736
+      id: 180736
+      first_name: Trevoh
+      second_name: Chalobah
+      web_name: Chalobah
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player172850
+      id: 172850
+      first_name: Ben
+      second_name: Chilwell
+      web_name: Chilwell
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player478912
+      id: 478912
+      first_name: Carney
+      second_name: Chukwuemeka
+      web_name: Chukwuemeka
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player460028
+      id: 460028
+      first_name: Levi
+      second_name: Colwill
+      web_name: Colwill
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player179268
+      id: 179268
+      first_name: Marc
+      second_name: Cucurella Saseta
+      web_name: Cucurella
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player520295
+      id: 520295
+      first_name: David Datro
+      second_name: Fofana
+      web_name: D.D.Fofana
+      player_type: 4
+      status: a
+      team_id: 8
+    - _id: player617054
+      id: 617054
+      first_name: Deivid Washington
+      second_name: de Souza Eugênio
+      web_name: Deivid
+      player_type: 4
+      status: a
+      team_id: 8
+    - _id: player215413
+      id: 215413
+      first_name: Kiernan
+      second_name: Dewsbury-Hall
+      web_name: Dewsbury-Hall
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player220362
+      id: 220362
+      first_name: Axel
+      second_name: Disasi
+      web_name: Disasi
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player448047
+      id: 448047
+      first_name: Enzo
+      second_name: Fernández
+      web_name: Enzo
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player232787
+      id: 232787
+      first_name: Conor
+      second_name: Gallagher
+      web_name: Gallagher
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player514280
+      id: 514280
+      first_name: Alfie
+      second_name: Gilchrist
+      web_name: Gilchrist
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player482609
+      id: 482609
+      first_name: Malo
+      second_name: Gusto
+      web_name: Gusto
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player225796
+      id: 225796
+      first_name: Reece
+      second_name: James
+      web_name: James
+      player_type: 2
+      status: s
+      team_id: 8
+    - _id: player549068
+      id: 549068
+      first_name: Omari
+      second_name: Kellyman
+      web_name: Kellyman
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player514356
+      id: 514356
+      first_name: Roméo
+      second_name: Lavia
+      web_name: Lavia
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player66749
+      id: 66749
+      first_name: Romelu
+      second_name: Lukaku Bolingoli
+      web_name: Lukaku
+      player_type: 4
+      status: a
+      team_id: 8
+    - _id: player204727
+      id: 204727
+      first_name: Malang
+      second_name: Sarr
+      web_name: M.Sarr
+      player_type: 2
+      status: u
+      team_id: 8
+    - _id: player248857
+      id: 248857
+      first_name: Noni
+      second_name: Madueke
+      web_name: Madueke
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player499309
+      id: 499309
+      first_name: Marc
+      second_name: Guiu Paz
+      web_name: Marc Guiu
+      player_type: 4
+      status: a
+      team_id: 8
+    - _id: player465920
+      id: 465920
+      first_name: Mykhailo
+      second_name: Mudryk
+      web_name: Mudryk
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player517052
+      id: 517052
+      first_name: Nicolas
+      second_name: Jackson
+      web_name: N.Jackson
+      player_type: 4
+      status: a
+      team_id: 8
+    - _id: player213198
+      id: 213198
+      first_name: Christopher
+      second_name: Nkunku
+      web_name: Nkunku
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player244851
+      id: 244851
+      first_name: Cole
+      second_name: Palmer
+      web_name: Palmer
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player457569
+      id: 457569
+      first_name: Đorđe
+      second_name: Petrović
+      web_name: Petrović
+      player_type: 1
+      status: a
+      team_id: 8
+    - _id: player551230
+      id: 551230
+      first_name: Renato
+      second_name: Palma Veiga
+      web_name: Renato Veiga
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player215059
+      id: 215059
+      first_name: Robert
+      second_name: Sánchez
+      web_name: Sánchez
+      player_type: 1
+      status: a
+      team_id: 8
+    - _id: player103955
+      id: 103955
+      first_name: Raheem
+      second_name: Sterling
+      web_name: Sterling
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player109646
+      id: 109646
+      first_name: Tosin
+      second_name: Adarabioyo
+      web_name: Tosin
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player503714
+      id: 503714
+      first_name: Lesley
+      second_name: Ugochukwu
+      web_name: Ugochukwu
+      player_type: 3
+      status: a
+      team_id: 8
+    - _id: player444463
+      id: 444463
+      first_name: Wesley
+      second_name: Fofana
+      web_name: W.Fofana
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player488464
+      id: 488464
+      first_name: Caleb
+      second_name: Wiley
+      web_name: Wiley
+      player_type: 2
+      status: a
+      team_id: 8
+    - _id: player508479
+      id: 508479
+      first_name: Filip
+      second_name: Jørgensen
+      web_name: Jørgensen
+      player_type: 1
+      status: a
+      team_id: 8
+    - _id: player466117
+      id: 466117
+      first_name: Naouirou
+      second_name: Ahamada
+      web_name: Ahamada
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player174874
+      id: 174874
+      first_name: Joachim
+      second_name: Andersen
+      web_name: Andersen
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player80146
+      id: 80146
+      first_name: Jordan
+      second_name: Ayew
+      web_name: J.Ayew
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player438464
+      id: 438464
+      first_name: Cheick
+      second_name: Doucouré
+      web_name: C.Doucouré
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player427623
+      id: 427623
+      first_name: Chris
+      second_name: Richards
+      web_name: C.Richards
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player515621
+      id: 515621
+      first_name: Chadi
+      second_name: Riad Dnanou
+      web_name: Chadi Riad
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player57328
+      id: 57328
+      first_name: Nathaniel
+      second_name: Clyne
+      web_name: Clyne
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player450535
+      id: 450535
+      first_name: Malcolm
+      second_name: Ebiowei
+      web_name: Ebiowei
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player199670
+      id: 199670
+      first_name: Odsonne
+      second_name: Edouard
+      web_name: Edouard
+      player_type: 4
+      status: a
+      team_id: 31
+    - _id: player232413
+      id: 232413
+      first_name: Eberechi
+      second_name: Eze
+      web_name: Eze
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player209036
+      id: 209036
+      first_name: Marc
+      second_name: Guéhi
+      web_name: Guéhi
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player172649
+      id: 172649
+      first_name: Dean
+      second_name: Henderson
+      web_name: Henderson
+      player_type: 1
+      status: a
+      team_id: 31
+    - _id: player156074
+      id: 156074
+      first_name: Rob
+      second_name: Holding
+      web_name: Holding
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player108413
+      id: 108413
+      first_name: Will
+      second_name: Hughes
+      web_name: Hughes
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player101982
+      id: 101982
+      first_name: Sam
+      second_name: Johnstone
+      web_name: Johnstone
+      player_type: 1
+      status: a
+      team_id: 31
+    - _id: player209400
+      id: 209400
+      first_name: Daichi
+      second_name: Kamada
+      web_name: Kamada
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player152551
+      id: 152551
+      first_name: Jefferson
+      second_name: Lerma Solís
+      web_name: Lerma
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player231747
+      id: 231747
+      first_name: Jean-Philippe
+      second_name: Mateta
+      web_name: Mateta
+      player_type: 4
+      status: a
+      team_id: 31
+    - _id: player536694
+      id: 536694
+      first_name: Matheus
+      second_name: França de Oliveira
+      web_name: M.França
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player169593
+      id: 169593
+      first_name: Remi
+      second_name: Matthews
+      web_name: Matthews
+      player_type: 1
+      status: a
+      team_id: 31
+    - _id: player244723
+      id: 244723
+      first_name: Tyrick
+      second_name: Mitchell
+      web_name: Mitchell
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player247348
+      id: 247348
+      first_name: Daniel
+      second_name: Muñoz
+      web_name: Muñoz
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player531989
+      id: 531989
+      first_name: David
+      second_name: Ozoh
+      web_name: Ozoh
+      player_type: 3
+      status: u
+      team_id: 31
+    - _id: player450542
+      id: 450542
+      first_name: Jesurun
+      second_name: Rak-Sakyi
+      web_name: Rak-Sakyi
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player86417
+      id: 86417
+      first_name: Jeffrey
+      second_name: Schlupp
+      web_name: Schlupp
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player55494
+      id: 55494
+      first_name: Joel
+      second_name: Ward
+      web_name: Ward
+      player_type: 2
+      status: a
+      team_id: 31
+    - _id: player496221
+      id: 496221
+      first_name: Adam
+      second_name: Wharton
+      web_name: Wharton
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player232185
+      id: 232185
+      first_name: Ismaïla
+      second_name: Sarr
+      web_name: I.Sarr
+      player_type: 3
+      status: a
+      team_id: 31
+    - _id: player121599
+      id: 121599
+      first_name: Abdoulaye
+      second_name: Doucouré
+      web_name: A.Doucoure
+      player_type: 3
+      status: a
+      team_id: 11
+    - _id: player486385
+      id: 486385
+      first_name: Norberto Bercique
+      second_name: Gomes Betuncal
+      web_name: Beto
+      player_type: 4
+      status: a
+      team_id: 11
+    - _id: player480455
+      id: 480455
+      first_name: Jarrad
+      second_name: Branthwaite
+      web_name: Branthwaite
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player177815
+      id: 177815
+      first_name: Dominic
+      second_name: Calvert-Lewin
+      web_name: Calvert-Lewin
+      player_type: 4
+      status: a
+      team_id: 11
+    - _id: player59949
+      id: 59949
+      first_name: Séamus
+      second_name: Coleman
+      web_name: Coleman
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player80801
+      id: 80801
+      first_name: Idrissa
+      second_name: Gueye
+      web_name: Gana
+      player_type: 3
+      status: a
+      team_id: 11
+    - _id: player232928
+      id: 232928
+      first_name: James
+      second_name: Garner
+      web_name: Garner
+      player_type: 3
+      status: a
+      team_id: 11
+    - _id: player221399
+      id: 221399
+      first_name: Jack
+      second_name: Harrison
+      web_name: Harrison
+      player_type: 3
+      status: a
+      team_id: 11
+    - _id: player194164
+      id: 194164
+      first_name: Mason
+      second_name: Holgate
+      web_name: Holgate
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player490094
+      id: 490094
+      first_name: Tim
+      second_name: Iroegbunam
+      web_name: Iroegbunam
+      player_type: 3
+      status: a
+      team_id: 11
+    - _id: player222627
+      id: 222627
+      first_name: João
+      second_name: Neves Virgínia
+      web_name: J.Virginia
+      player_type: 1
+      status: a
+      team_id: 11
+    - _id: player106611
+      id: 106611
+      first_name: Michael
+      second_name: Keane
+      web_name: Keane
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player115382
+      id: 115382
+      first_name: Neal
+      second_name: Maupay
+      web_name: Maupay
+      player_type: 4
+      status: a
+      team_id: 11
+    - _id: player433154
+      id: 433154
+      first_name: Dwight
+      second_name: McNeil
+      web_name: McNeil
+      player_type: 3
+      status: a
+      team_id: 11
+    - _id: player224967
+      id: 224967
+      first_name: Vitalii
+      second_name: Mykolenko
+      web_name: Mykolenko
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player440993
+      id: 440993
+      first_name: Iliman
+      second_name: Ndiaye
+      web_name: Ndiaye
+      player_type: 4
+      status: a
+      team_id: 11
+    - _id: player243571
+      id: 243571
+      first_name: Nathan
+      second_name: Patterson
+      web_name: Patterson
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player111234
+      id: 111234
+      first_name: Jordan
+      second_name: Pickford
+      web_name: Pickford
+      player_type: 1
+      status: a
+      team_id: 11
+    - _id: player17761
+      id: 17761
+      first_name: James
+      second_name: Tarkowski
+      web_name: Tarkowski
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player491012
+      id: 491012
+      first_name: Youssef
+      second_name: Ramalho Chermiti
+      web_name: Y. Chermiti
+      player_type: 4
+      status: a
+      team_id: 11
+    - _id: player18892
+      id: 18892
+      first_name: Ashley
+      second_name: Young
+      web_name: Young
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player463903
+      id: 463903
+      first_name: Jesper
+      second_name: Lindstrøm
+      web_name: Lindstrøm
+      player_type: 3
+      status: a
+      team_id: 11
+    - _id: player512462
+      id: 512462
+      first_name: Jake
+      second_name: O'Brien
+      web_name: O'Brien
+      player_type: 2
+      status: a
+      team_id: 11
+    - _id: player159533
+      id: 159533
+      first_name: Adama
+      second_name: Traoré
+      web_name: Adama
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player156689
+      id: 156689
+      first_name: Andreas
+      second_name: Hoelgebaum Pereira
+      web_name: Andreas
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player232892
+      id: 232892
+      first_name: Calvin
+      second_name: Bassey
+      web_name: Bassey
+      player_type: 2
+      status: a
+      team_id: 54
+    - _id: player428971
+      id: 428971
+      first_name: Steven
+      second_name: Benda
+      web_name: Benda
+      player_type: 1
+      status: a
+      team_id: 54
+    - _id: player76357
+      id: 76357
+      first_name: Tom
+      second_name: Cairney
+      web_name: Cairney
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player166477
+      id: 166477
+      first_name: Timothy
+      second_name: Castagne
+      web_name: Castagne
+      player_type: 2
+      status: a
+      team_id: 54
+    - _id: player219924
+      id: 219924
+      first_name: Issa
+      second_name: Diop
+      web_name: Diop
+      player_type: 2
+      status: a
+      team_id: 54
+    - _id: player515024
+      id: 515024
+      first_name: Luke
+      second_name: Harris
+      web_name: Harris
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player153133
+      id: 153133
+      first_name: Alex
+      second_name: Iwobi
+      web_name: Iwobi
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player80201
+      id: 80201
+      first_name: Bernd
+      second_name: Leno
+      web_name: Leno
+      player_type: 1
+      status: a
+      team_id: 54
+    - _id: player212314
+      id: 212314
+      first_name: Saša
+      second_name: Lukić
+      web_name: Lukić
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player120721
+      id: 120721
+      first_name: Kevin
+      second_name: Mbabu
+      web_name: Mbabu
+      player_type: 2
+      status: a
+      team_id: 54
+    - _id: player244042
+      id: 244042
+      first_name: Rodrigo
+      second_name: Muniz Carvalho
+      web_name: Muniz
+      player_type: 4
+      status: a
+      team_id: 54
+    - _id: player102057
+      id: 102057
+      first_name: Raúl
+      second_name: Jiménez
+      web_name: Raúl
+      player_type: 4
+      status: a
+      team_id: 54
+    - _id: player82514
+      id: 82514
+      first_name: Tim
+      second_name: Ream
+      web_name: Ream
+      player_type: 2
+      status: a
+      team_id: 54
+    - _id: player153366
+      id: 153366
+      first_name: Harrison
+      second_name: Reed
+      web_name: Reed
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player169528
+      id: 169528
+      first_name: Antonee
+      second_name: Robinson
+      web_name: Robinson
+      player_type: 2
+      status: a
+      team_id: 54
+    - _id: player490146
+      id: 490146
+      first_name: Jay
+      second_name: Stansfield
+      web_name: Stansfield
+      player_type: 4
+      status: a
+      team_id: 54
+    - _id: player167074
+      id: 167074
+      first_name: Kenny
+      second_name: Tete
+      web_name: Tete
+      player_type: 2
+      status: a
+      team_id: 54
+    - _id: player245824
+      id: 245824
+      first_name: Carlos Vinícius
+      second_name: Alves Morais
+      web_name: Vinicius
+      player_type: 4
+      status: a
+      team_id: 54
+    - _id: player153682
+      id: 153682
+      first_name: Harry
+      second_name: Wilson
+      web_name: Wilson
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player184349
+      id: 184349
+      first_name: Ryan
+      second_name: Sessegnon
+      web_name: Sessegnon
+      player_type: 2
+      status: a
+      team_id: 54
+    - _id: player462387
+      id: 462387
+      first_name: Ali
+      second_name: Al-Hamadi
+      web_name: Al-Hamadi
+      player_type: 4
+      status: a
+      team_id: 40
+    - _id: player517178
+      id: 517178
+      first_name: Elkan
+      second_name: Baggott
+      web_name: Baggott
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player173818
+      id: 173818
+      first_name: Nathan
+      second_name: Broadhead
+      web_name: Broadhead
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player122411
+      id: 122411
+      first_name: Cameron
+      second_name: Burgess
+      web_name: Burgess
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player149929
+      id: 149929
+      first_name: Wes
+      second_name: Burns
+      web_name: Burns
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player196411
+      id: 196411
+      first_name: Conor
+      second_name: Chaplin
+      web_name: Chaplin
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player232228
+      id: 232228
+      first_name: Harry
+      second_name: Clarke
+      web_name: Clarke
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player455084
+      id: 455084
+      first_name: Leif
+      second_name: Davis
+      web_name: Davis
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player463034
+      id: 463034
+      first_name: Liam
+      second_name: Delap
+      web_name: Delap
+      player_type: 4
+      status: a
+      team_id: 40
+    - _id: player214964
+      id: 214964
+      first_name: George
+      second_name: Edmundson
+      web_name: Edmundson
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player449429
+      id: 449429
+      first_name: Jacob
+      second_name: Greaves
+      web_name: Greaves
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player167191
+      id: 167191
+      first_name: Marcus
+      second_name: Myers-Harness
+      web_name: Harness
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player222625
+      id: 222625
+      first_name: George
+      second_name: Hirst
+      web_name: Hirst
+      player_type: 4
+      status: a
+      team_id: 40
+    - _id: player524180
+      id: 524180
+      first_name: Cameron
+      second_name: Humphreys
+      web_name: Humphreys
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player503301
+      id: 503301
+      first_name: Omari
+      second_name: Giraud-Hutchinson
+      web_name: Hutchinson
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player222018
+      id: 222018
+      first_name: Ben
+      second_name: Johnson
+      web_name: Johnson
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player94926
+      id: 94926
+      first_name: Freddie
+      second_name: Ladapo
+      web_name: Ladapo
+      player_type: 4
+      status: a
+      team_id: 40
+    - _id: player106606
+      id: 106606
+      first_name: Massimo
+      second_name: Luongo
+      web_name: Luongo
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player74944
+      id: 74944
+      first_name: Sam
+      second_name: Morsy
+      web_name: Morsy
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player246265
+      id: 246265
+      first_name: Corrie
+      second_name: Ndaba
+      web_name: Ndaba
+      player_type: 2
+      status: u
+      team_id: 40
+    - _id: player434044
+      id: 434044
+      first_name: Cieran
+      second_name: Slicker
+      web_name: Slicker
+      player_type: 1
+      status: a
+      team_id: 40
+    - _id: player231899
+      id: 231899
+      first_name: Jack
+      second_name: Taylor
+      web_name: Taylor
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player180804
+      id: 180804
+      first_name: Axel
+      second_name: Tuanzebe
+      web_name: Tuanzebe
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player108813
+      id: 108813
+      first_name: Christian
+      second_name: Walton
+      web_name: Walton
+      player_type: 1
+      status: a
+      team_id: 40
+    - _id: player220583
+      id: 220583
+      first_name: Luke
+      second_name: Woolfenden
+      web_name: Woolfenden
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player232917
+      id: 232917
+      first_name: Arijanet
+      second_name: Muric
+      web_name: Muric
+      player_type: 1
+      status: a
+      team_id: 40
+    - _id: player108053
+      id: 108053
+      first_name: Conor
+      second_name: Townsend
+      web_name: Townsend
+      player_type: 2
+      status: a
+      team_id: 40
+    - _id: player225902
+      id: 225902
+      first_name: Boubakary
+      second_name: Soumaré
+      web_name: B.Soumaré
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player461416
+      id: 461416
+      first_name: Tom
+      second_name: Cannon
+      web_name: Cannon
+      player_type: 4
+      status: a
+      team_id: 13
+    - _id: player197469
+      id: 197469
+      first_name: Hamza
+      second_name: Choudhury
+      web_name: Choudhury
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player94147
+      id: 94147
+      first_name: Conor
+      second_name: Coady
+      web_name: Coady
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player245419
+      id: 245419
+      first_name: Patson
+      second_name: Daka
+      web_name: Daka
+      player_type: 4
+      status: a
+      team_id: 13
+    - _id: player96994
+      id: 96994
+      first_name: Bobby
+      second_name: De Cordova-Reid
+      web_name: De Cordova-Reid
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player218218
+      id: 218218
+      first_name: Wout
+      second_name: Faes
+      web_name: Faes
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player549640
+      id: 549640
+      first_name: Michael
+      second_name: Golding
+      web_name: Golding
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player467189
+      id: 467189
+      first_name: Mads
+      second_name: Hermansen
+      web_name: Hermansen
+      player_type: 1
+      status: a
+      team_id: 13
+    - _id: player207270
+      id: 207270
+      first_name: Daniel
+      second_name: Iversen
+      web_name: Iversen
+      player_type: 1
+      status: a
+      team_id: 13
+    - _id: player220627
+      id: 220627
+      first_name: James
+      second_name: Justin
+      web_name: Justin
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player481510
+      id: 481510
+      first_name: Victor
+      second_name: Kristiansen
+      web_name: Kristiansen
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player461584
+      id: 461584
+      first_name: Wanya
+      second_name: Marçal-Madivádua
+      web_name: Marcal
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player154048
+      id: 154048
+      first_name: Stephy
+      second_name: Mavididi
+      web_name: Mavididi
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player461587
+      id: 461587
+      first_name: Kasey
+      second_name: McAteer
+      web_name: McAteer
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player203341
+      id: 203341
+      first_name: Wilfred
+      second_name: Ndidi
+      web_name: Ndidi
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player473341
+      id: 473341
+      first_name: Caleb
+      second_name: Okoli
+      web_name: Okoli
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player111931
+      id: 111931
+      first_name: Ricardo
+      second_name: Barbosa Pereira
+      web_name: Ricardo
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player194190
+      id: 194190
+      first_name: Harry
+      second_name: Souttar
+      web_name: Souttar
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player436680
+      id: 436680
+      first_name: Jakub
+      second_name: Stolarczyk
+      web_name: Stolarczyk
+      player_type: 1
+      status: i
+      team_id: 13
+    - _id: player244619
+      id: 244619
+      first_name: Luke
+      second_name: Thomas
+      web_name: Thomas
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player101668
+      id: 101668
+      first_name: Jamie
+      second_name: Vardy
+      web_name: Vardy
+      player_type: 4
+      status: a
+      team_id: 13
+    - _id: player93100
+      id: 93100
+      first_name: Jannik
+      second_name: Vestergaard
+      web_name: Vestergaard
+      player_type: 2
+      status: a
+      team_id: 13
+    - _id: player95463
+      id: 95463
+      first_name: Danny
+      second_name: Ward
+      web_name: Ward
+      player_type: 1
+      status: a
+      team_id: 13
+    - _id: player157668
+      id: 157668
+      first_name: Harry
+      second_name: Winks
+      web_name: Winks
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player531442
+      id: 531442
+      first_name: Abdul
+      second_name: Fatawu
+      web_name: A.Fatawu
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player116535
+      id: 116535
+      first_name: Alisson
+      second_name: Ramses Becker
+      web_name: A.Becker
+      player_type: 1
+      status: a
+      team_id: 14
+    - _id: player169187
+      id: 169187
+      first_name: Trent
+      second_name: Alexander-Arnold
+      web_name: Alexander-Arnold
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player535928
+      id: 535928
+      first_name: Stefan
+      second_name: Bajčetić Maquieira
+      web_name: Bajcetic
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player492777
+      id: 492777
+      first_name: Conor
+      second_name: Bradley
+      web_name: Bradley
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player244858
+      id: 244858
+      first_name: Fábio
+      second_name: Freitas Gouveia Carvalho
+      web_name: Carvalho
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player491970
+      id: 491970
+      first_name: Bobby
+      second_name: Clark
+      web_name: Clark
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player447203
+      id: 447203
+      first_name: Darwin
+      second_name: Núñez Ribeiro
+      web_name: Darwin
+      player_type: 4
+      status: a
+      team_id: 14
+    - _id: player194634
+      id: 194634
+      first_name: Diogo
+      second_name: Teixeira da Silva
+      web_name: Diogo J.
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player496208
+      id: 496208
+      first_name: Ben
+      second_name: Doak
+      web_name: Doak
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player444884
+      id: 444884
+      first_name: Harvey
+      second_name: Elliott
+      web_name: Elliott
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player158983
+      id: 158983
+      first_name: Endo
+      second_name: Wataru
+      web_name: Endo
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player243298
+      id: 243298
+      first_name: Cody
+      second_name: Gakpo
+      web_name: Gakpo
+      player_type: 4
+      status: a
+      team_id: 14
+    - _id: player171287
+      id: 171287
+      first_name: Joe
+      second_name: Gomez
+      web_name: Gomez
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player441266
+      id: 441266
+      first_name: Ryan
+      second_name: Gravenberch
+      web_name: Gravenberch
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player206915
+      id: 206915
+      first_name: Curtis
+      second_name: Jones
+      web_name: Jones
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player200720
+      id: 200720
+      first_name: Caoimhin
+      second_name: Kelleher
+      web_name: Kelleher
+      player_type: 1
+      status: a
+      team_id: 14
+    - _id: player204716
+      id: 204716
+      first_name: Ibrahima
+      second_name: Konaté
+      web_name: Konaté
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player244731
+      id: 244731
+      first_name: Luis
+      second_name: Díaz
+      web_name: Luis Díaz
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player118748
+      id: 118748
+      first_name: Mohamed
+      second_name: Salah
+      web_name: M.Salah
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player243016
+      id: 243016
+      first_name: Alexis
+      second_name: Mac Allister
+      web_name: Mac Allister
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player491501
+      id: 491501
+      first_name: James
+      second_name: McConnell
+      web_name: McConnell
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player440148
+      id: 440148
+      first_name: Tyler
+      second_name: Morton
+      web_name: Morton
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player197464
+      id: 197464
+      first_name: Nathaniel
+      second_name: Phillips
+      web_name: N.Phillips
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player441428
+      id: 441428
+      first_name: Jarell
+      second_name: Quansah
+      web_name: Quansah
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player219937
+      id: 219937
+      first_name: Rhys
+      second_name: Williams
+      web_name: R.Williams
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player122798
+      id: 122798
+      first_name: Andrew
+      second_name: Robertson
+      web_name: Robertson
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player424876
+      id: 424876
+      first_name: Dominik
+      second_name: Szoboszlai
+      web_name: Szoboszlai
+      player_type: 3
+      status: a
+      team_id: 14
+    - _id: player214285
+      id: 214285
+      first_name: Konstantinos
+      second_name: Tsimikas
+      web_name: Tsimikas
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player444765
+      id: 444765
+      first_name: Sepp
+      second_name: van den Berg
+      web_name: Van den Berg
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player97032
+      id: 97032
+      first_name: Virgil
+      second_name: van Dijk
+      web_name: Virgil
+      player_type: 2
+      status: a
+      team_id: 14
+    - _id: player211975
+      id: 211975
+      first_name: Manuel
+      second_name: Akanji
+      web_name: Akanji
+      player_type: 2
+      status: a
+      team_id: 43
+    - _id: player126184
+      id: 126184
+      first_name: Nathan
+      second_name: Aké
+      web_name: Aké
+      player_type: 2
+      status: a
+      team_id: 43
+    - _id: player165809
+      id: 165809
+      first_name: Bernardo
+      second_name: Veiga de Carvalho e Silva
+      web_name: Bernardo
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player477555
+      id: 477555
+      first_name: Oscar
+      second_name: Bobb
+      web_name: Bobb
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player17601
+      id: 17601
+      first_name: Scott
+      second_name: Carson
+      web_name: Carson
+      player_type: 1
+      status: a
+      team_id: 43
+    - _id: player61366
+      id: 61366
+      first_name: Kevin
+      second_name: De Bruyne
+      web_name: De Bruyne
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player248875
+      id: 248875
+      first_name: Jérémy
+      second_name: Doku
+      web_name: Doku
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player121160
+      id: 121160
+      first_name: Ederson
+      second_name: Santana de Moraes
+      web_name: Ederson M.
+      player_type: 1
+      status: a
+      team_id: 43
+    - _id: player209244
+      id: 209244
+      first_name: Phil
+      second_name: Foden
+      web_name: Foden
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player114283
+      id: 114283
+      first_name: Jack
+      second_name: Grealish
+      web_name: Grealish
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player477424
+      id: 477424
+      first_name: Joško
+      second_name: Gvardiol
+      web_name: Gvardiol
+      player_type: 2
+      status: a
+      team_id: 43
+    - _id: player223094
+      id: 223094
+      first_name: Erling
+      second_name: Haaland
+      web_name: Haaland
+      player_type: 4
+      status: a
+      team_id: 43
+    - _id: player461358
+      id: 461358
+      first_name: Julián
+      second_name: Álvarez
+      web_name: J.Alvarez
+      player_type: 4
+      status: a
+      team_id: 43
+    - _id: player121145
+      id: 121145
+      first_name: João
+      second_name: Cavaco Cancelo
+      web_name: João Cancelo
+      player_type: 2
+      status: a
+      team_id: 43
+    - _id: player91651
+      id: 91651
+      first_name: Mateo
+      second_name: Kovačić
+      web_name: Kovačić
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player477064
+      id: 477064
+      first_name: Rico
+      second_name: Lewis
+      web_name: Lewis
+      player_type: 2
+      status: a
+      team_id: 43
+    - _id: player465351
+      id: 465351
+      first_name: Matheus Luiz
+      second_name: Nunes
+      web_name: Matheus N.
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player432714
+      id: 432714
+      first_name: James
+      second_name: McAtee
+      web_name: McAtee
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player88248
+      id: 88248
+      first_name: Stefan
+      second_name: Ortega Moreno
+      web_name: Ortega Moreno
+      player_type: 1
+      status: a
+      team_id: 43
+    - _id: player155405
+      id: 155405
+      first_name: Kalvin
+      second_name: Phillips
+      web_name: Phillips
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player220566
+      id: 220566
+      first_name: Rodrigo 'Rodri'
+      second_name: Hernandez
+      web_name: Rodrigo
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player171314
+      id: 171314
+      first_name: Rúben
+      second_name: Gato Alves Dias
+      web_name: Rúben
+      player_type: 2
+      status: a
+      team_id: 43
+    - _id: player97299
+      id: 97299
+      first_name: John
+      second_name: Stones
+      web_name: Stones
+      player_type: 2
+      status: a
+      team_id: 43
+    - _id: player58621
+      id: 58621
+      first_name: Kyle
+      second_name: Walker
+      web_name: Walker
+      player_type: 2
+      status: a
+      team_id: 43
+    - _id: player510281
+      id: 510281
+      first_name: Sávio 'Savinho'
+      second_name: Moreira de Oliveira
+      web_name: Sávio
+      player_type: 3
+      status: a
+      team_id: 43
+    - _id: player493250
+      id: 493250
+      first_name: Amad
+      second_name: Diallo
+      web_name: Amad
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player467169
+      id: 467169
+      first_name: Antony Matheus
+      second_name: dos Santos
+      web_name: Antony
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player141746
+      id: 141746
+      first_name: Bruno
+      second_name: Borges Fernandes
+      web_name: B.Fernandes
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player451302
+      id: 451302
+      first_name: Altay
+      second_name: Bayindir
+      web_name: Bayindir
+      player_type: 1
+      status: a
+      team_id: 1
+    - _id: player61256
+      id: 61256
+      first_name: Carlos Henrique
+      second_name: Casimiro
+      web_name: Casemiro
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player216051
+      id: 216051
+      first_name: Diogo
+      second_name: Dalot Teixeira
+      web_name: Dalot
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player80607
+      id: 80607
+      first_name: Christian
+      second_name: Eriksen
+      web_name: Eriksen
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player37642
+      id: 37642
+      first_name: Jonny
+      second_name: Evans
+      web_name: Evans
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player493105
+      id: 493105
+      first_name: Alejandro
+      second_name: Garnacho
+      web_name: Garnacho
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player465527
+      id: 465527
+      first_name: Hannibal
+      second_name: Mejbri
+      web_name: Hannibal
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player21205
+      id: 21205
+      first_name: Tom
+      second_name: Heaton
+      web_name: Heaton
+      player_type: 1
+      status: a
+      team_id: 1
+    - _id: player497894
+      id: 497894
+      first_name: Rasmus
+      second_name: Højlund
+      web_name: Højlund
+      player_type: 4
+      status: a
+      team_id: 1
+    - _id: player184667
+      id: 184667
+      first_name: Victor
+      second_name: Lindelöf
+      web_name: Lindelof
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player95658
+      id: 95658
+      first_name: Harry
+      second_name: Maguire
+      web_name: Maguire
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player516895
+      id: 516895
+      first_name: Kobbie
+      second_name: Mainoo
+      web_name: Mainoo
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player222690
+      id: 222690
+      first_name: Tyrell
+      second_name: Malacia
+      web_name: Malacia
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player221820
+      id: 221820
+      first_name: Lisandro
+      second_name: Martínez
+      web_name: Martinez
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player195851
+      id: 195851
+      first_name: Scott
+      second_name: McTominay
+      web_name: McTominay
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player184341
+      id: 184341
+      first_name: Mason
+      second_name: Mount
+      web_name: Mount
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player202641
+      id: 202641
+      first_name: André
+      second_name: Onana
+      web_name: Onana
+      player_type: 1
+      status: a
+      team_id: 1
+    - _id: player488404
+      id: 488404
+      first_name: Facundo
+      second_name: Pellistri Rebollo
+      web_name: Pellistri
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player176297
+      id: 176297
+      first_name: Marcus
+      second_name: Rashford
+      web_name: Rashford
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player209243
+      id: 209243
+      first_name: Jadon
+      second_name: Sancho
+      web_name: Sancho
+      player_type: 3
+      status: a
+      team_id: 1
+    - _id: player106760
+      id: 106760
+      first_name: Luke
+      second_name: Shaw
+      web_name: Shaw
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player214590
+      id: 214590
+      first_name: Aaron
+      second_name: Wan-Bissaka
+      web_name: Wan-Bissaka
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player458249
+      id: 458249
+      first_name: Joshua
+      second_name: Zirkzee
+      web_name: Zirkzee
+      player_type: 4
+      status: a
+      team_id: 1
+    - _id: player550864
+      id: 550864
+      first_name: Leny
+      second_name: Yoro
+      web_name: Yoro
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player545477
+      id: 545477
+      first_name: Alex
+      second_name: Murphy
+      web_name: A.Murphy
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player179018
+      id: 179018
+      first_name: Miguel
+      second_name: Almirón Rejala
+      web_name: Almirón
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player201666
+      id: 201666
+      first_name: Harvey
+      second_name: Barnes
+      web_name: Barnes
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player220237
+      id: 220237
+      first_name: Sven
+      second_name: Botman
+      web_name: Botman
+      player_type: 2
+      status: i
+      team_id: 4
+    - _id: player208706
+      id: 208706
+      first_name: Bruno
+      second_name: Guimarães Rodriguez Moura
+      web_name: Bruno G.
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player78916
+      id: 78916
+      first_name: Dan
+      second_name: Burn
+      web_name: Burn
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player67089
+      id: 67089
+      first_name: Martin
+      second_name: Dúbravka
+      web_name: Dúbravka
+      player_type: 1
+      status: a
+      team_id: 4
+    - _id: player90105
+      id: 90105
+      first_name: Ryan
+      second_name: Fraser
+      web_name: Fraser
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player232826
+      id: 232826
+      first_name: Anthony
+      second_name: Gordon
+      web_name: Gordon
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player487838
+      id: 487838
+      first_name: Lewis
+      second_name: Hall
+      web_name: Hall
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player153127
+      id: 153127
+      first_name: Isaac
+      second_name: Hayden
+      web_name: Hayden
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player219168
+      id: 219168
+      first_name: Alexander
+      second_name: Isak
+      web_name: Isak
+      player_type: 4
+      status: a
+      team_id: 4
+    - _id: player114243
+      id: 114243
+      first_name: Jacob
+      second_name: Murphy
+      web_name: J.Murphy
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player180974
+      id: 180974
+      first_name: Joelinton Cássio
+      second_name: Apolinário de Lira
+      web_name: Joelinton
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player235530
+      id: 235530
+      first_name: Lloyd
+      second_name: Kelly
+      web_name: Kelly
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player111773
+      id: 111773
+      first_name: Emil
+      second_name: Krafth
+      web_name: Krafth
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player564510
+      id: 564510
+      first_name: Garang
+      second_name: Kuol
+      web_name: Kuol
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player101148
+      id: 101148
+      first_name: Jamaal
+      second_name: Lascelles
+      web_name: Lascelles
+      player_type: 2
+      status: i
+      team_id: 4
+    - _id: player194799
+      id: 194799
+      first_name: Jamal
+      second_name: Lewis
+      web_name: Lewis
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player441191
+      id: 441191
+      first_name: Tino
+      second_name: Livramento
+      web_name: Livramento
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player180135
+      id: 180135
+      first_name: Sean
+      second_name: Longstaff
+      web_name: Longstaff
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player547719
+      id: 547719
+      first_name: Lewis
+      second_name: Miley
+      web_name: Miley
+      player_type: 3
+      status: i
+      team_id: 4
+    - _id: player111452
+      id: 111452
+      first_name: Odysseas
+      second_name: Vlachodimos
+      web_name: Odysseas
+      player_type: 1
+      status: a
+      team_id: 4
+    - _id: player98747
+      id: 98747
+      first_name: Nick
+      second_name: Pope
+      web_name: Pope
+      player_type: 1
+      status: a
+      team_id: 4
+    - _id: player19236
+      id: 19236
+      first_name: John
+      second_name: Ruddy
+      web_name: Ruddy
+      player_type: 1
+      status: a
+      team_id: 4
+    - _id: player119471
+      id: 119471
+      first_name: Fabian
+      second_name: Schär
+      web_name: Schär
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player169359
+      id: 169359
+      first_name: Matt
+      second_name: Targett
+      web_name: Targett
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player432422
+      id: 432422
+      first_name: Sandro
+      second_name: Tonali
+      web_name: Tonali
+      player_type: 3
+      status: s
+      team_id: 4
+    - _id: player77794
+      id: 77794
+      first_name: Kieran
+      second_name: Trippier
+      web_name: Trippier
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player461484
+      id: 461484
+      first_name: Joe
+      second_name: White
+      web_name: White
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player200089
+      id: 200089
+      first_name: Joe
+      second_name: Willock
+      web_name: Willock
+      player_type: 3
+      status: a
+      team_id: 4
+    - _id: player75115
+      id: 75115
+      first_name: Callum
+      second_name: Wilson
+      web_name: Wilson
+      player_type: 4
+      status: a
+      team_id: 4
+    - _id: player578512
+      id: 578512
+      first_name: Miodrag
+      second_name: Pivaš
+      web_name: Pivas
+      player_type: 2
+      status: a
+      team_id: 4
+    - _id: player159506
+      id: 159506
+      first_name: Ola
+      second_name: Aina
+      web_name: Aina
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player215379
+      id: 215379
+      first_name: Elliot
+      second_name: Anderson
+      web_name: Anderson
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player210156
+      id: 210156
+      first_name: Taiwo
+      second_name: Awoniyi
+      web_name: Awoniyi
+      player_type: 4
+      status: a
+      team_id: 17
+    - _id: player90585
+      id: 90585
+      first_name: Willy
+      second_name: Boly
+      web_name: Boly
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player245830
+      id: 245830
+      first_name: Josh
+      second_name: Bowler
+      web_name: Bowler
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player475123
+      id: 475123
+      first_name: Carlos Miguel
+      second_name: dos Santos Pereira
+      web_name: C.Miguel
+      player_type: 1
+      status: a
+      team_id: 17
+    - _id: player569014
+      id: 569014
+      first_name: Eric
+      second_name: da Silva Moreira
+      web_name: Da Silva Moreira
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player513046
+      id: 513046
+      first_name: Danilo
+      second_name: dos Santos de Oliveira
+      web_name: Danilo
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player230251
+      id: 230251
+      first_name: Emmanuel
+      second_name: Dennis
+      web_name: Dennis
+      player_type: 4
+      status: a
+      team_id: 17
+    - _id: player250199
+      id: 250199
+      first_name: Nicolás
+      second_name: Domínguez
+      web_name: Dominguez
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player449434
+      id: 449434
+      first_name: Anthony
+      second_name: Elanga
+      web_name: Elanga
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player222531
+      id: 222531
+      first_name: Morgan
+      second_name: Gibbs-White
+      web_name: Gibbs-White
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player209046
+      id: 209046
+      first_name: Callum
+      second_name: Hudson-Odoi
+      web_name: Hudson-Odoi
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player244930
+      id: 244930
+      first_name: Alex
+      second_name: Mighten
+      web_name: Mighten
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player575476
+      id: 575476
+      first_name: Murillo
+      second_name: Santiago Costa dos Santos
+      web_name: Murillo
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player215136
+      id: 215136
+      first_name: Neco
+      second_name: Williams
+      web_name: N.Williams
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player204822
+      id: 204822
+      first_name: Omar
+      second_name: Richards
+      web_name: O.Richards
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player243345
+      id: 243345
+      first_name: Lewis
+      second_name: O'Brien
+      web_name: O'Brien
+      player_type: 3
+      status: u
+      team_id: 17
+    - _id: player466404
+      id: 466404
+      first_name: Andrew
+      second_name: Omobamidele
+      web_name: Omobamidele
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player209035
+      id: 209035
+      first_name: Jonathan
+      second_name: Panzo
+      web_name: Panzo
+      player_type: 2
+      status: u
+      team_id: 17
+    - _id: player210462
+      id: 210462
+      first_name: Ibrahim
+      second_name: Sangaré
+      web_name: Sangaré
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player85633
+      id: 85633
+      first_name: Matz
+      second_name: Sels
+      web_name: Sels
+      player_type: 1
+      status: a
+      team_id: 17
+    - _id: player114241
+      id: 114241
+      first_name: Harry
+      second_name: Toffolo
+      web_name: Toffolo
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player224068
+      id: 224068
+      first_name: Matt
+      second_name: Turner
+      web_name: Turner
+      player_type: 1
+      status: a
+      team_id: 17
+    - _id: player201440
+      id: 201440
+      first_name: Hwang
+      second_name: Ui-jo
+      web_name: Ui-jo
+      player_type: 4
+      status: a
+      team_id: 17
+    - _id: player60689
+      id: 60689
+      first_name: Chris
+      second_name: Wood
+      web_name: Wood
+      player_type: 4
+      status: a
+      team_id: 17
+    - _id: player208912
+      id: 208912
+      first_name: Joe
+      second_name: Worrall
+      web_name: Worrall
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player204968
+      id: 204968
+      first_name: Ryan
+      second_name: Yates
+      web_name: Yates
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player227444
+      id: 227444
+      first_name: Nikola
+      second_name: Milenković
+      web_name: Milenković
+      player_type: 2
+      status: a
+      team_id: 17
+    - _id: player502697
+      id: 502697
+      first_name: Carlos
+      second_name: Alcaraz Durán
+      web_name: Alcaraz
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player499724
+      id: 499724
+      first_name: Samuel
+      second_name: Amo-Ameyaw
+      web_name: Amo-Ameyaw
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player193204
+      id: 193204
+      first_name: Joe
+      second_name: Aribo
+      web_name: Aribo
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player155511
+      id: 155511
+      first_name: Adam
+      second_name: Armstrong
+      web_name: Armstrong
+      player_type: 4
+      status: a
+      team_id: 20
+    - _id: player456350
+      id: 456350
+      first_name: Gavin
+      second_name: Bazunu
+      web_name: Bazunu
+      player_type: 1
+      status: a
+      team_id: 20
+    - _id: player171771
+      id: 171771
+      first_name: Jan
+      second_name: Bednarek
+      web_name: Bednarek
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player477386
+      id: 477386
+      first_name: Armel
+      second_name: Bella-Kotchap
+      web_name: Bella-Kotchap
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player184386
+      id: 184386
+      first_name: James
+      second_name: Bree
+      web_name: Bree
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player463210
+      id: 463210
+      first_name: Shea
+      second_name: Charles
+      web_name: Charles
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player490503
+      id: 490503
+      first_name: Samuel
+      second_name: Edozie
+      web_name: Edozie
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player500926
+      id: 500926
+      first_name: Ronnie
+      second_name: Edwards
+      web_name: Edwards
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player245719
+      id: 245719
+      first_name: Taylor
+      second_name: Harwood-Bellis
+      web_name: Harwood-Bellis
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player504783
+      id: 504783
+      first_name: Kamaldeen
+      second_name: Sulemana
+      web_name: Kamaldeen
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player39155
+      id: 39155
+      first_name: Adam
+      second_name: Lallana
+      web_name: Lallana
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player515571
+      id: 515571
+      first_name: Juan
+      second_name: Larios López
+      web_name: Larios
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player200428
+      id: 200428
+      first_name: Mateusz
+      second_name: Lis
+      web_name: Lis
+      player_type: 1
+      status: a
+      team_id: 20
+    - _id: player167888
+      id: 167888
+      first_name: Joe
+      second_name: Lumley
+      web_name: Lumley
+      player_type: 1
+      status: a
+      team_id: 20
+    - _id: player204863
+      id: 204863
+      first_name: Ryan
+      second_name: Manning
+      web_name: Manning
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player476888
+      id: 476888
+      first_name: Sékou
+      second_name: Mara
+      web_name: Mara
+      player_type: 4
+      status: a
+      team_id: 20
+    - _id: player58376
+      id: 58376
+      first_name: Alex
+      second_name: McCarthy
+      web_name: McCarthy
+      player_type: 1
+      status: a
+      team_id: 20
+    - _id: player147611
+      id: 147611
+      first_name: Paul
+      second_name: Onuachu
+      web_name: Onuachu
+      player_type: 4
+      status: a
+      team_id: 20
+    - _id: player214466
+      id: 214466
+      first_name: Will
+      second_name: Smallbone
+      web_name: Smallbone
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player88900
+      id: 88900
+      first_name: Jack
+      second_name: Stephens
+      web_name: Stephens
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player230348
+      id: 230348
+      first_name: Ross
+      second_name: Stewart
+      web_name: Stewart
+      player_type: 4
+      status: a
+      team_id: 20
+    - _id: player219279
+      id: 219279
+      first_name: Sugawara
+      second_name: Yukinari
+      web_name: Sugawara
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player103914
+      id: 103914
+      first_name: Charlie
+      second_name: Taylor
+      web_name: Taylor
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player158534
+      id: 158534
+      first_name: Kyle
+      second_name: Walker-Peters
+      web_name: Walker-Peters
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player244845
+      id: 244845
+      first_name: Nathan
+      second_name: Wood-Gordon
+      web_name: Wood
+      player_type: 2
+      status: a
+      team_id: 20
+    - _id: player220585
+      id: 220585
+      first_name: Flynn
+      second_name: Downes
+      web_name: Downes
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player204814
+      id: 204814
+      first_name: Ben
+      second_name: Brereton Díaz
+      web_name: Brereton Díaz
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player548308
+      id: 548308
+      first_name: Ashley
+      second_name: Phillips
+      web_name: A.Phillips
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player214572
+      id: 214572
+      first_name: Brandon
+      second_name: Austin
+      web_name: Austin
+      player_type: 1
+      status: a
+      team_id: 6
+    - _id: player202993
+      id: 202993
+      first_name: Rodrigo
+      second_name: Bentancur
+      web_name: Bentancur
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player570526
+      id: 570526
+      first_name: Lucas
+      second_name: Bergvall
+      web_name: Bergvall
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player227127
+      id: 227127
+      first_name: Yves
+      second_name: Bissouma
+      web_name: Bissouma
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player436234
+      id: 436234
+      first_name: Bryan
+      second_name: Gil Salvatierra
+      web_name: Bryan
+      player_type: 3
+      status: u
+      team_id: 6
+    - _id: player115556
+      id: 115556
+      first_name: Ben
+      second_name: Davies
+      web_name: Davies
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player496179
+      id: 496179
+      first_name: Alfie
+      second_name: Devine
+      web_name: Devine
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player493125
+      id: 493125
+      first_name: Radu
+      second_name: Drăgușin
+      web_name: Dragusin
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player241157
+      id: 241157
+      first_name: Emerson
+      second_name: Leite de Souza Junior
+      web_name: E.Royal
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player40383
+      id: 40383
+      first_name: Fraser
+      second_name: Forster
+      web_name: Forster
+      player_type: 1
+      status: a
+      team_id: 6
+    - _id: player547701
+      id: 547701
+      first_name: Archie
+      second_name: Gray
+      web_name: Gray
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player132015
+      id: 132015
+      first_name: Pierre-Emile
+      second_name: Højbjerg
+      web_name: Højbjerg
+      player_type: 3
+      status: u
+      team_id: 6
+    - _id: player242898
+      id: 242898
+      first_name: Brennan
+      second_name: Johnson
+      web_name: Johnson
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player445044
+      id: 445044
+      first_name: Dejan
+      second_name: Kulusevski
+      web_name: Kulusevski
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player200826
+      id: 200826
+      first_name: Giovani
+      second_name: Lo Celso
+      web_name: Lo Celso
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player172780
+      id: 172780
+      first_name: James
+      second_name: Maddison
+      web_name: Maddison
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player441164
+      id: 441164
+      first_name: Pedro
+      second_name: Porro
+      web_name: Pedro Porro
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player199249
+      id: 199249
+      first_name: Sergio
+      second_name: Reguilón
+      web_name: Reguilón
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player212319
+      id: 212319
+      first_name: Richarlison
+      second_name: de Andrade
+      web_name: Richarlison
+      player_type: 4
+      status: a
+      team_id: 6
+    - _id: player221632
+      id: 221632
+      first_name: Cristian
+      second_name: Romero
+      web_name: Romero
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player482442
+      id: 482442
+      first_name: Pape Matar
+      second_name: Sarr
+      web_name: P.Sarr
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player490145
+      id: 490145
+      first_name: Dane
+      second_name: Scarlett
+      web_name: Scarlett
+      player_type: 4
+      status: a
+      team_id: 6
+    - _id: player209042
+      id: 209042
+      first_name: Oliver
+      second_name: Skipp
+      web_name: Skipp
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player235674
+      id: 235674
+      first_name: Manor
+      second_name: Solomon
+      web_name: Solomon
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player85971
+      id: 85971
+      first_name: Son
+      second_name: Heung-min
+      web_name: Son
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player232859
+      id: 232859
+      first_name: Djed
+      second_name: Spence
+      web_name: Spence
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player487053
+      id: 487053
+      first_name: Destiny
+      second_name: Udogie
+      web_name: Udogie
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player491279
+      id: 491279
+      first_name: Micky
+      second_name: van de Ven
+      web_name: Van de Ven
+      player_type: 2
+      status: a
+      team_id: 6
+    - _id: player536908
+      id: 536908
+      first_name: Alejo
+      second_name: Véliz
+      web_name: Veliz
+      player_type: 4
+      status: a
+      team_id: 6
+    - _id: player184254
+      id: 184254
+      first_name: Guglielmo
+      second_name: Vicario
+      web_name: Vicario
+      player_type: 1
+      status: a
+      team_id: 6
+    - _id: player165153
+      id: 165153
+      first_name: Timo
+      second_name: Werner
+      web_name: Werner
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player175941
+      id: 175941
+      first_name: Alfie
+      second_name: Whiteman
+      web_name: Whiteman
+      player_type: 1
+      status: a
+      team_id: 6
+    - _id: player213999
+      id: 213999
+      first_name: Edson
+      second_name: Álvarez Velázquez
+      web_name: Álvarez
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player57531
+      id: 57531
+      first_name: Michail
+      second_name: Antonio
+      web_name: Antonio
+      player_type: 4
+      status: a
+      team_id: 21
+    - _id: player84182
+      id: 84182
+      first_name: Alphonse
+      second_name: Areola
+      web_name: Areola
+      player_type: 1
+      status: a
+      team_id: 21
+    - _id: player178186
+      id: 178186
+      first_name: Jarrod
+      second_name: Bowen
+      web_name: Bowen
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player149519
+      id: 149519
+      first_name: Maxwel
+      second_name: Cornet
+      web_name: Cornet
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player164555
+      id: 164555
+      first_name: Vladimír
+      second_name: Coufal
+      web_name: Coufal
+      player_type: 2
+      status: a
+      team_id: 21
+    - _id: player55459
+      id: 55459
+      first_name: Aaron
+      second_name: Cresswell
+      web_name: Cresswell
+      player_type: 2
+      status: a
+      team_id: 21
+    - _id: player490885
+      id: 490885
+      first_name: George
+      second_name: Earthy
+      web_name: Earthy
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player109533
+      id: 109533
+      first_name: Emerson
+      second_name: Palmieri dos Santos
+      web_name: Emerson
+      player_type: 2
+      status: a
+      team_id: 21
+    - _id: player37096
+      id: 37096
+      first_name: Łukasz
+      second_name: Fabiański
+      web_name: Fabianski
+      player_type: 1
+      status: a
+      team_id: 21
+    - _id: player82143
+      id: 82143
+      first_name: Wes
+      second_name: Foderingham
+      web_name: Foderingham
+      player_type: 1
+      status: a
+      team_id: 21
+    - _id: player84939
+      id: 84939
+      first_name: Danny
+      second_name: Ings
+      web_name: Ings
+      player_type: 4
+      status: a
+      team_id: 21
+    - _id: player214048
+      id: 214048
+      first_name: Max
+      second_name: Kilman
+      web_name: Kilman
+      player_type: 2
+      status: a
+      team_id: 21
+    - _id: player460842
+      id: 460842
+      first_name: Mohammed
+      second_name: Kudus
+      web_name: Kudus
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player577114
+      id: 577114
+      first_name: Luis Guilherme
+      second_name: Lira dos Santos
+      web_name: L.Guilherme
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player224024
+      id: 224024
+      first_name: Lucas
+      second_name: Tolentino Coelho de Lima
+      web_name: L.Paquetá
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player233963
+      id: 233963
+      first_name: Konstantinos
+      second_name: Mavropanos
+      web_name: Mavropanos
+      player_type: 2
+      status: a
+      team_id: 21
+    - _id: player210494
+      id: 210494
+      first_name: Nayef
+      second_name: Aguerd
+      web_name: N.Aguerd
+      player_type: 2
+      status: a
+      team_id: 21
+    - _id: player215439
+      id: 215439
+      first_name: Tomáš
+      second_name: Souček
+      web_name: Souček
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player101178
+      id: 101178
+      first_name: James
+      second_name: Ward-Prowse
+      web_name: Ward-Prowse
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player103192
+      id: 103192
+      first_name: Kurt
+      second_name: Zouma
+      web_name: Zouma
+      player_type: 2
+      status: a
+      team_id: 21
+    - _id: player229384
+      id: 229384
+      first_name: Andy
+      second_name: Irving
+      web_name: Irving
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player448514
+      id: 448514
+      first_name: Rayan
+      second_name: Aït-Nouri
+      web_name: Aït-Nouri
+      player_type: 2
+      status: a
+      team_id: 39
+    - _id: player476502
+      id: 476502
+      first_name: Boubacar
+      second_name: Traoré
+      web_name: B.Traore
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player231057
+      id: 231057
+      first_name: Jean-Ricner
+      second_name: Bellegarde
+      web_name: Bellegarde
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player79602
+      id: 79602
+      first_name: Daniel
+      second_name: Bentley
+      web_name: Bentley
+      player_type: 1
+      status: a
+      team_id: 39
+    - _id: player510363
+      id: 510363
+      first_name: Francisco Jorge
+      second_name: Tomás Oliveira
+      web_name: Chiquinho
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player497606
+      id: 497606
+      first_name: Tawanda
+      second_name: Chirewa
+      web_name: Chirewa
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player589507
+      id: 589507
+      first_name: Leon
+      second_name: Chiwome
+      web_name: Chiwome
+      player_type: 4
+      status: a
+      team_id: 39
+    - _id: player245923
+      id: 245923
+      first_name: Luke
+      second_name: Cundle
+      web_name: Cundle
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player430871
+      id: 430871
+      first_name: Matheus
+      second_name: Santos Carneiro Da Cunha
+      web_name: Cunha
+      player_type: 4
+      status: a
+      team_id: 39
+    - _id: player60232
+      id: 60232
+      first_name: Craig
+      second_name: Dawson
+      web_name: Dawson
+      player_type: 2
+      status: a
+      team_id: 39
+    - _id: player87835
+      id: 87835
+      first_name: Matt
+      second_name: Doherty
+      web_name: Doherty
+      player_type: 2
+      status: a
+      team_id: 39
+    - _id: player220394
+      id: 220394
+      first_name: Tommy
+      second_name: Doyle
+      web_name: Doyle
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player449988
+      id: 449988
+      first_name: Fábio
+      second_name: Silva
+      web_name: Fábio Silva
+      player_type: 4
+      status: a
+      team_id: 39
+    - _id: player531363
+      id: 531363
+      first_name: Nathan
+      second_name: Fraser
+      web_name: Fraser
+      player_type: 4
+      status: a
+      team_id: 39
+    - _id: player593001
+      id: 593001
+      first_name: Enso
+      second_name: González
+      web_name: Gonzalez
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player181284
+      id: 181284
+      first_name: Gonçalo Manuel
+      second_name: Ganchinho Guedes
+      web_name: Guedes
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player490721
+      id: 490721
+      first_name: Hugo
+      second_name: Bueno López
+      web_name: H.Bueno
+      player_type: 2
+      status: a
+      team_id: 39
+    - _id: player184754
+      id: 184754
+      first_name: Hwang
+      second_name: Hee-chan
+      web_name: Hee Chan
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player240299
+      id: 240299
+      first_name: Joe
+      second_name: Hodge
+      web_name: Hodge
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player441271
+      id: 441271
+      first_name: Ki-Jana
+      second_name: Hoever
+      web_name: Hoever
+      player_type: 2
+      status: a
+      team_id: 39
+    - _id: player448089
+      id: 448089
+      first_name: João Victor
+      second_name: Gomes da Silva
+      web_name: J.Gomes
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player149065
+      id: 149065
+      first_name: José
+      second_name: Malheiro de Sá
+      web_name: José Sá
+      player_type: 1
+      status: a
+      team_id: 39
+    - _id: player429414
+      id: 429414
+      first_name: Saša
+      second_name: Kalajdžić
+      web_name: Kalajdžić
+      player_type: 4
+      status: a
+      team_id: 39
+    - _id: player138001
+      id: 138001
+      first_name: Tom
+      second_name: King
+      web_name: King
+      player_type: 1
+      status: a
+      team_id: 39
+    - _id: player151086
+      id: 151086
+      first_name: Mario
+      second_name: Lemina
+      web_name: Mario Jr.
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player501837
+      id: 501837
+      first_name: Yerson
+      second_name: Mosquera
+      web_name: Mosquera
+      player_type: 2
+      status: a
+      team_id: 39
+    - _id: player200402
+      id: 200402
+      first_name: Nélson
+      second_name: Cabral Semedo
+      web_name: N.Semedo
+      player_type: 2
+      status: s
+      team_id: 39
+    - _id: player247632
+      id: 247632
+      first_name: Pedro
+      second_name: Lomba Neto
+      web_name: Neto
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player641221
+      id: 641221
+      first_name: Pedro
+      second_name: Cardoso de Lima
+      web_name: Pedro Lima
+      player_type: 2
+      status: a
+      team_id: 39
+    - _id: player200600
+      id: 200600
+      first_name: Daniel
+      second_name: Castelo Podence
+      web_name: Podence
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player483081
+      id: 483081
+      first_name: Rodrigo
+      second_name: Martins Gomes
+      web_name: R.Gomes
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player231480
+      id: 231480
+      first_name: Santiago
+      second_name: Bueno
+      web_name: S.Bueno
+      player_type: 2
+      status: a
+      team_id: 39
+    - _id: player88484
+      id: 88484
+      first_name: Pablo
+      second_name: Sarabia
+      web_name: Sarabia
+      player_type: 3
+      status: a
+      team_id: 39
+    - _id: player247412
+      id: 247412
+      first_name: Jørgen
+      second_name: Strand Larsen
+      web_name: Strand Larsen
+      player_type: 4
+      status: a
+      team_id: 39
+    - _id: player510362
+      id: 510362
+      first_name: Toti António
+      second_name: Gomes
+      web_name: Toti
+      player_type: 2
+      status: a
+      team_id: 39
