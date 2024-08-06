@@ -1,7 +1,8 @@
 - model: Fixture
   rows:
-    - _id: fixture1
-      id: 1
+    - _id: fixture2444470
+      id: 2444470
+      fpl_tracker_id: 1
       season_id: 1
       game_week_id: 1
       home_team_id: 1
@@ -16,8 +17,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture4
-      id: 4
+    - _id: fixture2444473
+      id: 2444473
+      fpl_tracker_id: 4
       season_id: 1
       game_week_id: 1
       home_team_id: 40
@@ -32,8 +34,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture2
-      id: 2
+    - _id: fixture2444471
+      id: 2444471
+      fpl_tracker_id: 2
       season_id: 1
       game_week_id: 1
       home_team_id: 3
@@ -48,8 +51,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture3
-      id: 3
+    - _id: fixture2444472
+      id: 2444472
+      fpl_tracker_id: 3
       season_id: 1
       game_week_id: 1
       home_team_id: 11
@@ -64,8 +68,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture5
-      id: 5
+    - _id: fixture2444474
+      id: 2444474
+      fpl_tracker_id: 5
       season_id: 1
       game_week_id: 1
       home_team_id: 4
@@ -80,8 +85,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture6
-      id: 6
+    - _id: fixture2444475
+      id: 2444475
+      fpl_tracker_id: 6
       season_id: 1
       game_week_id: 1
       home_team_id: 17
@@ -96,8 +102,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture7
-      id: 7
+    - _id: fixture2444476
+      id: 2444476
+      fpl_tracker_id: 7
       season_id: 1
       game_week_id: 1
       home_team_id: 21
@@ -112,8 +119,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture8
-      id: 8
+    - _id: fixture2444477
+      id: 2444477
+      fpl_tracker_id: 8
       season_id: 1
       game_week_id: 1
       home_team_id: 94
@@ -128,8 +136,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture9
-      id: 9
+    - _id: fixture2444478
+      id: 2444478
+      fpl_tracker_id: 9
       season_id: 1
       game_week_id: 1
       home_team_id: 8
@@ -144,8 +153,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture10
-      id: 10
+    - _id: fixture2444479
+      id: 2444479
+      fpl_tracker_id: 10
       season_id: 1
       game_week_id: 1
       home_team_id: 13
@@ -160,8 +170,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture13
-      id: 13
+    - _id: fixture2444482
+      id: 2444482
+      fpl_tracker_id: 13
       season_id: 1
       game_week_id: 2
       home_team_id: 36
@@ -176,8 +187,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture14
-      id: 14
+    - _id: fixture2444483
+      id: 2444483
+      fpl_tracker_id: 14
       season_id: 1
       game_week_id: 2
       home_team_id: 31
@@ -192,8 +204,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture15
-      id: 15
+    - _id: fixture2444484
+      id: 2444484
+      fpl_tracker_id: 15
       season_id: 1
       game_week_id: 2
       home_team_id: 54
@@ -208,8 +221,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture17
-      id: 17
+    - _id: fixture2444486
+      id: 2444486
+      fpl_tracker_id: 17
       season_id: 1
       game_week_id: 2
       home_team_id: 43
@@ -224,8 +238,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture18
-      id: 18
+    - _id: fixture2444487
+      id: 2444487
+      fpl_tracker_id: 18
       season_id: 1
       game_week_id: 2
       home_team_id: 20
@@ -240,8 +255,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture19
-      id: 19
+    - _id: fixture2444488
+      id: 2444488
+      fpl_tracker_id: 19
       season_id: 1
       game_week_id: 2
       home_team_id: 6
@@ -256,8 +272,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture11
-      id: 11
+    - _id: fixture2444481
+      id: 2444481
+      fpl_tracker_id: 11
       season_id: 1
       game_week_id: 2
       home_team_id: 7
@@ -272,8 +289,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture12
-      id: 12
+    - _id: fixture2444480
+      id: 2444480
+      fpl_tracker_id: 12
       season_id: 1
       game_week_id: 2
       home_team_id: 91
@@ -288,8 +306,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture20
-      id: 20
+    - _id: fixture2444489
+      id: 2444489
+      fpl_tracker_id: 20
       season_id: 1
       game_week_id: 2
       home_team_id: 39
@@ -304,8 +323,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture16
-      id: 16
+    - _id: fixture2444485
+      id: 2444485
+      fpl_tracker_id: 16
       season_id: 1
       game_week_id: 2
       home_team_id: 14
@@ -320,8 +340,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture21
-      id: 21
+    - _id: fixture2444490
+      id: 2444490
+      fpl_tracker_id: 21
       season_id: 1
       game_week_id: 3
       home_team_id: 3
@@ -336,8 +357,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture22
-      id: 22
+    - _id: fixture2444491
+      id: 2444491
+      fpl_tracker_id: 22
       season_id: 1
       game_week_id: 3
       home_team_id: 94
@@ -352,8 +374,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture24
-      id: 24
+    - _id: fixture2444493
+      id: 2444493
+      fpl_tracker_id: 24
       season_id: 1
       game_week_id: 3
       home_team_id: 11
@@ -368,8 +391,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture25
-      id: 25
+    - _id: fixture2444494
+      id: 2444494
+      fpl_tracker_id: 25
       season_id: 1
       game_week_id: 3
       home_team_id: 40
@@ -384,8 +408,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture26
-      id: 26
+    - _id: fixture2444495
+      id: 2444495
+      fpl_tracker_id: 26
       season_id: 1
       game_week_id: 3
       home_team_id: 13
@@ -400,8 +425,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture29
-      id: 29
+    - _id: fixture2444498
+      id: 2444498
+      fpl_tracker_id: 29
       season_id: 1
       game_week_id: 3
       home_team_id: 17
@@ -416,8 +442,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture30
-      id: 30
+    - _id: fixture2444499
+      id: 2444499
+      fpl_tracker_id: 30
       season_id: 1
       game_week_id: 3
       home_team_id: 21
@@ -432,8 +459,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture23
-      id: 23
+    - _id: fixture2444492
+      id: 2444492
+      fpl_tracker_id: 23
       season_id: 1
       game_week_id: 3
       home_team_id: 8
@@ -448,8 +476,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture28
-      id: 28
+    - _id: fixture2444497
+      id: 2444497
+      fpl_tracker_id: 28
       season_id: 1
       game_week_id: 3
       home_team_id: 4
@@ -464,8 +493,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture27
-      id: 27
+    - _id: fixture2444496
+      id: 2444496
+      fpl_tracker_id: 27
       season_id: 1
       game_week_id: 3
       home_team_id: 1
@@ -480,8 +510,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture38
-      id: 38
+    - _id: fixture2444507
+      id: 2444507
+      fpl_tracker_id: 38
       season_id: 1
       game_week_id: 4
       home_team_id: 20
@@ -496,8 +527,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture33
-      id: 33
+    - _id: fixture2444502
+      id: 2444502
+      fpl_tracker_id: 33
       season_id: 1
       game_week_id: 4
       home_team_id: 36
@@ -512,8 +544,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture34
-      id: 34
+    - _id: fixture2444503
+      id: 2444503
+      fpl_tracker_id: 34
       season_id: 1
       game_week_id: 4
       home_team_id: 31
@@ -528,8 +561,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture35
-      id: 35
+    - _id: fixture2444504
+      id: 2444504
+      fpl_tracker_id: 35
       season_id: 1
       game_week_id: 4
       home_team_id: 54
@@ -544,8 +578,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture36
-      id: 36
+    - _id: fixture2444505
+      id: 2444505
+      fpl_tracker_id: 36
       season_id: 1
       game_week_id: 4
       home_team_id: 14
@@ -560,8 +595,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture37
-      id: 37
+    - _id: fixture2444506
+      id: 2444506
+      fpl_tracker_id: 37
       season_id: 1
       game_week_id: 4
       home_team_id: 43
@@ -576,8 +612,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture31
-      id: 31
+    - _id: fixture2444501
+      id: 2444501
+      fpl_tracker_id: 31
       season_id: 1
       game_week_id: 4
       home_team_id: 7
@@ -592,8 +629,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture32
-      id: 32
+    - _id: fixture2444500
+      id: 2444500
+      fpl_tracker_id: 32
       season_id: 1
       game_week_id: 4
       home_team_id: 91
@@ -608,8 +646,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture39
-      id: 39
+    - _id: fixture2444508
+      id: 2444508
+      fpl_tracker_id: 39
       season_id: 1
       game_week_id: 4
       home_team_id: 6
@@ -624,8 +663,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture40
-      id: 40
+    - _id: fixture2444509
+      id: 2444509
+      fpl_tracker_id: 40
       season_id: 1
       game_week_id: 4
       home_team_id: 39
@@ -640,8 +680,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture50
-      id: 50
+    - _id: fixture2444519
+      id: 2444519
+      fpl_tracker_id: 50
       season_id: 1
       game_week_id: 5
       home_team_id: 21
@@ -656,8 +697,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture41
-      id: 41
+    - _id: fixture2444510
+      id: 2444510
+      fpl_tracker_id: 41
       season_id: 1
       game_week_id: 5
       home_team_id: 7
@@ -672,8 +714,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture44
-      id: 44
+    - _id: fixture2444513
+      id: 2444513
+      fpl_tracker_id: 44
       season_id: 1
       game_week_id: 5
       home_team_id: 54
@@ -688,8 +731,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture45
-      id: 45
+    - _id: fixture2444514
+      id: 2444514
+      fpl_tracker_id: 45
       season_id: 1
       game_week_id: 5
       home_team_id: 13
@@ -704,8 +748,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture46
-      id: 46
+    - _id: fixture2444515
+      id: 2444515
+      fpl_tracker_id: 46
       season_id: 1
       game_week_id: 5
       home_team_id: 14
@@ -720,8 +765,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture48
-      id: 48
+    - _id: fixture2444517
+      id: 2444517
+      fpl_tracker_id: 48
       season_id: 1
       game_week_id: 5
       home_team_id: 20
@@ -736,8 +782,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture49
-      id: 49
+    - _id: fixture2444518
+      id: 2444518
+      fpl_tracker_id: 49
       season_id: 1
       game_week_id: 5
       home_team_id: 6
@@ -752,8 +799,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture43
-      id: 43
+    - _id: fixture2444512
+      id: 2444512
+      fpl_tracker_id: 43
       season_id: 1
       game_week_id: 5
       home_team_id: 31
@@ -768,8 +816,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture42
-      id: 42
+    - _id: fixture2444511
+      id: 2444511
+      fpl_tracker_id: 42
       season_id: 1
       game_week_id: 5
       home_team_id: 36
@@ -784,8 +833,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture47
-      id: 47
+    - _id: fixture2444516
+      id: 2444516
+      fpl_tracker_id: 47
       season_id: 1
       game_week_id: 5
       home_team_id: 43
@@ -800,8 +850,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture58
-      id: 58
+    - _id: fixture2444527
+      id: 2444527
+      fpl_tracker_id: 58
       season_id: 1
       game_week_id: 6
       home_team_id: 4
@@ -816,8 +867,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture51
-      id: 51
+    - _id: fixture2444521
+      id: 2444521
+      fpl_tracker_id: 51
       season_id: 1
       game_week_id: 6
       home_team_id: 3
@@ -832,8 +884,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture53
-      id: 53
+    - _id: fixture2444522
+      id: 2444522
+      fpl_tracker_id: 53
       season_id: 1
       game_week_id: 6
       home_team_id: 94
@@ -848,8 +901,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture54
-      id: 54
+    - _id: fixture2444523
+      id: 2444523
+      fpl_tracker_id: 54
       season_id: 1
       game_week_id: 6
       home_team_id: 8
@@ -864,8 +918,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture55
-      id: 55
+    - _id: fixture2444524
+      id: 2444524
+      fpl_tracker_id: 55
       season_id: 1
       game_week_id: 6
       home_team_id: 11
@@ -880,8 +935,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture59
-      id: 59
+    - _id: fixture2444528
+      id: 2444528
+      fpl_tracker_id: 59
       season_id: 1
       game_week_id: 6
       home_team_id: 17
@@ -896,8 +952,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture60
-      id: 60
+    - _id: fixture2444529
+      id: 2444529
+      fpl_tracker_id: 60
       season_id: 1
       game_week_id: 6
       home_team_id: 39
@@ -912,8 +969,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture56
-      id: 56
+    - _id: fixture2444525
+      id: 2444525
+      fpl_tracker_id: 56
       season_id: 1
       game_week_id: 6
       home_team_id: 40
@@ -928,8 +986,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture57
-      id: 57
+    - _id: fixture2444526
+      id: 2444526
+      fpl_tracker_id: 57
       season_id: 1
       game_week_id: 6
       home_team_id: 1
@@ -944,8 +1003,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture52
-      id: 52
+    - _id: fixture2444520
+      id: 2444520
+      fpl_tracker_id: 52
       season_id: 1
       game_week_id: 6
       home_team_id: 91
@@ -960,8 +1020,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture61
-      id: 61
+    - _id: fixture2444530
+      id: 2444530
+      fpl_tracker_id: 61
       season_id: 1
       game_week_id: 7
       home_team_id: 3
@@ -976,8 +1037,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture62
-      id: 62
+    - _id: fixture2444531
+      id: 2444531
+      fpl_tracker_id: 62
       season_id: 1
       game_week_id: 7
       home_team_id: 7
@@ -992,8 +1054,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture63
-      id: 63
+    - _id: fixture2444532
+      id: 2444532
+      fpl_tracker_id: 63
       season_id: 1
       game_week_id: 7
       home_team_id: 94
@@ -1008,8 +1071,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture64
-      id: 64
+    - _id: fixture2444533
+      id: 2444533
+      fpl_tracker_id: 64
       season_id: 1
       game_week_id: 7
       home_team_id: 36
@@ -1024,8 +1088,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture65
-      id: 65
+    - _id: fixture2444534
+      id: 2444534
+      fpl_tracker_id: 65
       season_id: 1
       game_week_id: 7
       home_team_id: 8
@@ -1040,8 +1105,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture66
-      id: 66
+    - _id: fixture2444535
+      id: 2444535
+      fpl_tracker_id: 66
       season_id: 1
       game_week_id: 7
       home_team_id: 31
@@ -1056,8 +1122,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture67
-      id: 67
+    - _id: fixture2444536
+      id: 2444536
+      fpl_tracker_id: 67
       season_id: 1
       game_week_id: 7
       home_team_id: 11
@@ -1072,8 +1139,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture68
-      id: 68
+    - _id: fixture2444537
+      id: 2444537
+      fpl_tracker_id: 68
       season_id: 1
       game_week_id: 7
       home_team_id: 13
@@ -1088,8 +1156,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture69
-      id: 69
+    - _id: fixture2444538
+      id: 2444538
+      fpl_tracker_id: 69
       season_id: 1
       game_week_id: 7
       home_team_id: 43
@@ -1104,8 +1173,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture70
-      id: 70
+    - _id: fixture2444539
+      id: 2444539
+      fpl_tracker_id: 70
       season_id: 1
       game_week_id: 7
       home_team_id: 21
@@ -1120,8 +1190,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture71
-      id: 71
+    - _id: fixture2444540
+      id: 2444540
+      fpl_tracker_id: 71
       season_id: 1
       game_week_id: 8
       home_team_id: 91
@@ -1136,8 +1207,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture72
-      id: 72
+    - _id: fixture2444541
+      id: 2444541
+      fpl_tracker_id: 72
       season_id: 1
       game_week_id: 8
       home_team_id: 54
@@ -1152,8 +1224,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture73
-      id: 73
+    - _id: fixture2444542
+      id: 2444542
+      fpl_tracker_id: 73
       season_id: 1
       game_week_id: 8
       home_team_id: 40
@@ -1168,8 +1241,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture74
-      id: 74
+    - _id: fixture2444543
+      id: 2444543
+      fpl_tracker_id: 74
       season_id: 1
       game_week_id: 8
       home_team_id: 14
@@ -1184,8 +1258,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture75
-      id: 75
+    - _id: fixture2444544
+      id: 2444544
+      fpl_tracker_id: 75
       season_id: 1
       game_week_id: 8
       home_team_id: 1
@@ -1200,8 +1275,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture76
-      id: 76
+    - _id: fixture2444545
+      id: 2444545
+      fpl_tracker_id: 76
       season_id: 1
       game_week_id: 8
       home_team_id: 4
@@ -1216,8 +1292,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture77
-      id: 77
+    - _id: fixture2444546
+      id: 2444546
+      fpl_tracker_id: 77
       season_id: 1
       game_week_id: 8
       home_team_id: 17
@@ -1232,8 +1309,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture78
-      id: 78
+    - _id: fixture2444547
+      id: 2444547
+      fpl_tracker_id: 78
       season_id: 1
       game_week_id: 8
       home_team_id: 20
@@ -1248,8 +1326,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture79
-      id: 79
+    - _id: fixture2444548
+      id: 2444548
+      fpl_tracker_id: 79
       season_id: 1
       game_week_id: 8
       home_team_id: 6
@@ -1264,8 +1343,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture80
-      id: 80
+    - _id: fixture2444549
+      id: 2444549
+      fpl_tracker_id: 80
       season_id: 1
       game_week_id: 8
       home_team_id: 39
@@ -1280,8 +1360,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture81
-      id: 81
+    - _id: fixture2444550
+      id: 2444550
+      fpl_tracker_id: 81
       season_id: 1
       game_week_id: 9
       home_team_id: 3
@@ -1296,8 +1377,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture82
-      id: 82
+    - _id: fixture2444551
+      id: 2444551
+      fpl_tracker_id: 82
       season_id: 1
       game_week_id: 9
       home_team_id: 7
@@ -1312,8 +1394,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture83
-      id: 83
+    - _id: fixture2444552
+      id: 2444552
+      fpl_tracker_id: 83
       season_id: 1
       game_week_id: 9
       home_team_id: 94
@@ -1328,8 +1411,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture84
-      id: 84
+    - _id: fixture2444553
+      id: 2444553
+      fpl_tracker_id: 84
       season_id: 1
       game_week_id: 9
       home_team_id: 36
@@ -1344,8 +1428,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture85
-      id: 85
+    - _id: fixture2444554
+      id: 2444554
+      fpl_tracker_id: 85
       season_id: 1
       game_week_id: 9
       home_team_id: 8
@@ -1360,8 +1445,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture86
-      id: 86
+    - _id: fixture2444555
+      id: 2444555
+      fpl_tracker_id: 86
       season_id: 1
       game_week_id: 9
       home_team_id: 31
@@ -1376,8 +1462,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture87
-      id: 87
+    - _id: fixture2444556
+      id: 2444556
+      fpl_tracker_id: 87
       season_id: 1
       game_week_id: 9
       home_team_id: 11
@@ -1392,8 +1479,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture88
-      id: 88
+    - _id: fixture2444557
+      id: 2444557
+      fpl_tracker_id: 88
       season_id: 1
       game_week_id: 9
       home_team_id: 13
@@ -1408,8 +1496,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture89
-      id: 89
+    - _id: fixture2444558
+      id: 2444558
+      fpl_tracker_id: 89
       season_id: 1
       game_week_id: 9
       home_team_id: 43
@@ -1424,8 +1513,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture90
-      id: 90
+    - _id: fixture2444559
+      id: 2444559
+      fpl_tracker_id: 90
       season_id: 1
       game_week_id: 9
       home_team_id: 21
@@ -1440,8 +1530,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture91
-      id: 91
+    - _id: fixture2444560
+      id: 2444560
+      fpl_tracker_id: 91
       season_id: 1
       game_week_id: 10
       home_team_id: 91
@@ -1456,8 +1547,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture92
-      id: 92
+    - _id: fixture2444561
+      id: 2444561
+      fpl_tracker_id: 92
       season_id: 1
       game_week_id: 10
       home_team_id: 54
@@ -1472,8 +1564,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture93
-      id: 93
+    - _id: fixture2444562
+      id: 2444562
+      fpl_tracker_id: 93
       season_id: 1
       game_week_id: 10
       home_team_id: 40
@@ -1488,8 +1581,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture94
-      id: 94
+    - _id: fixture2444563
+      id: 2444563
+      fpl_tracker_id: 94
       season_id: 1
       game_week_id: 10
       home_team_id: 14
@@ -1504,8 +1598,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture95
-      id: 95
+    - _id: fixture2444564
+      id: 2444564
+      fpl_tracker_id: 95
       season_id: 1
       game_week_id: 10
       home_team_id: 1
@@ -1520,8 +1615,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture96
-      id: 96
+    - _id: fixture2444565
+      id: 2444565
+      fpl_tracker_id: 96
       season_id: 1
       game_week_id: 10
       home_team_id: 4
@@ -1536,8 +1632,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture97
-      id: 97
+    - _id: fixture2444566
+      id: 2444566
+      fpl_tracker_id: 97
       season_id: 1
       game_week_id: 10
       home_team_id: 17
@@ -1552,8 +1649,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture98
-      id: 98
+    - _id: fixture2444567
+      id: 2444567
+      fpl_tracker_id: 98
       season_id: 1
       game_week_id: 10
       home_team_id: 20
@@ -1568,8 +1666,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture99
-      id: 99
+    - _id: fixture2444568
+      id: 2444568
+      fpl_tracker_id: 99
       season_id: 1
       game_week_id: 10
       home_team_id: 6
@@ -1584,8 +1683,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture100
-      id: 100
+    - _id: fixture2444569
+      id: 2444569
+      fpl_tracker_id: 100
       season_id: 1
       game_week_id: 10
       home_team_id: 39
@@ -1600,8 +1700,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture101
-      id: 101
+    - _id: fixture2444570
+      id: 2444570
+      fpl_tracker_id: 101
       season_id: 1
       game_week_id: 11
       home_team_id: 94
@@ -1616,8 +1717,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture102
-      id: 102
+    - _id: fixture2444571
+      id: 2444571
+      fpl_tracker_id: 102
       season_id: 1
       game_week_id: 11
       home_team_id: 36
@@ -1632,8 +1734,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture103
-      id: 103
+    - _id: fixture2444572
+      id: 2444572
+      fpl_tracker_id: 103
       season_id: 1
       game_week_id: 11
       home_team_id: 8
@@ -1648,8 +1751,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture104
-      id: 104
+    - _id: fixture2444573
+      id: 2444573
+      fpl_tracker_id: 104
       season_id: 1
       game_week_id: 11
       home_team_id: 31
@@ -1664,8 +1768,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture105
-      id: 105
+    - _id: fixture2444574
+      id: 2444574
+      fpl_tracker_id: 105
       season_id: 1
       game_week_id: 11
       home_team_id: 14
@@ -1680,8 +1785,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture106
-      id: 106
+    - _id: fixture2444575
+      id: 2444575
+      fpl_tracker_id: 106
       season_id: 1
       game_week_id: 11
       home_team_id: 1
@@ -1696,8 +1802,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture107
-      id: 107
+    - _id: fixture2444576
+      id: 2444576
+      fpl_tracker_id: 107
       season_id: 1
       game_week_id: 11
       home_team_id: 17
@@ -1712,8 +1819,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture108
-      id: 108
+    - _id: fixture2444577
+      id: 2444577
+      fpl_tracker_id: 108
       season_id: 1
       game_week_id: 11
       home_team_id: 6
@@ -1728,8 +1836,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture109
-      id: 109
+    - _id: fixture2444578
+      id: 2444578
+      fpl_tracker_id: 109
       season_id: 1
       game_week_id: 11
       home_team_id: 21
@@ -1744,8 +1853,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture110
-      id: 110
+    - _id: fixture2444579
+      id: 2444579
+      fpl_tracker_id: 110
       season_id: 1
       game_week_id: 11
       home_team_id: 39
@@ -1760,8 +1870,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture111
-      id: 111
+    - _id: fixture2444581
+      id: 2444581
+      fpl_tracker_id: 111
       season_id: 1
       game_week_id: 12
       home_team_id: 3
@@ -1776,8 +1887,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture112
-      id: 112
+    - _id: fixture2444582
+      id: 2444582
+      fpl_tracker_id: 112
       season_id: 1
       game_week_id: 12
       home_team_id: 7
@@ -1792,8 +1904,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture113
-      id: 113
+    - _id: fixture2444580
+      id: 2444580
+      fpl_tracker_id: 113
       season_id: 1
       game_week_id: 12
       home_team_id: 91
@@ -1808,8 +1921,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture114
-      id: 114
+    - _id: fixture2444583
+      id: 2444583
+      fpl_tracker_id: 114
       season_id: 1
       game_week_id: 12
       home_team_id: 11
@@ -1824,8 +1938,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture115
-      id: 115
+    - _id: fixture2444584
+      id: 2444584
+      fpl_tracker_id: 115
       season_id: 1
       game_week_id: 12
       home_team_id: 54
@@ -1840,8 +1955,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture116
-      id: 116
+    - _id: fixture2444585
+      id: 2444585
+      fpl_tracker_id: 116
       season_id: 1
       game_week_id: 12
       home_team_id: 40
@@ -1856,8 +1972,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture117
-      id: 117
+    - _id: fixture2444586
+      id: 2444586
+      fpl_tracker_id: 117
       season_id: 1
       game_week_id: 12
       home_team_id: 13
@@ -1872,8 +1989,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture118
-      id: 118
+    - _id: fixture2444587
+      id: 2444587
+      fpl_tracker_id: 118
       season_id: 1
       game_week_id: 12
       home_team_id: 43
@@ -1888,8 +2006,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture119
-      id: 119
+    - _id: fixture2444588
+      id: 2444588
+      fpl_tracker_id: 119
       season_id: 1
       game_week_id: 12
       home_team_id: 4
@@ -1904,8 +2023,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture120
-      id: 120
+    - _id: fixture2444589
+      id: 2444589
+      fpl_tracker_id: 120
       season_id: 1
       game_week_id: 12
       home_team_id: 20
@@ -1920,8 +2040,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture121
-      id: 121
+    - _id: fixture2444590
+      id: 2444590
+      fpl_tracker_id: 121
       season_id: 1
       game_week_id: 13
       home_team_id: 94
@@ -1936,8 +2057,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture122
-      id: 122
+    - _id: fixture2444591
+      id: 2444591
+      fpl_tracker_id: 122
       season_id: 1
       game_week_id: 13
       home_team_id: 36
@@ -1952,8 +2074,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture123
-      id: 123
+    - _id: fixture2444592
+      id: 2444592
+      fpl_tracker_id: 123
       season_id: 1
       game_week_id: 13
       home_team_id: 8
@@ -1968,8 +2091,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture124
-      id: 124
+    - _id: fixture2444593
+      id: 2444593
+      fpl_tracker_id: 124
       season_id: 1
       game_week_id: 13
       home_team_id: 31
@@ -1984,8 +2108,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture125
-      id: 125
+    - _id: fixture2444594
+      id: 2444594
+      fpl_tracker_id: 125
       season_id: 1
       game_week_id: 13
       home_team_id: 14
@@ -2000,8 +2125,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture126
-      id: 126
+    - _id: fixture2444595
+      id: 2444595
+      fpl_tracker_id: 126
       season_id: 1
       game_week_id: 13
       home_team_id: 1
@@ -2016,8 +2142,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture127
-      id: 127
+    - _id: fixture2444596
+      id: 2444596
+      fpl_tracker_id: 127
       season_id: 1
       game_week_id: 13
       home_team_id: 17
@@ -2032,8 +2159,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture128
-      id: 128
+    - _id: fixture2444597
+      id: 2444597
+      fpl_tracker_id: 128
       season_id: 1
       game_week_id: 13
       home_team_id: 6
@@ -2048,8 +2176,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture129
-      id: 129
+    - _id: fixture2444598
+      id: 2444598
+      fpl_tracker_id: 129
       season_id: 1
       game_week_id: 13
       home_team_id: 21
@@ -2064,8 +2193,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture130
-      id: 130
+    - _id: fixture2444599
+      id: 2444599
+      fpl_tracker_id: 130
       season_id: 1
       game_week_id: 13
       home_team_id: 39
@@ -2080,8 +2210,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture131
-      id: 131
+    - _id: fixture2444601
+      id: 2444601
+      fpl_tracker_id: 131
       season_id: 1
       game_week_id: 14
       home_team_id: 3
@@ -2096,8 +2227,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture132
-      id: 132
+    - _id: fixture2444602
+      id: 2444602
+      fpl_tracker_id: 132
       season_id: 1
       game_week_id: 14
       home_team_id: 7
@@ -2112,8 +2244,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture133
-      id: 133
+    - _id: fixture2444600
+      id: 2444600
+      fpl_tracker_id: 133
       season_id: 1
       game_week_id: 14
       home_team_id: 91
@@ -2128,8 +2261,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture134
-      id: 134
+    - _id: fixture2444603
+      id: 2444603
+      fpl_tracker_id: 134
       season_id: 1
       game_week_id: 14
       home_team_id: 11
@@ -2144,8 +2278,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture135
-      id: 135
+    - _id: fixture2444604
+      id: 2444604
+      fpl_tracker_id: 135
       season_id: 1
       game_week_id: 14
       home_team_id: 54
@@ -2160,8 +2295,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture136
-      id: 136
+    - _id: fixture2444605
+      id: 2444605
+      fpl_tracker_id: 136
       season_id: 1
       game_week_id: 14
       home_team_id: 40
@@ -2176,8 +2312,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture137
-      id: 137
+    - _id: fixture2444606
+      id: 2444606
+      fpl_tracker_id: 137
       season_id: 1
       game_week_id: 14
       home_team_id: 13
@@ -2192,8 +2329,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture138
-      id: 138
+    - _id: fixture2444607
+      id: 2444607
+      fpl_tracker_id: 138
       season_id: 1
       game_week_id: 14
       home_team_id: 43
@@ -2208,8 +2346,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture139
-      id: 139
+    - _id: fixture2444608
+      id: 2444608
+      fpl_tracker_id: 139
       season_id: 1
       game_week_id: 14
       home_team_id: 4
@@ -2224,8 +2363,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture140
-      id: 140
+    - _id: fixture2444609
+      id: 2444609
+      fpl_tracker_id: 140
       season_id: 1
       game_week_id: 14
       home_team_id: 20
@@ -2240,8 +2380,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture141
-      id: 141
+    - _id: fixture2444610
+      id: 2444610
+      fpl_tracker_id: 141
       season_id: 1
       game_week_id: 15
       home_team_id: 7
@@ -2256,8 +2397,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture142
-      id: 142
+    - _id: fixture2444611
+      id: 2444611
+      fpl_tracker_id: 142
       season_id: 1
       game_week_id: 15
       home_team_id: 94
@@ -2272,8 +2414,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture143
-      id: 143
+    - _id: fixture2444612
+      id: 2444612
+      fpl_tracker_id: 143
       season_id: 1
       game_week_id: 15
       home_team_id: 31
@@ -2288,8 +2431,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture144
-      id: 144
+    - _id: fixture2444613
+      id: 2444613
+      fpl_tracker_id: 144
       season_id: 1
       game_week_id: 15
       home_team_id: 11
@@ -2304,8 +2448,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture145
-      id: 145
+    - _id: fixture2444614
+      id: 2444614
+      fpl_tracker_id: 145
       season_id: 1
       game_week_id: 15
       home_team_id: 54
@@ -2320,8 +2465,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture146
-      id: 146
+    - _id: fixture2444615
+      id: 2444615
+      fpl_tracker_id: 146
       season_id: 1
       game_week_id: 15
       home_team_id: 40
@@ -2336,8 +2482,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture147
-      id: 147
+    - _id: fixture2444616
+      id: 2444616
+      fpl_tracker_id: 147
       season_id: 1
       game_week_id: 15
       home_team_id: 13
@@ -2352,8 +2499,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture148
-      id: 148
+    - _id: fixture2444617
+      id: 2444617
+      fpl_tracker_id: 148
       season_id: 1
       game_week_id: 15
       home_team_id: 1
@@ -2368,8 +2516,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture149
-      id: 149
+    - _id: fixture2444618
+      id: 2444618
+      fpl_tracker_id: 149
       season_id: 1
       game_week_id: 15
       home_team_id: 6
@@ -2384,8 +2533,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture150
-      id: 150
+    - _id: fixture2444619
+      id: 2444619
+      fpl_tracker_id: 150
       season_id: 1
       game_week_id: 15
       home_team_id: 21
@@ -2400,8 +2550,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture151
-      id: 151
+    - _id: fixture2444621
+      id: 2444621
+      fpl_tracker_id: 151
       season_id: 1
       game_week_id: 16
       home_team_id: 3
@@ -2416,8 +2567,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture152
-      id: 152
+    - _id: fixture2444620
+      id: 2444620
+      fpl_tracker_id: 152
       season_id: 1
       game_week_id: 16
       home_team_id: 91
@@ -2432,8 +2584,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture153
-      id: 153
+    - _id: fixture2444622
+      id: 2444622
+      fpl_tracker_id: 153
       season_id: 1
       game_week_id: 16
       home_team_id: 36
@@ -2448,8 +2601,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture154
-      id: 154
+    - _id: fixture2444623
+      id: 2444623
+      fpl_tracker_id: 154
       season_id: 1
       game_week_id: 16
       home_team_id: 8
@@ -2464,8 +2618,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture155
-      id: 155
+    - _id: fixture2444624
+      id: 2444624
+      fpl_tracker_id: 155
       season_id: 1
       game_week_id: 16
       home_team_id: 14
@@ -2480,8 +2635,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture156
-      id: 156
+    - _id: fixture2444625
+      id: 2444625
+      fpl_tracker_id: 156
       season_id: 1
       game_week_id: 16
       home_team_id: 43
@@ -2496,8 +2652,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture157
-      id: 157
+    - _id: fixture2444626
+      id: 2444626
+      fpl_tracker_id: 157
       season_id: 1
       game_week_id: 16
       home_team_id: 4
@@ -2512,8 +2669,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture158
-      id: 158
+    - _id: fixture2444627
+      id: 2444627
+      fpl_tracker_id: 158
       season_id: 1
       game_week_id: 16
       home_team_id: 17
@@ -2528,8 +2686,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture159
-      id: 159
+    - _id: fixture2444628
+      id: 2444628
+      fpl_tracker_id: 159
       season_id: 1
       game_week_id: 16
       home_team_id: 20
@@ -2544,8 +2703,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture160
-      id: 160
+    - _id: fixture2444629
+      id: 2444629
+      fpl_tracker_id: 160
       season_id: 1
       game_week_id: 16
       home_team_id: 39
@@ -2560,8 +2720,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture161
-      id: 161
+    - _id: fixture2444630
+      id: 2444630
+      fpl_tracker_id: 161
       season_id: 1
       game_week_id: 17
       home_team_id: 7
@@ -2576,8 +2737,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture162
-      id: 162
+    - _id: fixture2444631
+      id: 2444631
+      fpl_tracker_id: 162
       season_id: 1
       game_week_id: 17
       home_team_id: 94
@@ -2592,8 +2754,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture163
-      id: 163
+    - _id: fixture2444632
+      id: 2444632
+      fpl_tracker_id: 163
       season_id: 1
       game_week_id: 17
       home_team_id: 31
@@ -2608,8 +2771,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture164
-      id: 164
+    - _id: fixture2444633
+      id: 2444633
+      fpl_tracker_id: 164
       season_id: 1
       game_week_id: 17
       home_team_id: 11
@@ -2624,8 +2788,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture165
-      id: 165
+    - _id: fixture2444634
+      id: 2444634
+      fpl_tracker_id: 165
       season_id: 1
       game_week_id: 17
       home_team_id: 54
@@ -2640,8 +2805,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture166
-      id: 166
+    - _id: fixture2444635
+      id: 2444635
+      fpl_tracker_id: 166
       season_id: 1
       game_week_id: 17
       home_team_id: 40
@@ -2656,8 +2822,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture167
-      id: 167
+    - _id: fixture2444636
+      id: 2444636
+      fpl_tracker_id: 167
       season_id: 1
       game_week_id: 17
       home_team_id: 13
@@ -2672,8 +2839,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture168
-      id: 168
+    - _id: fixture2444637
+      id: 2444637
+      fpl_tracker_id: 168
       season_id: 1
       game_week_id: 17
       home_team_id: 1
@@ -2688,8 +2856,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture169
-      id: 169
+    - _id: fixture2444638
+      id: 2444638
+      fpl_tracker_id: 169
       season_id: 1
       game_week_id: 17
       home_team_id: 6
@@ -2704,8 +2873,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture170
-      id: 170
+    - _id: fixture2444639
+      id: 2444639
+      fpl_tracker_id: 170
       season_id: 1
       game_week_id: 17
       home_team_id: 21
@@ -2720,8 +2890,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture171
-      id: 171
+    - _id: fixture2444641
+      id: 2444641
+      fpl_tracker_id: 171
       season_id: 1
       game_week_id: 18
       home_team_id: 3
@@ -2736,8 +2907,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture172
-      id: 172
+    - _id: fixture2444640
+      id: 2444640
+      fpl_tracker_id: 172
       season_id: 1
       game_week_id: 18
       home_team_id: 91
@@ -2752,8 +2924,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture173
-      id: 173
+    - _id: fixture2444642
+      id: 2444642
+      fpl_tracker_id: 173
       season_id: 1
       game_week_id: 18
       home_team_id: 36
@@ -2768,8 +2941,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture174
-      id: 174
+    - _id: fixture2444643
+      id: 2444643
+      fpl_tracker_id: 174
       season_id: 1
       game_week_id: 18
       home_team_id: 8
@@ -2784,8 +2958,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture175
-      id: 175
+    - _id: fixture2444644
+      id: 2444644
+      fpl_tracker_id: 175
       season_id: 1
       game_week_id: 18
       home_team_id: 14
@@ -2800,8 +2975,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture176
-      id: 176
+    - _id: fixture2444645
+      id: 2444645
+      fpl_tracker_id: 176
       season_id: 1
       game_week_id: 18
       home_team_id: 43
@@ -2816,8 +2992,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture177
-      id: 177
+    - _id: fixture2444646
+      id: 2444646
+      fpl_tracker_id: 177
       season_id: 1
       game_week_id: 18
       home_team_id: 4
@@ -2832,8 +3009,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture178
-      id: 178
+    - _id: fixture2444647
+      id: 2444647
+      fpl_tracker_id: 178
       season_id: 1
       game_week_id: 18
       home_team_id: 17
@@ -2848,8 +3026,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture179
-      id: 179
+    - _id: fixture2444648
+      id: 2444648
+      fpl_tracker_id: 179
       season_id: 1
       game_week_id: 18
       home_team_id: 20
@@ -2864,8 +3043,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture180
-      id: 180
+    - _id: fixture2444649
+      id: 2444649
+      fpl_tracker_id: 180
       season_id: 1
       game_week_id: 18
       home_team_id: 39
@@ -2880,8 +3060,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture181
-      id: 181
+    - _id: fixture2444650
+      id: 2444650
+      fpl_tracker_id: 181
       season_id: 1
       game_week_id: 19
       home_team_id: 7
@@ -2896,8 +3077,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture182
-      id: 182
+    - _id: fixture2444651
+      id: 2444651
+      fpl_tracker_id: 182
       season_id: 1
       game_week_id: 19
       home_team_id: 94
@@ -2912,8 +3094,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture183
-      id: 183
+    - _id: fixture2444652
+      id: 2444652
+      fpl_tracker_id: 183
       season_id: 1
       game_week_id: 19
       home_team_id: 31
@@ -2928,8 +3111,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture184
-      id: 184
+    - _id: fixture2444653
+      id: 2444653
+      fpl_tracker_id: 184
       season_id: 1
       game_week_id: 19
       home_team_id: 11
@@ -2944,8 +3128,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture185
-      id: 185
+    - _id: fixture2444654
+      id: 2444654
+      fpl_tracker_id: 185
       season_id: 1
       game_week_id: 19
       home_team_id: 54
@@ -2960,8 +3145,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture186
-      id: 186
+    - _id: fixture2444655
+      id: 2444655
+      fpl_tracker_id: 186
       season_id: 1
       game_week_id: 19
       home_team_id: 40
@@ -2976,8 +3162,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture187
-      id: 187
+    - _id: fixture2444656
+      id: 2444656
+      fpl_tracker_id: 187
       season_id: 1
       game_week_id: 19
       home_team_id: 13
@@ -2992,8 +3179,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture188
-      id: 188
+    - _id: fixture2444657
+      id: 2444657
+      fpl_tracker_id: 188
       season_id: 1
       game_week_id: 19
       home_team_id: 1
@@ -3008,8 +3196,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture189
-      id: 189
+    - _id: fixture2444658
+      id: 2444658
+      fpl_tracker_id: 189
       season_id: 1
       game_week_id: 19
       home_team_id: 6
@@ -3024,8 +3213,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture190
-      id: 190
+    - _id: fixture2444659
+      id: 2444659
+      fpl_tracker_id: 190
       season_id: 1
       game_week_id: 19
       home_team_id: 21
@@ -3040,8 +3230,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture191
-      id: 191
+    - _id: fixture2444661
+      id: 2444661
+      fpl_tracker_id: 191
       season_id: 1
       game_week_id: 20
       home_team_id: 7
@@ -3056,8 +3247,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture192
-      id: 192
+    - _id: fixture2444660
+      id: 2444660
+      fpl_tracker_id: 192
       season_id: 1
       game_week_id: 20
       home_team_id: 91
@@ -3072,8 +3264,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture193
-      id: 193
+    - _id: fixture2444662
+      id: 2444662
+      fpl_tracker_id: 193
       season_id: 1
       game_week_id: 20
       home_team_id: 36
@@ -3088,8 +3281,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture194
-      id: 194
+    - _id: fixture2444663
+      id: 2444663
+      fpl_tracker_id: 194
       season_id: 1
       game_week_id: 20
       home_team_id: 31
@@ -3104,8 +3298,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture195
-      id: 195
+    - _id: fixture2444664
+      id: 2444664
+      fpl_tracker_id: 195
       season_id: 1
       game_week_id: 20
       home_team_id: 54
@@ -3120,8 +3315,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture196
-      id: 196
+    - _id: fixture2444665
+      id: 2444665
+      fpl_tracker_id: 196
       season_id: 1
       game_week_id: 20
       home_team_id: 14
@@ -3136,8 +3332,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture197
-      id: 197
+    - _id: fixture2444666
+      id: 2444666
+      fpl_tracker_id: 197
       season_id: 1
       game_week_id: 20
       home_team_id: 43
@@ -3152,8 +3349,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture198
-      id: 198
+    - _id: fixture2444667
+      id: 2444667
+      fpl_tracker_id: 198
       season_id: 1
       game_week_id: 20
       home_team_id: 20
@@ -3168,8 +3366,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture199
-      id: 199
+    - _id: fixture2444668
+      id: 2444668
+      fpl_tracker_id: 199
       season_id: 1
       game_week_id: 20
       home_team_id: 6
@@ -3184,8 +3383,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture200
-      id: 200
+    - _id: fixture2444669
+      id: 2444669
+      fpl_tracker_id: 200
       season_id: 1
       game_week_id: 20
       home_team_id: 39
@@ -3200,8 +3400,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture201
-      id: 201
+    - _id: fixture2444670
+      id: 2444670
+      fpl_tracker_id: 201
       season_id: 1
       game_week_id: 21
       home_team_id: 3
@@ -3216,8 +3417,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture202
-      id: 202
+    - _id: fixture2444671
+      id: 2444671
+      fpl_tracker_id: 202
       season_id: 1
       game_week_id: 21
       home_team_id: 94
@@ -3232,8 +3434,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture203
-      id: 203
+    - _id: fixture2444672
+      id: 2444672
+      fpl_tracker_id: 203
       season_id: 1
       game_week_id: 21
       home_team_id: 11
@@ -3248,8 +3451,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture204
-      id: 204
+    - _id: fixture2444673
+      id: 2444673
+      fpl_tracker_id: 204
       season_id: 1
       game_week_id: 21
       home_team_id: 40
@@ -3264,8 +3468,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture205
-      id: 205
+    - _id: fixture2444674
+      id: 2444674
+      fpl_tracker_id: 205
       season_id: 1
       game_week_id: 21
       home_team_id: 13
@@ -3280,8 +3485,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture206
-      id: 206
+    - _id: fixture2444675
+      id: 2444675
+      fpl_tracker_id: 206
       season_id: 1
       game_week_id: 21
       home_team_id: 17
@@ -3296,8 +3502,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture207
-      id: 207
+    - _id: fixture2444676
+      id: 2444676
+      fpl_tracker_id: 207
       season_id: 1
       game_week_id: 21
       home_team_id: 21
@@ -3312,8 +3519,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture208
-      id: 208
+    - _id: fixture2444677
+      id: 2444677
+      fpl_tracker_id: 208
       season_id: 1
       game_week_id: 21
       home_team_id: 8
@@ -3328,8 +3536,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture210
-      id: 210
+    - _id: fixture2444679
+      id: 2444679
+      fpl_tracker_id: 210
       season_id: 1
       game_week_id: 21
       home_team_id: 4
@@ -3344,8 +3553,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture209
-      id: 209
+    - _id: fixture2444678
+      id: 2444678
+      fpl_tracker_id: 209
       season_id: 1
       game_week_id: 21
       home_team_id: 1
@@ -3360,8 +3570,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture211
-      id: 211
+    - _id: fixture2444680
+      id: 2444680
+      fpl_tracker_id: 211
       season_id: 1
       game_week_id: 22
       home_team_id: 3
@@ -3376,8 +3587,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture212
-      id: 212
+    - _id: fixture2444681
+      id: 2444681
+      fpl_tracker_id: 212
       season_id: 1
       game_week_id: 22
       home_team_id: 94
@@ -3392,8 +3604,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture213
-      id: 213
+    - _id: fixture2444682
+      id: 2444682
+      fpl_tracker_id: 213
       season_id: 1
       game_week_id: 22
       home_team_id: 8
@@ -3408,8 +3621,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture214
-      id: 214
+    - _id: fixture2444683
+      id: 2444683
+      fpl_tracker_id: 214
       season_id: 1
       game_week_id: 22
       home_team_id: 11
@@ -3424,8 +3638,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture215
-      id: 215
+    - _id: fixture2444684
+      id: 2444684
+      fpl_tracker_id: 215
       season_id: 1
       game_week_id: 22
       home_team_id: 40
@@ -3440,8 +3655,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture216
-      id: 216
+    - _id: fixture2444685
+      id: 2444685
+      fpl_tracker_id: 216
       season_id: 1
       game_week_id: 22
       home_team_id: 13
@@ -3456,8 +3672,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture217
-      id: 217
+    - _id: fixture2444686
+      id: 2444686
+      fpl_tracker_id: 217
       season_id: 1
       game_week_id: 22
       home_team_id: 1
@@ -3472,8 +3689,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture218
-      id: 218
+    - _id: fixture2444687
+      id: 2444687
+      fpl_tracker_id: 218
       season_id: 1
       game_week_id: 22
       home_team_id: 4
@@ -3488,8 +3706,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture219
-      id: 219
+    - _id: fixture2444688
+      id: 2444688
+      fpl_tracker_id: 219
       season_id: 1
       game_week_id: 22
       home_team_id: 17
@@ -3504,8 +3723,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture220
-      id: 220
+    - _id: fixture2444689
+      id: 2444689
+      fpl_tracker_id: 220
       season_id: 1
       game_week_id: 22
       home_team_id: 21
@@ -3520,8 +3740,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture221
-      id: 221
+    - _id: fixture2444691
+      id: 2444691
+      fpl_tracker_id: 221
       season_id: 1
       game_week_id: 23
       home_team_id: 7
@@ -3536,8 +3757,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture222
-      id: 222
+    - _id: fixture2444690
+      id: 2444690
+      fpl_tracker_id: 222
       season_id: 1
       game_week_id: 23
       home_team_id: 91
@@ -3552,8 +3774,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture223
-      id: 223
+    - _id: fixture2444692
+      id: 2444692
+      fpl_tracker_id: 223
       season_id: 1
       game_week_id: 23
       home_team_id: 36
@@ -3568,8 +3791,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture224
-      id: 224
+    - _id: fixture2444693
+      id: 2444693
+      fpl_tracker_id: 224
       season_id: 1
       game_week_id: 23
       home_team_id: 31
@@ -3584,8 +3808,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture225
-      id: 225
+    - _id: fixture2444694
+      id: 2444694
+      fpl_tracker_id: 225
       season_id: 1
       game_week_id: 23
       home_team_id: 54
@@ -3600,8 +3825,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture226
-      id: 226
+    - _id: fixture2444695
+      id: 2444695
+      fpl_tracker_id: 226
       season_id: 1
       game_week_id: 23
       home_team_id: 14
@@ -3616,8 +3842,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture227
-      id: 227
+    - _id: fixture2444696
+      id: 2444696
+      fpl_tracker_id: 227
       season_id: 1
       game_week_id: 23
       home_team_id: 43
@@ -3632,8 +3859,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture228
-      id: 228
+    - _id: fixture2444697
+      id: 2444697
+      fpl_tracker_id: 228
       season_id: 1
       game_week_id: 23
       home_team_id: 20
@@ -3648,8 +3876,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture229
-      id: 229
+    - _id: fixture2444698
+      id: 2444698
+      fpl_tracker_id: 229
       season_id: 1
       game_week_id: 23
       home_team_id: 6
@@ -3664,8 +3893,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture230
-      id: 230
+    - _id: fixture2444699
+      id: 2444699
+      fpl_tracker_id: 230
       season_id: 1
       game_week_id: 23
       home_team_id: 39
@@ -3680,8 +3910,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture231
-      id: 231
+    - _id: fixture2444701
+      id: 2444701
+      fpl_tracker_id: 231
       season_id: 1
       game_week_id: 24
       home_team_id: 3
@@ -3696,8 +3927,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture232
-      id: 232
+    - _id: fixture2444700
+      id: 2444700
+      fpl_tracker_id: 232
       season_id: 1
       game_week_id: 24
       home_team_id: 91
@@ -3712,8 +3944,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture233
-      id: 233
+    - _id: fixture2444702
+      id: 2444702
+      fpl_tracker_id: 233
       season_id: 1
       game_week_id: 24
       home_team_id: 94
@@ -3728,8 +3961,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture234
-      id: 234
+    - _id: fixture2444703
+      id: 2444703
+      fpl_tracker_id: 234
       season_id: 1
       game_week_id: 24
       home_team_id: 8
@@ -3744,8 +3978,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture235
-      id: 235
+    - _id: fixture2444704
+      id: 2444704
+      fpl_tracker_id: 235
       season_id: 1
       game_week_id: 24
       home_team_id: 11
@@ -3760,8 +3995,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture236
-      id: 236
+    - _id: fixture2444705
+      id: 2444705
+      fpl_tracker_id: 236
       season_id: 1
       game_week_id: 24
       home_team_id: 40
@@ -3776,8 +4012,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture237
-      id: 237
+    - _id: fixture2444706
+      id: 2444706
+      fpl_tracker_id: 237
       season_id: 1
       game_week_id: 24
       home_team_id: 1
@@ -3792,8 +4029,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture238
-      id: 238
+    - _id: fixture2444707
+      id: 2444707
+      fpl_tracker_id: 238
       season_id: 1
       game_week_id: 24
       home_team_id: 4
@@ -3808,8 +4046,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture239
-      id: 239
+    - _id: fixture2444708
+      id: 2444708
+      fpl_tracker_id: 239
       season_id: 1
       game_week_id: 24
       home_team_id: 17
@@ -3824,8 +4063,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture240
-      id: 240
+    - _id: fixture2444709
+      id: 2444709
+      fpl_tracker_id: 240
       season_id: 1
       game_week_id: 24
       home_team_id: 39
@@ -3840,8 +4080,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture241
-      id: 241
+    - _id: fixture2444710
+      id: 2444710
+      fpl_tracker_id: 241
       season_id: 1
       game_week_id: 25
       home_team_id: 7
@@ -3856,8 +4097,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture242
-      id: 242
+    - _id: fixture2444711
+      id: 2444711
+      fpl_tracker_id: 242
       season_id: 1
       game_week_id: 25
       home_team_id: 36
@@ -3872,8 +4114,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture243
-      id: 243
+    - _id: fixture2444712
+      id: 2444712
+      fpl_tracker_id: 243
       season_id: 1
       game_week_id: 25
       home_team_id: 31
@@ -3888,8 +4131,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture244
-      id: 244
+    - _id: fixture2444713
+      id: 2444713
+      fpl_tracker_id: 244
       season_id: 1
       game_week_id: 25
       home_team_id: 54
@@ -3904,8 +4148,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture245
-      id: 245
+    - _id: fixture2444714
+      id: 2444714
+      fpl_tracker_id: 245
       season_id: 1
       game_week_id: 25
       home_team_id: 13
@@ -3920,8 +4165,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture246
-      id: 246
+    - _id: fixture2444715
+      id: 2444715
+      fpl_tracker_id: 246
       season_id: 1
       game_week_id: 25
       home_team_id: 14
@@ -3936,8 +4182,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture247
-      id: 247
+    - _id: fixture2444716
+      id: 2444716
+      fpl_tracker_id: 247
       season_id: 1
       game_week_id: 25
       home_team_id: 43
@@ -3952,8 +4199,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture248
-      id: 248
+    - _id: fixture2444717
+      id: 2444717
+      fpl_tracker_id: 248
       season_id: 1
       game_week_id: 25
       home_team_id: 20
@@ -3968,8 +4216,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture249
-      id: 249
+    - _id: fixture2444718
+      id: 2444718
+      fpl_tracker_id: 249
       season_id: 1
       game_week_id: 25
       home_team_id: 6
@@ -3984,8 +4233,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture250
-      id: 250
+    - _id: fixture2444719
+      id: 2444719
+      fpl_tracker_id: 250
       season_id: 1
       game_week_id: 25
       home_team_id: 21
@@ -4000,8 +4250,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture251
-      id: 251
+    - _id: fixture2444721
+      id: 2444721
+      fpl_tracker_id: 251
       season_id: 1
       game_week_id: 26
       home_team_id: 3
@@ -4016,8 +4267,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture252
-      id: 252
+    - _id: fixture2444722
+      id: 2444722
+      fpl_tracker_id: 252
       season_id: 1
       game_week_id: 26
       home_team_id: 7
@@ -4032,8 +4284,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture253
-      id: 253
+    - _id: fixture2444720
+      id: 2444720
+      fpl_tracker_id: 253
       season_id: 1
       game_week_id: 26
       home_team_id: 91
@@ -4048,8 +4301,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture254
-      id: 254
+    - _id: fixture2444723
+      id: 2444723
+      fpl_tracker_id: 254
       season_id: 1
       game_week_id: 26
       home_team_id: 11
@@ -4064,8 +4318,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture255
-      id: 255
+    - _id: fixture2444724
+      id: 2444724
+      fpl_tracker_id: 255
       season_id: 1
       game_week_id: 26
       home_team_id: 54
@@ -4080,8 +4335,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture256
-      id: 256
+    - _id: fixture2444725
+      id: 2444725
+      fpl_tracker_id: 256
       season_id: 1
       game_week_id: 26
       home_team_id: 40
@@ -4096,8 +4352,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture257
-      id: 257
+    - _id: fixture2444726
+      id: 2444726
+      fpl_tracker_id: 257
       season_id: 1
       game_week_id: 26
       home_team_id: 13
@@ -4112,8 +4369,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture258
-      id: 258
+    - _id: fixture2444727
+      id: 2444727
+      fpl_tracker_id: 258
       season_id: 1
       game_week_id: 26
       home_team_id: 43
@@ -4128,8 +4386,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture259
-      id: 259
+    - _id: fixture2444728
+      id: 2444728
+      fpl_tracker_id: 259
       season_id: 1
       game_week_id: 26
       home_team_id: 4
@@ -4144,8 +4403,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture260
-      id: 260
+    - _id: fixture2444729
+      id: 2444729
+      fpl_tracker_id: 260
       season_id: 1
       game_week_id: 26
       home_team_id: 20
@@ -4160,8 +4420,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture261
-      id: 261
+    - _id: fixture2444730
+      id: 2444730
+      fpl_tracker_id: 261
       season_id: 1
       game_week_id: 27
       home_team_id: 94
@@ -4176,8 +4437,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture262
-      id: 262
+    - _id: fixture2444731
+      id: 2444731
+      fpl_tracker_id: 262
       season_id: 1
       game_week_id: 27
       home_team_id: 36
@@ -4192,8 +4454,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture264
-      id: 264
+    - _id: fixture2444733
+      id: 2444733
+      fpl_tracker_id: 264
       season_id: 1
       game_week_id: 27
       home_team_id: 17
@@ -4208,8 +4471,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture265
-      id: 265
+    - _id: fixture2444734
+      id: 2444734
+      fpl_tracker_id: 265
       season_id: 1
       game_week_id: 27
       home_team_id: 6
@@ -4224,8 +4488,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture266
-      id: 266
+    - _id: fixture2444735
+      id: 2444735
+      fpl_tracker_id: 266
       season_id: 1
       game_week_id: 27
       home_team_id: 21
@@ -4240,8 +4505,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture267
-      id: 267
+    - _id: fixture2444736
+      id: 2444736
+      fpl_tracker_id: 267
       season_id: 1
       game_week_id: 27
       home_team_id: 39
@@ -4256,8 +4522,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture263
-      id: 263
+    - _id: fixture2444732
+      id: 2444732
+      fpl_tracker_id: 263
       season_id: 1
       game_week_id: 27
       home_team_id: 31
@@ -4272,8 +4539,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture268
-      id: 268
+    - _id: fixture2444737
+      id: 2444737
+      fpl_tracker_id: 268
       season_id: 1
       game_week_id: 27
       home_team_id: 8
@@ -4288,8 +4556,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture269
-      id: 269
+    - _id: fixture2444738
+      id: 2444738
+      fpl_tracker_id: 269
       season_id: 1
       game_week_id: 27
       home_team_id: 14
@@ -4304,8 +4573,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture270
-      id: 270
+    - _id: fixture2444739
+      id: 2444739
+      fpl_tracker_id: 270
       season_id: 1
       game_week_id: 27
       home_team_id: 1
@@ -4320,8 +4590,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture271
-      id: 271
+    - _id: fixture2444740
+      id: 2444740
+      fpl_tracker_id: 271
       season_id: 1
       game_week_id: 28
       home_team_id: 94
@@ -4336,8 +4607,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture272
-      id: 272
+    - _id: fixture2444741
+      id: 2444741
+      fpl_tracker_id: 272
       season_id: 1
       game_week_id: 28
       home_team_id: 36
@@ -4352,8 +4624,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture273
-      id: 273
+    - _id: fixture2444742
+      id: 2444742
+      fpl_tracker_id: 273
       season_id: 1
       game_week_id: 28
       home_team_id: 8
@@ -4368,8 +4641,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture274
-      id: 274
+    - _id: fixture2444743
+      id: 2444743
+      fpl_tracker_id: 274
       season_id: 1
       game_week_id: 28
       home_team_id: 31
@@ -4384,8 +4658,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture275
-      id: 275
+    - _id: fixture2444744
+      id: 2444744
+      fpl_tracker_id: 275
       season_id: 1
       game_week_id: 28
       home_team_id: 14
@@ -4400,8 +4675,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture276
-      id: 276
+    - _id: fixture2444745
+      id: 2444745
+      fpl_tracker_id: 276
       season_id: 1
       game_week_id: 28
       home_team_id: 1
@@ -4416,8 +4692,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture277
-      id: 277
+    - _id: fixture2444746
+      id: 2444746
+      fpl_tracker_id: 277
       season_id: 1
       game_week_id: 28
       home_team_id: 17
@@ -4432,8 +4709,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture278
-      id: 278
+    - _id: fixture2444747
+      id: 2444747
+      fpl_tracker_id: 278
       season_id: 1
       game_week_id: 28
       home_team_id: 6
@@ -4448,8 +4726,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture279
-      id: 279
+    - _id: fixture2444748
+      id: 2444748
+      fpl_tracker_id: 279
       season_id: 1
       game_week_id: 28
       home_team_id: 21
@@ -4464,8 +4743,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture280
-      id: 280
+    - _id: fixture2444749
+      id: 2444749
+      fpl_tracker_id: 280
       season_id: 1
       game_week_id: 28
       home_team_id: 39
@@ -4480,8 +4760,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture281
-      id: 281
+    - _id: fixture2444751
+      id: 2444751
+      fpl_tracker_id: 281
       season_id: 1
       game_week_id: 29
       home_team_id: 3
@@ -4496,8 +4777,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture282
-      id: 282
+    - _id: fixture2444752
+      id: 2444752
+      fpl_tracker_id: 282
       season_id: 1
       game_week_id: 29
       home_team_id: 7
@@ -4512,8 +4794,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture283
-      id: 283
+    - _id: fixture2444750
+      id: 2444750
+      fpl_tracker_id: 283
       season_id: 1
       game_week_id: 29
       home_team_id: 91
@@ -4528,8 +4811,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture284
-      id: 284
+    - _id: fixture2444753
+      id: 2444753
+      fpl_tracker_id: 284
       season_id: 1
       game_week_id: 29
       home_team_id: 11
@@ -4544,8 +4828,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture285
-      id: 285
+    - _id: fixture2444754
+      id: 2444754
+      fpl_tracker_id: 285
       season_id: 1
       game_week_id: 29
       home_team_id: 54
@@ -4560,8 +4845,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture286
-      id: 286
+    - _id: fixture2444755
+      id: 2444755
+      fpl_tracker_id: 286
       season_id: 1
       game_week_id: 29
       home_team_id: 40
@@ -4576,8 +4862,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture287
-      id: 287
+    - _id: fixture2444756
+      id: 2444756
+      fpl_tracker_id: 287
       season_id: 1
       game_week_id: 29
       home_team_id: 13
@@ -4592,8 +4879,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture288
-      id: 288
+    - _id: fixture2444757
+      id: 2444757
+      fpl_tracker_id: 288
       season_id: 1
       game_week_id: 29
       home_team_id: 43
@@ -4608,8 +4896,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture289
-      id: 289
+    - _id: fixture2444758
+      id: 2444758
+      fpl_tracker_id: 289
       season_id: 1
       game_week_id: 29
       home_team_id: 4
@@ -4624,8 +4913,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture290
-      id: 290
+    - _id: fixture2444759
+      id: 2444759
+      fpl_tracker_id: 290
       season_id: 1
       game_week_id: 29
       home_team_id: 20
@@ -4640,8 +4930,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture291
-      id: 291
+    - _id: fixture2444761
+      id: 2444761
+      fpl_tracker_id: 291
       season_id: 1
       game_week_id: 30
       home_team_id: 3
@@ -4656,8 +4947,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture292
-      id: 292
+    - _id: fixture2444760
+      id: 2444760
+      fpl_tracker_id: 292
       season_id: 1
       game_week_id: 30
       home_team_id: 91
@@ -4672,8 +4964,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture293
-      id: 293
+    - _id: fixture2444762
+      id: 2444762
+      fpl_tracker_id: 293
       season_id: 1
       game_week_id: 30
       home_team_id: 36
@@ -4688,8 +4981,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture294
-      id: 294
+    - _id: fixture2444763
+      id: 2444763
+      fpl_tracker_id: 294
       season_id: 1
       game_week_id: 30
       home_team_id: 17
@@ -4704,8 +4998,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture295
-      id: 295
+    - _id: fixture2444764
+      id: 2444764
+      fpl_tracker_id: 295
       season_id: 1
       game_week_id: 30
       home_team_id: 39
@@ -4720,8 +5015,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture296
-      id: 296
+    - _id: fixture2444765
+      id: 2444765
+      fpl_tracker_id: 296
       season_id: 1
       game_week_id: 30
       home_team_id: 8
@@ -4736,8 +5032,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture298
-      id: 298
+    - _id: fixture2444767
+      id: 2444767
+      fpl_tracker_id: 298
       season_id: 1
       game_week_id: 30
       home_team_id: 43
@@ -4752,8 +5049,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture299
-      id: 299
+    - _id: fixture2444768
+      id: 2444768
+      fpl_tracker_id: 299
       season_id: 1
       game_week_id: 30
       home_team_id: 4
@@ -4768,8 +5066,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture300
-      id: 300
+    - _id: fixture2444769
+      id: 2444769
+      fpl_tracker_id: 300
       season_id: 1
       game_week_id: 30
       home_team_id: 20
@@ -4784,8 +5083,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture297
-      id: 297
+    - _id: fixture2444766
+      id: 2444766
+      fpl_tracker_id: 297
       season_id: 1
       game_week_id: 30
       home_team_id: 14
@@ -4800,8 +5100,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture301
-      id: 301
+    - _id: fixture2444770
+      id: 2444770
+      fpl_tracker_id: 301
       season_id: 1
       game_week_id: 31
       home_team_id: 7
@@ -4816,8 +5117,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture302
-      id: 302
+    - _id: fixture2444771
+      id: 2444771
+      fpl_tracker_id: 302
       season_id: 1
       game_week_id: 31
       home_team_id: 94
@@ -4832,8 +5134,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture303
-      id: 303
+    - _id: fixture2444772
+      id: 2444772
+      fpl_tracker_id: 303
       season_id: 1
       game_week_id: 31
       home_team_id: 31
@@ -4848,8 +5151,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture304
-      id: 304
+    - _id: fixture2444773
+      id: 2444773
+      fpl_tracker_id: 304
       season_id: 1
       game_week_id: 31
       home_team_id: 11
@@ -4864,8 +5168,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture305
-      id: 305
+    - _id: fixture2444774
+      id: 2444774
+      fpl_tracker_id: 305
       season_id: 1
       game_week_id: 31
       home_team_id: 54
@@ -4880,8 +5185,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture306
-      id: 306
+    - _id: fixture2444775
+      id: 2444775
+      fpl_tracker_id: 306
       season_id: 1
       game_week_id: 31
       home_team_id: 40
@@ -4896,8 +5202,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture307
-      id: 307
+    - _id: fixture2444776
+      id: 2444776
+      fpl_tracker_id: 307
       season_id: 1
       game_week_id: 31
       home_team_id: 13
@@ -4912,8 +5219,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture308
-      id: 308
+    - _id: fixture2444777
+      id: 2444777
+      fpl_tracker_id: 308
       season_id: 1
       game_week_id: 31
       home_team_id: 1
@@ -4928,8 +5236,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture309
-      id: 309
+    - _id: fixture2444778
+      id: 2444778
+      fpl_tracker_id: 309
       season_id: 1
       game_week_id: 31
       home_team_id: 6
@@ -4944,8 +5253,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture310
-      id: 310
+    - _id: fixture2444779
+      id: 2444779
+      fpl_tracker_id: 310
       season_id: 1
       game_week_id: 31
       home_team_id: 21
@@ -4960,8 +5270,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture311
-      id: 311
+    - _id: fixture2444781
+      id: 2444781
+      fpl_tracker_id: 311
       season_id: 1
       game_week_id: 32
       home_team_id: 3
@@ -4976,8 +5287,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture312
-      id: 312
+    - _id: fixture2444780
+      id: 2444780
+      fpl_tracker_id: 312
       season_id: 1
       game_week_id: 32
       home_team_id: 91
@@ -4992,8 +5304,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture313
-      id: 313
+    - _id: fixture2444782
+      id: 2444782
+      fpl_tracker_id: 313
       season_id: 1
       game_week_id: 32
       home_team_id: 36
@@ -5008,8 +5321,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture314
-      id: 314
+    - _id: fixture2444783
+      id: 2444783
+      fpl_tracker_id: 314
       season_id: 1
       game_week_id: 32
       home_team_id: 8
@@ -5024,8 +5338,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture315
-      id: 315
+    - _id: fixture2444784
+      id: 2444784
+      fpl_tracker_id: 315
       season_id: 1
       game_week_id: 32
       home_team_id: 14
@@ -5040,8 +5355,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture316
-      id: 316
+    - _id: fixture2444785
+      id: 2444785
+      fpl_tracker_id: 316
       season_id: 1
       game_week_id: 32
       home_team_id: 43
@@ -5056,8 +5372,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture317
-      id: 317
+    - _id: fixture2444786
+      id: 2444786
+      fpl_tracker_id: 317
       season_id: 1
       game_week_id: 32
       home_team_id: 4
@@ -5072,8 +5389,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture318
-      id: 318
+    - _id: fixture2444787
+      id: 2444787
+      fpl_tracker_id: 318
       season_id: 1
       game_week_id: 32
       home_team_id: 17
@@ -5088,8 +5406,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture319
-      id: 319
+    - _id: fixture2444788
+      id: 2444788
+      fpl_tracker_id: 319
       season_id: 1
       game_week_id: 32
       home_team_id: 20
@@ -5104,8 +5423,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture320
-      id: 320
+    - _id: fixture2444789
+      id: 2444789
+      fpl_tracker_id: 320
       season_id: 1
       game_week_id: 32
       home_team_id: 39
@@ -5120,8 +5440,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture321
-      id: 321
+    - _id: fixture2444790
+      id: 2444790
+      fpl_tracker_id: 321
       season_id: 1
       game_week_id: 33
       home_team_id: 7
@@ -5136,8 +5457,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture322
-      id: 322
+    - _id: fixture2444791
+      id: 2444791
+      fpl_tracker_id: 322
       season_id: 1
       game_week_id: 33
       home_team_id: 94
@@ -5152,8 +5474,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture323
-      id: 323
+    - _id: fixture2444792
+      id: 2444792
+      fpl_tracker_id: 323
       season_id: 1
       game_week_id: 33
       home_team_id: 31
@@ -5168,8 +5491,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture324
-      id: 324
+    - _id: fixture2444793
+      id: 2444793
+      fpl_tracker_id: 324
       season_id: 1
       game_week_id: 33
       home_team_id: 11
@@ -5184,8 +5508,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture325
-      id: 325
+    - _id: fixture2444794
+      id: 2444794
+      fpl_tracker_id: 325
       season_id: 1
       game_week_id: 33
       home_team_id: 54
@@ -5200,8 +5525,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture326
-      id: 326
+    - _id: fixture2444795
+      id: 2444795
+      fpl_tracker_id: 326
       season_id: 1
       game_week_id: 33
       home_team_id: 40
@@ -5216,8 +5542,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture327
-      id: 327
+    - _id: fixture2444796
+      id: 2444796
+      fpl_tracker_id: 327
       season_id: 1
       game_week_id: 33
       home_team_id: 13
@@ -5232,8 +5559,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture328
-      id: 328
+    - _id: fixture2444797
+      id: 2444797
+      fpl_tracker_id: 328
       season_id: 1
       game_week_id: 33
       home_team_id: 1
@@ -5248,8 +5576,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture329
-      id: 329
+    - _id: fixture2444798
+      id: 2444798
+      fpl_tracker_id: 329
       season_id: 1
       game_week_id: 33
       home_team_id: 6
@@ -5264,8 +5593,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture330
-      id: 330
+    - _id: fixture2444799
+      id: 2444799
+      fpl_tracker_id: 330
       season_id: 1
       game_week_id: 33
       home_team_id: 21
@@ -5280,8 +5610,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture331
-      id: 331
+    - _id: fixture2444801
+      id: 2444801
+      fpl_tracker_id: 331
       season_id: 1
       game_week_id: 34
       home_team_id: 3
@@ -5296,8 +5627,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture332
-      id: 332
+    - _id: fixture2444800
+      id: 2444800
+      fpl_tracker_id: 332
       season_id: 1
       game_week_id: 34
       home_team_id: 91
@@ -5312,8 +5644,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture333
-      id: 333
+    - _id: fixture2444802
+      id: 2444802
+      fpl_tracker_id: 333
       season_id: 1
       game_week_id: 34
       home_team_id: 36
@@ -5328,8 +5661,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture334
-      id: 334
+    - _id: fixture2444803
+      id: 2444803
+      fpl_tracker_id: 334
       season_id: 1
       game_week_id: 34
       home_team_id: 8
@@ -5344,8 +5678,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture335
-      id: 335
+    - _id: fixture2444804
+      id: 2444804
+      fpl_tracker_id: 335
       season_id: 1
       game_week_id: 34
       home_team_id: 14
@@ -5360,8 +5695,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture336
-      id: 336
+    - _id: fixture2444805
+      id: 2444805
+      fpl_tracker_id: 336
       season_id: 1
       game_week_id: 34
       home_team_id: 43
@@ -5376,8 +5712,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture337
-      id: 337
+    - _id: fixture2444806
+      id: 2444806
+      fpl_tracker_id: 337
       season_id: 1
       game_week_id: 34
       home_team_id: 4
@@ -5392,8 +5729,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture338
-      id: 338
+    - _id: fixture2444807
+      id: 2444807
+      fpl_tracker_id: 338
       season_id: 1
       game_week_id: 34
       home_team_id: 17
@@ -5408,8 +5746,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture339
-      id: 339
+    - _id: fixture2444808
+      id: 2444808
+      fpl_tracker_id: 339
       season_id: 1
       game_week_id: 34
       home_team_id: 20
@@ -5424,8 +5763,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture340
-      id: 340
+    - _id: fixture2444809
+      id: 2444809
+      fpl_tracker_id: 340
       season_id: 1
       game_week_id: 34
       home_team_id: 39
@@ -5440,8 +5780,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture341
-      id: 341
+    - _id: fixture2444810
+      id: 2444810
+      fpl_tracker_id: 341
       season_id: 1
       game_week_id: 35
       home_team_id: 3
@@ -5456,8 +5797,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture342
-      id: 342
+    - _id: fixture2444811
+      id: 2444811
+      fpl_tracker_id: 342
       season_id: 1
       game_week_id: 35
       home_team_id: 7
@@ -5472,8 +5814,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture343
-      id: 343
+    - _id: fixture2444812
+      id: 2444812
+      fpl_tracker_id: 343
       season_id: 1
       game_week_id: 35
       home_team_id: 94
@@ -5488,8 +5831,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture344
-      id: 344
+    - _id: fixture2444813
+      id: 2444813
+      fpl_tracker_id: 344
       season_id: 1
       game_week_id: 35
       home_team_id: 36
@@ -5504,8 +5848,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture345
-      id: 345
+    - _id: fixture2444814
+      id: 2444814
+      fpl_tracker_id: 345
       season_id: 1
       game_week_id: 35
       home_team_id: 8
@@ -5520,8 +5865,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture346
-      id: 346
+    - _id: fixture2444815
+      id: 2444815
+      fpl_tracker_id: 346
       season_id: 1
       game_week_id: 35
       home_team_id: 31
@@ -5536,8 +5882,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture347
-      id: 347
+    - _id: fixture2444816
+      id: 2444816
+      fpl_tracker_id: 347
       season_id: 1
       game_week_id: 35
       home_team_id: 11
@@ -5552,8 +5899,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture348
-      id: 348
+    - _id: fixture2444817
+      id: 2444817
+      fpl_tracker_id: 348
       season_id: 1
       game_week_id: 35
       home_team_id: 13
@@ -5568,8 +5916,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture349
-      id: 349
+    - _id: fixture2444818
+      id: 2444818
+      fpl_tracker_id: 349
       season_id: 1
       game_week_id: 35
       home_team_id: 43
@@ -5584,8 +5933,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture350
-      id: 350
+    - _id: fixture2444819
+      id: 2444819
+      fpl_tracker_id: 350
       season_id: 1
       game_week_id: 35
       home_team_id: 21
@@ -5600,8 +5950,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture351
-      id: 351
+    - _id: fixture2444820
+      id: 2444820
+      fpl_tracker_id: 351
       season_id: 1
       game_week_id: 36
       home_team_id: 91
@@ -5616,8 +5967,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture352
-      id: 352
+    - _id: fixture2444821
+      id: 2444821
+      fpl_tracker_id: 352
       season_id: 1
       game_week_id: 36
       home_team_id: 54
@@ -5632,8 +5984,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture353
-      id: 353
+    - _id: fixture2444822
+      id: 2444822
+      fpl_tracker_id: 353
       season_id: 1
       game_week_id: 36
       home_team_id: 40
@@ -5648,8 +6001,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture354
-      id: 354
+    - _id: fixture2444823
+      id: 2444823
+      fpl_tracker_id: 354
       season_id: 1
       game_week_id: 36
       home_team_id: 14
@@ -5664,8 +6018,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture355
-      id: 355
+    - _id: fixture2444824
+      id: 2444824
+      fpl_tracker_id: 355
       season_id: 1
       game_week_id: 36
       home_team_id: 1
@@ -5680,8 +6035,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture356
-      id: 356
+    - _id: fixture2444825
+      id: 2444825
+      fpl_tracker_id: 356
       season_id: 1
       game_week_id: 36
       home_team_id: 4
@@ -5696,8 +6052,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture357
-      id: 357
+    - _id: fixture2444826
+      id: 2444826
+      fpl_tracker_id: 357
       season_id: 1
       game_week_id: 36
       home_team_id: 17
@@ -5712,8 +6069,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture358
-      id: 358
+    - _id: fixture2444827
+      id: 2444827
+      fpl_tracker_id: 358
       season_id: 1
       game_week_id: 36
       home_team_id: 20
@@ -5728,8 +6086,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture359
-      id: 359
+    - _id: fixture2444828
+      id: 2444828
+      fpl_tracker_id: 359
       season_id: 1
       game_week_id: 36
       home_team_id: 6
@@ -5744,8 +6103,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture360
-      id: 360
+    - _id: fixture2444829
+      id: 2444829
+      fpl_tracker_id: 360
       season_id: 1
       game_week_id: 36
       home_team_id: 39
@@ -5760,8 +6120,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture361
-      id: 361
+    - _id: fixture2444830
+      id: 2444830
+      fpl_tracker_id: 361
       season_id: 1
       game_week_id: 37
       home_team_id: 3
@@ -5776,8 +6137,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture362
-      id: 362
+    - _id: fixture2444831
+      id: 2444831
+      fpl_tracker_id: 362
       season_id: 1
       game_week_id: 37
       home_team_id: 7
@@ -5792,8 +6154,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture363
-      id: 363
+    - _id: fixture2444832
+      id: 2444832
+      fpl_tracker_id: 363
       season_id: 1
       game_week_id: 37
       home_team_id: 94
@@ -5808,8 +6171,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture364
-      id: 364
+    - _id: fixture2444833
+      id: 2444833
+      fpl_tracker_id: 364
       season_id: 1
       game_week_id: 37
       home_team_id: 36
@@ -5824,8 +6188,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture365
-      id: 365
+    - _id: fixture2444834
+      id: 2444834
+      fpl_tracker_id: 365
       season_id: 1
       game_week_id: 37
       home_team_id: 8
@@ -5840,8 +6205,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture366
-      id: 366
+    - _id: fixture2444835
+      id: 2444835
+      fpl_tracker_id: 366
       season_id: 1
       game_week_id: 37
       home_team_id: 31
@@ -5856,8 +6222,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture367
-      id: 367
+    - _id: fixture2444836
+      id: 2444836
+      fpl_tracker_id: 367
       season_id: 1
       game_week_id: 37
       home_team_id: 11
@@ -5872,8 +6239,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture368
-      id: 368
+    - _id: fixture2444837
+      id: 2444837
+      fpl_tracker_id: 368
       season_id: 1
       game_week_id: 37
       home_team_id: 13
@@ -5888,8 +6256,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture369
-      id: 369
+    - _id: fixture2444838
+      id: 2444838
+      fpl_tracker_id: 369
       season_id: 1
       game_week_id: 37
       home_team_id: 43
@@ -5904,8 +6273,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture370
-      id: 370
+    - _id: fixture2444839
+      id: 2444839
+      fpl_tracker_id: 370
       season_id: 1
       game_week_id: 37
       home_team_id: 21
@@ -5920,8 +6290,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture371
-      id: 371
+    - _id: fixture2444840
+      id: 2444840
+      fpl_tracker_id: 371
       season_id: 1
       game_week_id: 38
       home_team_id: 91
@@ -5936,8 +6307,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture372
-      id: 372
+    - _id: fixture2444841
+      id: 2444841
+      fpl_tracker_id: 372
       season_id: 1
       game_week_id: 38
       home_team_id: 54
@@ -5952,8 +6324,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture373
-      id: 373
+    - _id: fixture2444842
+      id: 2444842
+      fpl_tracker_id: 373
       season_id: 1
       game_week_id: 38
       home_team_id: 40
@@ -5968,8 +6341,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture374
-      id: 374
+    - _id: fixture2444843
+      id: 2444843
+      fpl_tracker_id: 374
       season_id: 1
       game_week_id: 38
       home_team_id: 14
@@ -5984,8 +6358,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture375
-      id: 375
+    - _id: fixture2444844
+      id: 2444844
+      fpl_tracker_id: 375
       season_id: 1
       game_week_id: 38
       home_team_id: 1
@@ -6000,8 +6375,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture376
-      id: 376
+    - _id: fixture2444845
+      id: 2444845
+      fpl_tracker_id: 376
       season_id: 1
       game_week_id: 38
       home_team_id: 4
@@ -6016,8 +6392,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture377
-      id: 377
+    - _id: fixture2444846
+      id: 2444846
+      fpl_tracker_id: 377
       season_id: 1
       game_week_id: 38
       home_team_id: 17
@@ -6032,8 +6409,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture378
-      id: 378
+    - _id: fixture2444847
+      id: 2444847
+      fpl_tracker_id: 378
       season_id: 1
       game_week_id: 38
       home_team_id: 20
@@ -6048,8 +6426,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture379
-      id: 379
+    - _id: fixture2444848
+      id: 2444848
+      fpl_tracker_id: 379
       season_id: 1
       game_week_id: 38
       home_team_id: 6
@@ -6064,8 +6443,9 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture380
-      id: 380
+    - _id: fixture2444849
+      id: 2444849
+      fpl_tracker_id: 380
       season_id: 1
       game_week_id: 38
       home_team_id: 39

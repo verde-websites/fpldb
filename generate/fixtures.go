@@ -17,6 +17,7 @@ type FixtureModel struct {
 type FixtureRow struct {
 	FixtureID            string    `yaml:"_id"`
 	ID                   int64     `yaml:"id"`
+	FplTrackerID         int64     `yaml:"fpl_tracker_id"`
 	SeasonID             int64     `yaml:"season_id"`
 	GameweekID           int64     `yaml:"game_week_id"`
 	HomeTeamID           int64     `yaml:"home_team_id"`
@@ -38,7 +39,7 @@ func GenerateFixtures(fplFixturesResp []dto.FixtureFPLResponseDto, teamData []Te
 	}
 	fixtureData := []FixtureModel{}
 	for _, fixture := range fplFixturesResp {
-		fixtureID := fmt.Sprintf("fixture%d", fixture.ID)
+		fixtureID := fmt.Sprintf("fixture%d", fixture.Code)
 		fixtureModel := FixtureModel{
 			Model: "Fixture",
 			Rows:  []FixtureRow{},
@@ -50,7 +51,8 @@ func GenerateFixtures(fplFixturesResp []dto.FixtureFPLResponseDto, teamData []Te
 
 		fixtureModel.Rows = append(fixtureModel.Rows, FixtureRow{
 			FixtureID:            fixtureID,
-			ID:                   int64(fixture.ID),
+			FplTrackerID:         int64(fixture.ID),
+			ID:                   int64(fixture.Code),
 			SeasonID:             1,
 			GameweekID:           int64(fixture.Event),
 			HomeTeamID:           int64(teamToTrackerID[int64(fixture.TeamH)]),
