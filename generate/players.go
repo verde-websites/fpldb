@@ -25,14 +25,15 @@ func templatePlayerYamlFixture(bootstrapStaticResp dto.BootstrapStaticFPLRespons
 		playerID := fmt.Sprintf("player%d", player.Code)
 		playerTrackerID := fmt.Sprintf("playerFplTracker%d", player.Code)
 		playerModel.Rows = append(playerModel.Rows, PlayerRow{
-			PlayerID:   playerID,
-			ID:         int64(player.Code),
-			FirstName:  player.FirstName,
-			SecondName: player.SecondName,
-			WebName:    player.WebName,
-			PlayerType: int64(player.PlayerType),
-			Status:     player.Status,
-			TeamId:     int64(player.TeamCode),
+			PlayerID:     playerID,
+			FplTrackerID: int64(player.ID),
+			ID:           int64(player.Code),
+			FirstName:    player.FirstName,
+			SecondName:   player.SecondName,
+			WebName:      player.WebName,
+			PlayerType:   int64(player.PlayerType),
+			Status:       player.Status,
+			TeamId:       int64(player.TeamCode),
 		})
 		playerFplTrackerModel.Rows = append(playerFplTrackerModel.Rows, PlayerFplTrackerRow{
 			PlayerFplTrackerId: playerTrackerID,

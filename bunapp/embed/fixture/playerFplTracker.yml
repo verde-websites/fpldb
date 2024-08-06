@@ -72,10 +72,6 @@
       season_id: 1
       player_id: 462424
       player_tracker_id: 18
-    - _id: playerFplTracker209289
-      season_id: 1
-      player_id: 209289
-      player_tracker_id: 19
     - _id: playerFplTracker167199
       season_id: 1
       player_id: 167199
@@ -984,6 +980,10 @@
       season_id: 1
       player_id: 512462
       player_tracker_id: 582
+    - _id: playerFplTracker209289
+      season_id: 1
+      player_id: 209289
+      player_tracker_id: 19
     - _id: playerFplTracker159533
       season_id: 1
       player_id: 159533
@@ -1072,6 +1072,10 @@
       season_id: 1
       player_id: 184349
       player_tracker_id: 579
+    - _id: playerFplTracker246301
+      season_id: 1
+      player_id: 246301
+      player_tracker_id: 586
     - _id: playerFplTracker462387
       season_id: 1
       player_id: 462387
@@ -2200,6 +2204,10 @@
       season_id: 1
       player_id: 229384
       player_tracker_id: 576
+    - _id: playerFplTracker450070
+      season_id: 1
+      player_id: 450070
+      player_tracker_id: 587
     - _id: playerFplTracker448514
       season_id: 1
       player_id: 448514

@@ -107,10 +107,11 @@ type GameweekRow struct {
 }
 
 type TeamRow struct {
-	TeamID    string `yaml:"_id"`
-	ID        int64  `yaml:"id"`
-	TeamName  string `yaml:"team_name"`
-	ShortName string `yaml:"short_name"`
+	TeamID       string `yaml:"_id"`
+	ID           int64  `yaml:"id"`
+	FplTrackerID int64  `yaml:"fpl_tracker_id"`
+	TeamName     string `yaml:"team_name"`
+	ShortName    string `yaml:"short_name"`
 }
 
 type TeamFplTrackerRow struct {
@@ -121,14 +122,15 @@ type TeamFplTrackerRow struct {
 }
 
 type PlayerRow struct {
-	PlayerID   string `yaml:"_id"`
-	ID         int64  `yaml:"id"`
-	FirstName  string `yaml:"first_name"`
-	SecondName string `yaml:"second_name"`
-	WebName    string `yaml:"web_name"`
-	PlayerType int64  `yaml:"player_type"`
-	Status     string `yaml:"status"`
-	TeamId     int64  `yaml:"team_id"`
+	PlayerID     string `yaml:"_id"`
+	ID           int64  `yaml:"id"`
+	FplTrackerID int64  `yaml:"fpl_tracker_id"`
+	FirstName    string `yaml:"first_name"`
+	SecondName   string `yaml:"second_name"`
+	WebName      string `yaml:"web_name"`
+	PlayerType   int64  `yaml:"player_type"`
+	Status       string `yaml:"status"`
+	TeamId       int64  `yaml:"team_id"`
 }
 
 type PlayerFplTrackerRow struct {

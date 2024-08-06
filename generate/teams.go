@@ -24,10 +24,11 @@ func templateTeamYamlFixture(bootstrapStaticResp dto.BootstrapStaticFPLResponseD
 	for _, team := range bootstrapStaticResp.Teams {
 		teamID := fmt.Sprintf("team%d", team.Code)
 		teamModel.Rows = append(teamModel.Rows, TeamRow{
-			TeamID:    teamID,
-			ID:        int64(team.Code),
-			TeamName:  team.Name,
-			ShortName: team.ShortName,
+			TeamID:       teamID,
+			ID:           int64(team.Code),
+			FplTrackerID: int64(team.ID),
+			TeamName:     team.Name,
+			ShortName:    team.ShortName,
 		})
 
 		TeamFplTrackerModel.Rows = append(TeamFplTrackerModel.Rows, TeamFplTrackerRow{
