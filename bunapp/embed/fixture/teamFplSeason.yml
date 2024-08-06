@@ -1,0 +1,62 @@
+- model: TeamFplSeason
+  rows:
+    - _id: team3-season1
+      season_id: 1
+      team_id: 3
+    - _id: team7-season1
+      season_id: 1
+      team_id: 7
+    - _id: team91-season1
+      season_id: 1
+      team_id: 91
+    - _id: team94-season1
+      season_id: 1
+      team_id: 94
+    - _id: team36-season1
+      season_id: 1
+      team_id: 36
+    - _id: team8-season1
+      season_id: 1
+      team_id: 8
+    - _id: team31-season1
+      season_id: 1
+      team_id: 31
+    - _id: team11-season1
+      season_id: 1
+      team_id: 11
+    - _id: team54-season1
+      season_id: 1
+      team_id: 54
+    - _id: team40-season1
+      season_id: 1
+      team_id: 40
+    - _id: team13-season1
+      season_id: 1
+      team_id: 13
+    - _id: team14-season1
+      season_id: 1
+      team_id: 14
+    - _id: team43-season1
+      season_id: 1
+      team_id: 43
+    - _id: team1-season1
+      season_id: 1
+      team_id: 1
+    - _id: team4-season1
+      season_id: 1
+      team_id: 4
+    - _id: team17-season1
+      season_id: 1
+      team_id: 17
+    - _id: team20-season1
+      season_id: 1
+      team_id: 20
+    - _id: team6-season1
+      season_id: 1
+      team_id: 6
+    - _id: team21-season1
+      season_id: 1
+      team_id: 21
+    - _id: team39-season1
+      season_id: 1
+      team_id: 39

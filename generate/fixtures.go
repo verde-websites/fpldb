@@ -17,6 +17,7 @@ type FixtureModel struct {
 type FixtureRow struct {
 	FixtureID            string    `yaml:"_id"`
 	ID                   int64     `yaml:"id"`
+	SeasonID             int64     `yaml:"season_id"`
 	GameweekID           int64     `yaml:"game_week_id"`
 	HomeTeamID           int64     `yaml:"home_team_id"`
 	AwayTeamID           int64     `yaml:"away_team_id"`
@@ -30,10 +31,10 @@ type FixtureRow struct {
 	AwayTeamScore        int64     `yaml:"away_team_score"`
 }
 
-func GenerateFixtures(fplFixturesResp []dto.FixtureFPLResponseDto, teamData []TeamFplTrackerRow) error {
+func GenerateFixtures(fplFixturesResp []dto.FixtureFPLResponseDto, teamData []TeamRow) error {
 	teamToTrackerID := make(map[int64]int64)
 	for _, team := range teamData {
-		teamToTrackerID[team.TeamTrackerID] = team.TeamTrackerID
+		teamToTrackerID[team.FplTrackerID] = team.ID
 	}
 	fixtureData := []FixtureModel{}
 	for _, fixture := range fplFixturesResp {
@@ -50,6 +51,7 @@ func GenerateFixtures(fplFixturesResp []dto.FixtureFPLResponseDto, teamData []Te
 		fixtureModel.Rows = append(fixtureModel.Rows, FixtureRow{
 			FixtureID:            fixtureID,
 			ID:                   int64(fixture.ID),
+			SeasonID:             1,
 			GameweekID:           int64(fixture.Event),
 			HomeTeamID:           int64(teamToTrackerID[int64(fixture.TeamH)]),
 			AwayTeamID:           int64(teamToTrackerID[int64(fixture.TeamA)]),

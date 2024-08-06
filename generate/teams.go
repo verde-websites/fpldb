@@ -8,21 +8,22 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-func templateTeamYamlFixture(bootstrapStaticResp dto.BootstrapStaticFPLResponseDto) ([]TeamFplTrackerRow, error) {
+func templateTeamYamlFixture(bootstrapStaticResp dto.BootstrapStaticFPLResponseDto) ([]TeamRow, error) {
 	teamData := []TeamModel{}
-	teamFplTrackerData := []TeamFplTrackerModel{}
+	teamFplSeasonData := []TeamFplSeasonModel{}
 	teamModel := TeamModel{
 		Model: "Team",
 		Rows:  []TeamRow{},
 	}
 
-	TeamFplTrackerModel := TeamFplTrackerModel{
-		Model: "TeamFplTracker",
-		Rows:  []TeamFplTrackerRow{},
+	TeamFplSeasonModel := TeamFplSeasonModel{
+		Model: "TeamFplSeason",
+		Rows:  []TeamFplSeasonRow{},
 	}
 
 	for _, team := range bootstrapStaticResp.Teams {
 		teamID := fmt.Sprintf("team%d", team.Code)
+		TeamFplSeasonID := fmt.Sprintf("team%d-season%d", team.Code, 1)
 		teamModel.Rows = append(teamModel.Rows, TeamRow{
 			TeamID:       teamID,
 			ID:           int64(team.Code),
@@ -31,24 +32,23 @@ func templateTeamYamlFixture(bootstrapStaticResp dto.BootstrapStaticFPLResponseD
 			ShortName:    team.ShortName,
 		})
 
-		TeamFplTrackerModel.Rows = append(TeamFplTrackerModel.Rows, TeamFplTrackerRow{
-			TeamFplTrackerId: teamID,
-			SeasonID:         1,
-			TeamID:           int64(team.Code),
-			TeamTrackerID:    int64(team.ID),
+		TeamFplSeasonModel.Rows = append(TeamFplSeasonModel.Rows, TeamFplSeasonRow{
+			TeamFplSeasonID: TeamFplSeasonID,
+			SeasonID:        1,
+			TeamID:          int64(team.Code),
 		})
 	}
 	teamData = append(teamData, teamModel)
-	teamFplTrackerData = append(teamFplTrackerData, TeamFplTrackerModel)
+	teamFplSeasonData = append(teamFplSeasonData, TeamFplSeasonModel)
 	yamlTeamData, err := yaml.Marshal(teamData)
 	if err != nil {
 		fmt.Printf("error marshalling team yaml fixture: %v", err)
 		return nil, err
 	}
 
-	teamFplTrackerYamlData, err := yaml.Marshal(teamFplTrackerData)
+	teamFplSeasonYamlData, err := yaml.Marshal(teamFplSeasonData)
 	if err != nil {
-		fmt.Printf("error marshalling teamFplTracker yaml fixture: %v", err)
+		fmt.Printf("error marshalling teamFplSeason yaml fixture: %v", err)
 		return nil, err
 	}
 	// create the team yaml fixture file
@@ -59,10 +59,10 @@ func templateTeamYamlFixture(bootstrapStaticResp dto.BootstrapStaticFPLResponseD
 		return nil, err
 	}
 
-	err = os.WriteFile("bunapp/embed/fixture/teamFplTracker.yml", teamFplTrackerYamlData, 0644)
+	err = os.WriteFile("bunapp/embed/fixture/teamFplSeason.yml", teamFplSeasonYamlData, 0644)
 	if err != nil {
-		fmt.Printf("error writing teamFplTracker yaml fixture: %v", err)
+		fmt.Printf("error writing teamFplSeason yaml fixture: %v", err)
 		return nil, err
 	}
-	return TeamFplTrackerModel.Rows, nil
+	return teamModel.Rows, nil
 }

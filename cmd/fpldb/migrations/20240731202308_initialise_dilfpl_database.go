@@ -23,7 +23,7 @@ func init() {
 		if err != nil {
 			return err
 		}
-		_, err = db.NewCreateTable().Model((*models.PlayerFplTracker)(nil)).Exec(ctx)
+		_, err = db.NewCreateTable().Model((*models.PlayerFplSeason)(nil)).Exec(ctx)
 		if err != nil {
 			return err
 		}
@@ -31,7 +31,7 @@ func init() {
 		if err != nil {
 			return err
 		}
-		_, err = db.NewCreateTable().Model((*models.TeamFplTracker)(nil)).Exec(ctx)
+		_, err = db.NewCreateTable().Model((*models.TeamFplSeason)(nil)).Exec(ctx)
 		if err != nil {
 			return err
 		}
@@ -59,7 +59,7 @@ func init() {
 		if err != nil {
 			return err
 		}
-		_, err = db.NewDropTable().Model((*models.PlayerFplTracker)(nil)).Exec(ctx)
+		_, err = db.NewDropTable().Model((*models.PlayerFplSeason)(nil)).Exec(ctx)
 		if err != nil {
 			return err
 		}
@@ -67,7 +67,7 @@ func init() {
 		if err != nil {
 			return err
 		}
-		_, err = db.NewDropTable().Model((*models.TeamFplTracker)(nil)).Exec(ctx)
+		_, err = db.NewDropTable().Model((*models.TeamFplSeason)(nil)).Exec(ctx)
 		if err != nil {
 			return err
 		}

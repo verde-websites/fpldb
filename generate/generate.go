@@ -75,9 +75,9 @@ type TeamModel struct {
 	Model string    `yaml:"model"`
 	Rows  []TeamRow `yaml:"rows"`
 }
-type TeamFplTrackerModel struct {
-	Model string              `yaml:"model"`
-	Rows  []TeamFplTrackerRow `yaml:"rows"`
+type TeamFplSeasonModel struct {
+	Model string             `yaml:"model"`
+	Rows  []TeamFplSeasonRow `yaml:"rows"`
 }
 
 type PlayerModel struct {
@@ -85,9 +85,9 @@ type PlayerModel struct {
 	Rows  []PlayerRow `yaml:"rows"`
 }
 
-type PlayerFplTrackerModel struct {
-	Model string                `yaml:"model"`
-	Rows  []PlayerFplTrackerRow `yaml:"rows"`
+type PlayerFplSeasonModel struct {
+	Model string               `yaml:"model"`
+	Rows  []PlayerFplSeasonRow `yaml:"rows"`
 }
 
 type GameweekModel struct {
@@ -114,11 +114,10 @@ type TeamRow struct {
 	ShortName    string `yaml:"short_name"`
 }
 
-type TeamFplTrackerRow struct {
-	TeamFplTrackerId string `yaml:"_id"`
-	SeasonID         int64  `yaml:"season_id"`
-	TeamID           int64  `yaml:"team_id"`
-	TeamTrackerID    int64  `yaml:"team_tracker_id"`
+type TeamFplSeasonRow struct {
+	TeamFplSeasonID string `yaml:"_id"`
+	SeasonID        int64  `yaml:"season_id"`
+	TeamID          int64  `yaml:"team_id"`
 }
 
 type PlayerRow struct {
@@ -133,9 +132,8 @@ type PlayerRow struct {
 	TeamId       int64  `yaml:"team_id"`
 }
 
-type PlayerFplTrackerRow struct {
-	PlayerFplTrackerId string `yaml:"_id"`
-	SeasonID           int64  `yaml:"season_id"`
-	PlayerID           int64  `yaml:"player_id"`
-	PlayerTrackerID    int64  `yaml:"player_tracker_id"`
+type PlayerFplSeasonRow struct {
+	PlayerFplSeasonID string `yaml:"_id"`
+	SeasonID          int64  `yaml:"season_id"`
+	PlayerID          int64  `yaml:"player_id"`
 }

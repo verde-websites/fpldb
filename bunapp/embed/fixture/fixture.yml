@@ -2,9 +2,10 @@
   rows:
     - _id: fixture1
       id: 1
+      season_id: 1
       game_week_id: 1
-      home_team_id: 14
-      away_team_id: 9
+      home_team_id: 1
+      away_team_id: 54
       kickoff_time: 2024-08-16T19:00:00Z
       minutes: 0
       finished: false
@@ -17,9 +18,10 @@
   rows:
     - _id: fixture4
       id: 4
+      season_id: 1
       game_week_id: 1
-      home_team_id: 10
-      away_team_id: 12
+      home_team_id: 40
+      away_team_id: 14
       kickoff_time: 2024-08-17T11:30:00Z
       minutes: 0
       finished: false
@@ -32,9 +34,10 @@
   rows:
     - _id: fixture2
       id: 2
+      season_id: 1
       game_week_id: 1
-      home_team_id: 1
-      away_team_id: 20
+      home_team_id: 3
+      away_team_id: 39
       kickoff_time: 2024-08-17T14:00:00Z
       minutes: 0
       finished: false
@@ -47,9 +50,10 @@
   rows:
     - _id: fixture3
       id: 3
+      season_id: 1
       game_week_id: 1
-      home_team_id: 8
-      away_team_id: 5
+      home_team_id: 11
+      away_team_id: 36
       kickoff_time: 2024-08-17T14:00:00Z
       minutes: 0
       finished: false
@@ -62,9 +66,10 @@
   rows:
     - _id: fixture5
       id: 5
+      season_id: 1
       game_week_id: 1
-      home_team_id: 15
-      away_team_id: 17
+      home_team_id: 4
+      away_team_id: 20
       kickoff_time: 2024-08-17T14:00:00Z
       minutes: 0
       finished: false
@@ -77,9 +82,10 @@
   rows:
     - _id: fixture6
       id: 6
+      season_id: 1
       game_week_id: 1
-      home_team_id: 16
-      away_team_id: 3
+      home_team_id: 17
+      away_team_id: 91
       kickoff_time: 2024-08-17T14:00:00Z
       minutes: 0
       finished: false
@@ -92,9 +98,10 @@
   rows:
     - _id: fixture7
       id: 7
+      season_id: 1
       game_week_id: 1
-      home_team_id: 19
-      away_team_id: 2
+      home_team_id: 21
+      away_team_id: 7
       kickoff_time: 2024-08-17T16:30:00Z
       minutes: 0
       finished: false
@@ -107,9 +114,10 @@
   rows:
     - _id: fixture8
       id: 8
+      season_id: 1
       game_week_id: 1
-      home_team_id: 4
-      away_team_id: 7
+      home_team_id: 94
+      away_team_id: 31
       kickoff_time: 2024-08-18T13:00:00Z
       minutes: 0
       finished: false
@@ -122,9 +130,10 @@
   rows:
     - _id: fixture9
       id: 9
+      season_id: 1
       game_week_id: 1
-      home_team_id: 6
-      away_team_id: 13
+      home_team_id: 8
+      away_team_id: 43
       kickoff_time: 2024-08-18T15:30:00Z
       minutes: 0
       finished: false
@@ -137,9 +146,10 @@
   rows:
     - _id: fixture10
       id: 10
+      season_id: 1
       game_week_id: 1
-      home_team_id: 11
-      away_team_id: 18
+      home_team_id: 13
+      away_team_id: 6
       kickoff_time: 2024-08-19T19:00:00Z
       minutes: 0
       finished: false
@@ -152,9 +162,10 @@
   rows:
     - _id: fixture13
       id: 13
+      season_id: 1
       game_week_id: 2
-      home_team_id: 5
-      away_team_id: 14
+      home_team_id: 36
+      away_team_id: 1
       kickoff_time: 2024-08-24T11:30:00Z
       minutes: 0
       finished: false
@@ -167,9 +178,10 @@
   rows:
     - _id: fixture14
       id: 14
+      season_id: 1
       game_week_id: 2
-      home_team_id: 7
-      away_team_id: 19
+      home_team_id: 31
+      away_team_id: 21
       kickoff_time: 2024-08-24T14:00:00Z
       minutes: 0
       finished: false
@@ -182,9 +194,10 @@
   rows:
     - _id: fixture15
       id: 15
+      season_id: 1
       game_week_id: 2
-      home_team_id: 9
-      away_team_id: 11
+      home_team_id: 54
+      away_team_id: 13
       kickoff_time: 2024-08-24T14:00:00Z
       minutes: 0
       finished: false
@@ -197,9 +210,10 @@
   rows:
     - _id: fixture17
       id: 17
+      season_id: 1
       game_week_id: 2
-      home_team_id: 13
-      away_team_id: 10
+      home_team_id: 43
+      away_team_id: 40
       kickoff_time: 2024-08-24T14:00:00Z
       minutes: 0
       finished: false
@@ -212,9 +226,10 @@
   rows:
     - _id: fixture18
       id: 18
+      season_id: 1
       game_week_id: 2
-      home_team_id: 17
-      away_team_id: 16
+      home_team_id: 20
+      away_team_id: 17
       kickoff_time: 2024-08-24T14:00:00Z
       minutes: 0
       finished: false
@@ -227,9 +242,10 @@
   rows:
     - _id: fixture19
       id: 19
+      season_id: 1
       game_week_id: 2
-      home_team_id: 18
-      away_team_id: 8
+      home_team_id: 6
+      away_team_id: 11
       kickoff_time: 2024-08-24T14:00:00Z
       minutes: 0
       finished: false
@@ -242,9 +258,10 @@
   rows:
     - _id: fixture11
       id: 11
+      season_id: 1
       game_week_id: 2
-      home_team_id: 2
-      away_team_id: 1
+      home_team_id: 7
+      away_team_id: 3
       kickoff_time: 2024-08-24T16:30:00Z
       minutes: 0
       finished: false
@@ -257,9 +274,10 @@
   rows:
     - _id: fixture12
       id: 12
+      season_id: 1
       game_week_id: 2
-      home_team_id: 3
-      away_team_id: 15
+      home_team_id: 91
+      away_team_id: 4
       kickoff_time: 2024-08-25T13:00:00Z
       minutes: 0
       finished: false
@@ -272,9 +290,10 @@
   rows:
     - _id: fixture20
       id: 20
+      season_id: 1
       game_week_id: 2
-      home_team_id: 20
-      away_team_id: 6
+      home_team_id: 39
+      away_team_id: 8
       kickoff_time: 2024-08-25T13:00:00Z
       minutes: 0
       finished: false
@@ -287,9 +306,10 @@
   rows:
     - _id: fixture16
       id: 16
+      season_id: 1
       game_week_id: 2
-      home_team_id: 12
-      away_team_id: 4
+      home_team_id: 14
+      away_team_id: 94
       kickoff_time: 2024-08-25T15:30:00Z
       minutes: 0
       finished: false
@@ -302,9 +322,10 @@
   rows:
     - _id: fixture21
       id: 21
+      season_id: 1
       game_week_id: 3
-      home_team_id: 1
-      away_team_id: 5
+      home_team_id: 3
+      away_team_id: 36
       kickoff_time: 2024-08-31T11:30:00Z
       minutes: 0
       finished: false
@@ -317,9 +338,10 @@
   rows:
     - _id: fixture22
       id: 22
+      season_id: 1
       game_week_id: 3
-      home_team_id: 4
-      away_team_id: 17
+      home_team_id: 94
+      away_team_id: 20
       kickoff_time: 2024-08-31T14:00:00Z
       minutes: 0
       finished: false
@@ -332,9 +354,10 @@
   rows:
     - _id: fixture24
       id: 24
+      season_id: 1
       game_week_id: 3
-      home_team_id: 8
-      away_team_id: 3
+      home_team_id: 11
+      away_team_id: 91
       kickoff_time: 2024-08-31T14:00:00Z
       minutes: 0
       finished: false
@@ -347,9 +370,10 @@
   rows:
     - _id: fixture25
       id: 25
+      season_id: 1
       game_week_id: 3
-      home_team_id: 10
-      away_team_id: 9
+      home_team_id: 40
+      away_team_id: 54
       kickoff_time: 2024-08-31T14:00:00Z
       minutes: 0
       finished: false
@@ -362,9 +386,10 @@
   rows:
     - _id: fixture26
       id: 26
+      season_id: 1
       game_week_id: 3
-      home_team_id: 11
-      away_team_id: 2
+      home_team_id: 13
+      away_team_id: 7
       kickoff_time: 2024-08-31T14:00:00Z
       minutes: 0
       finished: false
@@ -377,9 +402,10 @@
   rows:
     - _id: fixture29
       id: 29
+      season_id: 1
       game_week_id: 3
-      home_team_id: 16
-      away_team_id: 20
+      home_team_id: 17
+      away_team_id: 39
       kickoff_time: 2024-08-31T14:00:00Z
       minutes: 0
       finished: false
@@ -392,9 +418,10 @@
   rows:
     - _id: fixture30
       id: 30
+      season_id: 1
       game_week_id: 3
-      home_team_id: 19
-      away_team_id: 13
+      home_team_id: 21
+      away_team_id: 43
       kickoff_time: 2024-08-31T16:30:00Z
       minutes: 0
       finished: false
@@ -407,9 +434,10 @@
   rows:
     - _id: fixture23
       id: 23
+      season_id: 1
       game_week_id: 3
-      home_team_id: 6
-      away_team_id: 7
+      home_team_id: 8
+      away_team_id: 31
       kickoff_time: 2024-09-01T12:30:00Z
       minutes: 0
       finished: false
@@ -422,9 +450,10 @@
   rows:
     - _id: fixture28
       id: 28
+      season_id: 1
       game_week_id: 3
-      home_team_id: 15
-      away_team_id: 18
+      home_team_id: 4
+      away_team_id: 6
       kickoff_time: 2024-09-01T12:30:00Z
       minutes: 0
       finished: false
@@ -437,9 +466,10 @@
   rows:
     - _id: fixture27
       id: 27
+      season_id: 1
       game_week_id: 3
-      home_team_id: 14
-      away_team_id: 12
+      home_team_id: 1
+      away_team_id: 14
       kickoff_time: 2024-09-01T15:00:00Z
       minutes: 0
       finished: false
@@ -452,9 +482,10 @@
   rows:
     - _id: fixture38
       id: 38
+      season_id: 1
       game_week_id: 4
-      home_team_id: 17
-      away_team_id: 14
+      home_team_id: 20
+      away_team_id: 1
       kickoff_time: 2024-09-14T11:30:00Z
       minutes: 0
       finished: false
@@ -467,9 +498,10 @@
   rows:
     - _id: fixture33
       id: 33
+      season_id: 1
       game_week_id: 4
-      home_team_id: 5
-      away_team_id: 10
+      home_team_id: 36
+      away_team_id: 40
       kickoff_time: 2024-09-14T14:00:00Z
       minutes: 0
       finished: false
@@ -482,9 +514,10 @@
   rows:
     - _id: fixture34
       id: 34
+      season_id: 1
       game_week_id: 4
-      home_team_id: 7
-      away_team_id: 11
+      home_team_id: 31
+      away_team_id: 13
       kickoff_time: 2024-09-14T14:00:00Z
       minutes: 0
       finished: false
@@ -497,9 +530,10 @@
   rows:
     - _id: fixture35
       id: 35
+      season_id: 1
       game_week_id: 4
-      home_team_id: 9
-      away_team_id: 19
+      home_team_id: 54
+      away_team_id: 21
       kickoff_time: 2024-09-14T14:00:00Z
       minutes: 0
       finished: false
@@ -512,9 +546,10 @@
   rows:
     - _id: fixture36
       id: 36
+      season_id: 1
       game_week_id: 4
-      home_team_id: 12
-      away_team_id: 16
+      home_team_id: 14
+      away_team_id: 17
       kickoff_time: 2024-09-14T14:00:00Z
       minutes: 0
       finished: false
@@ -527,9 +562,10 @@
   rows:
     - _id: fixture37
       id: 37
+      season_id: 1
       game_week_id: 4
-      home_team_id: 13
-      away_team_id: 4
+      home_team_id: 43
+      away_team_id: 94
       kickoff_time: 2024-09-14T14:00:00Z
       minutes: 0
       finished: false
@@ -542,9 +578,10 @@
   rows:
     - _id: fixture31
       id: 31
+      season_id: 1
       game_week_id: 4
-      home_team_id: 2
-      away_team_id: 8
+      home_team_id: 7
+      away_team_id: 11
       kickoff_time: 2024-09-14T16:30:00Z
       minutes: 0
       finished: false
@@ -557,9 +594,10 @@
   rows:
     - _id: fixture32
       id: 32
+      season_id: 1
       game_week_id: 4
-      home_team_id: 3
-      away_team_id: 6
+      home_team_id: 91
+      away_team_id: 8
       kickoff_time: 2024-09-14T19:00:00Z
       minutes: 0
       finished: false
@@ -572,9 +610,10 @@
   rows:
     - _id: fixture39
       id: 39
+      season_id: 1
       game_week_id: 4
-      home_team_id: 18
-      away_team_id: 1
+      home_team_id: 6
+      away_team_id: 3
       kickoff_time: 2024-09-15T13:00:00Z
       minutes: 0
       finished: false
@@ -587,9 +626,10 @@
   rows:
     - _id: fixture40
       id: 40
+      season_id: 1
       game_week_id: 4
-      home_team_id: 20
-      away_team_id: 15
+      home_team_id: 39
+      away_team_id: 4
       kickoff_time: 2024-09-15T15:30:00Z
       minutes: 0
       finished: false
@@ -602,9 +642,10 @@
   rows:
     - _id: fixture50
       id: 50
+      season_id: 1
       game_week_id: 5
-      home_team_id: 19
-      away_team_id: 6
+      home_team_id: 21
+      away_team_id: 8
       kickoff_time: 2024-09-21T11:30:00Z
       minutes: 0
       finished: false
@@ -617,9 +658,10 @@
   rows:
     - _id: fixture41
       id: 41
+      season_id: 1
       game_week_id: 5
-      home_team_id: 2
-      away_team_id: 20
+      home_team_id: 7
+      away_team_id: 39
       kickoff_time: 2024-09-21T14:00:00Z
       minutes: 0
       finished: false
@@ -632,9 +674,10 @@
   rows:
     - _id: fixture44
       id: 44
+      season_id: 1
       game_week_id: 5
-      home_team_id: 9
-      away_team_id: 15
+      home_team_id: 54
+      away_team_id: 4
       kickoff_time: 2024-09-21T14:00:00Z
       minutes: 0
       finished: false
@@ -647,9 +690,10 @@
   rows:
     - _id: fixture45
       id: 45
+      season_id: 1
       game_week_id: 5
-      home_team_id: 11
-      away_team_id: 8
+      home_team_id: 13
+      away_team_id: 11
       kickoff_time: 2024-09-21T14:00:00Z
       minutes: 0
       finished: false
@@ -662,9 +706,10 @@
   rows:
     - _id: fixture46
       id: 46
+      season_id: 1
       game_week_id: 5
-      home_team_id: 12
-      away_team_id: 3
+      home_team_id: 14
+      away_team_id: 91
       kickoff_time: 2024-09-21T14:00:00Z
       minutes: 0
       finished: false
@@ -677,9 +722,10 @@
   rows:
     - _id: fixture48
       id: 48
+      season_id: 1
       game_week_id: 5
-      home_team_id: 17
-      away_team_id: 10
+      home_team_id: 20
+      away_team_id: 40
       kickoff_time: 2024-09-21T14:00:00Z
       minutes: 0
       finished: false
@@ -692,9 +738,10 @@
   rows:
     - _id: fixture49
       id: 49
+      season_id: 1
       game_week_id: 5
-      home_team_id: 18
-      away_team_id: 4
+      home_team_id: 6
+      away_team_id: 94
       kickoff_time: 2024-09-21T14:00:00Z
       minutes: 0
       finished: false
@@ -707,9 +754,10 @@
   rows:
     - _id: fixture43
       id: 43
+      season_id: 1
       game_week_id: 5
-      home_team_id: 7
-      away_team_id: 14
+      home_team_id: 31
+      away_team_id: 1
       kickoff_time: 2024-09-21T16:30:00Z
       minutes: 0
       finished: false
@@ -722,9 +770,10 @@
   rows:
     - _id: fixture42
       id: 42
+      season_id: 1
       game_week_id: 5
-      home_team_id: 5
-      away_team_id: 16
+      home_team_id: 36
+      away_team_id: 17
       kickoff_time: 2024-09-22T13:00:00Z
       minutes: 0
       finished: false
@@ -737,9 +786,10 @@
   rows:
     - _id: fixture47
       id: 47
+      season_id: 1
       game_week_id: 5
-      home_team_id: 13
-      away_team_id: 1
+      home_team_id: 43
+      away_team_id: 3
       kickoff_time: 2024-09-22T15:30:00Z
       minutes: 0
       finished: false
@@ -752,9 +802,10 @@
   rows:
     - _id: fixture58
       id: 58
+      season_id: 1
       game_week_id: 6
-      home_team_id: 15
-      away_team_id: 13
+      home_team_id: 4
+      away_team_id: 43
       kickoff_time: 2024-09-28T11:30:00Z
       minutes: 0
       finished: false
@@ -767,9 +818,10 @@
   rows:
     - _id: fixture51
       id: 51
+      season_id: 1
       game_week_id: 6
-      home_team_id: 1
-      away_team_id: 11
+      home_team_id: 3
+      away_team_id: 13
       kickoff_time: 2024-09-28T14:00:00Z
       minutes: 0
       finished: false
@@ -782,9 +834,10 @@
   rows:
     - _id: fixture53
       id: 53
+      season_id: 1
       game_week_id: 6
-      home_team_id: 4
-      away_team_id: 19
+      home_team_id: 94
+      away_team_id: 21
       kickoff_time: 2024-09-28T14:00:00Z
       minutes: 0
       finished: false
@@ -797,9 +850,10 @@
   rows:
     - _id: fixture54
       id: 54
+      season_id: 1
       game_week_id: 6
-      home_team_id: 6
-      away_team_id: 5
+      home_team_id: 8
+      away_team_id: 36
       kickoff_time: 2024-09-28T14:00:00Z
       minutes: 0
       finished: false
@@ -812,9 +866,10 @@
   rows:
     - _id: fixture55
       id: 55
+      season_id: 1
       game_week_id: 6
-      home_team_id: 8
-      away_team_id: 7
+      home_team_id: 11
+      away_team_id: 31
       kickoff_time: 2024-09-28T14:00:00Z
       minutes: 0
       finished: false
@@ -827,9 +882,10 @@
   rows:
     - _id: fixture59
       id: 59
+      season_id: 1
       game_week_id: 6
-      home_team_id: 16
-      away_team_id: 9
+      home_team_id: 17
+      away_team_id: 54
       kickoff_time: 2024-09-28T14:00:00Z
       minutes: 0
       finished: false
@@ -842,9 +898,10 @@
   rows:
     - _id: fixture60
       id: 60
+      season_id: 1
       game_week_id: 6
-      home_team_id: 20
-      away_team_id: 12
+      home_team_id: 39
+      away_team_id: 14
       kickoff_time: 2024-09-28T16:30:00Z
       minutes: 0
       finished: false
@@ -857,9 +914,10 @@
   rows:
     - _id: fixture56
       id: 56
+      season_id: 1
       game_week_id: 6
-      home_team_id: 10
-      away_team_id: 2
+      home_team_id: 40
+      away_team_id: 7
       kickoff_time: 2024-09-29T13:00:00Z
       minutes: 0
       finished: false
@@ -872,9 +930,10 @@
   rows:
     - _id: fixture57
       id: 57
+      season_id: 1
       game_week_id: 6
-      home_team_id: 14
-      away_team_id: 18
+      home_team_id: 1
+      away_team_id: 6
       kickoff_time: 2024-09-29T15:30:00Z
       minutes: 0
       finished: false
@@ -887,9 +946,10 @@
   rows:
     - _id: fixture52
       id: 52
+      season_id: 1
       game_week_id: 6
-      home_team_id: 3
-      away_team_id: 17
+      home_team_id: 91
+      away_team_id: 20
       kickoff_time: 2024-09-30T19:00:00Z
       minutes: 0
       finished: false
@@ -902,9 +962,10 @@
   rows:
     - _id: fixture61
       id: 61
+      season_id: 1
       game_week_id: 7
-      home_team_id: 1
-      away_team_id: 17
+      home_team_id: 3
+      away_team_id: 20
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -917,9 +978,10 @@
   rows:
     - _id: fixture62
       id: 62
+      season_id: 1
       game_week_id: 7
-      home_team_id: 2
-      away_team_id: 14
+      home_team_id: 7
+      away_team_id: 1
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -932,9 +994,10 @@
   rows:
     - _id: fixture63
       id: 63
+      season_id: 1
       game_week_id: 7
-      home_team_id: 4
-      away_team_id: 20
+      home_team_id: 94
+      away_team_id: 39
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -947,9 +1010,10 @@
   rows:
     - _id: fixture64
       id: 64
+      season_id: 1
       game_week_id: 7
-      home_team_id: 5
-      away_team_id: 18
+      home_team_id: 36
+      away_team_id: 6
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -962,9 +1026,10 @@
   rows:
     - _id: fixture65
       id: 65
+      season_id: 1
       game_week_id: 7
-      home_team_id: 6
-      away_team_id: 16
+      home_team_id: 8
+      away_team_id: 17
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -977,9 +1042,10 @@
   rows:
     - _id: fixture66
       id: 66
+      season_id: 1
       game_week_id: 7
-      home_team_id: 7
-      away_team_id: 12
+      home_team_id: 31
+      away_team_id: 14
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -992,9 +1058,10 @@
   rows:
     - _id: fixture67
       id: 67
+      season_id: 1
       game_week_id: 7
-      home_team_id: 8
-      away_team_id: 15
+      home_team_id: 11
+      away_team_id: 4
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -1007,9 +1074,10 @@
   rows:
     - _id: fixture68
       id: 68
+      season_id: 1
       game_week_id: 7
-      home_team_id: 11
-      away_team_id: 3
+      home_team_id: 13
+      away_team_id: 91
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -1022,9 +1090,10 @@
   rows:
     - _id: fixture69
       id: 69
+      season_id: 1
       game_week_id: 7
-      home_team_id: 13
-      away_team_id: 9
+      home_team_id: 43
+      away_team_id: 54
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -1037,9 +1106,10 @@
   rows:
     - _id: fixture70
       id: 70
+      season_id: 1
       game_week_id: 7
-      home_team_id: 19
-      away_team_id: 10
+      home_team_id: 21
+      away_team_id: 40
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -1052,9 +1122,10 @@
   rows:
     - _id: fixture71
       id: 71
+      season_id: 1
       game_week_id: 8
-      home_team_id: 3
-      away_team_id: 1
+      home_team_id: 91
+      away_team_id: 3
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1067,9 +1138,10 @@
   rows:
     - _id: fixture72
       id: 72
+      season_id: 1
       game_week_id: 8
-      home_team_id: 9
-      away_team_id: 2
+      home_team_id: 54
+      away_team_id: 7
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1082,9 +1154,10 @@
   rows:
     - _id: fixture73
       id: 73
+      season_id: 1
       game_week_id: 8
-      home_team_id: 10
-      away_team_id: 8
+      home_team_id: 40
+      away_team_id: 11
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1097,9 +1170,10 @@
   rows:
     - _id: fixture74
       id: 74
+      season_id: 1
       game_week_id: 8
-      home_team_id: 12
-      away_team_id: 6
+      home_team_id: 14
+      away_team_id: 8
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1112,9 +1186,10 @@
   rows:
     - _id: fixture75
       id: 75
+      season_id: 1
       game_week_id: 8
-      home_team_id: 14
-      away_team_id: 4
+      home_team_id: 1
+      away_team_id: 94
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1127,9 +1202,10 @@
   rows:
     - _id: fixture76
       id: 76
+      season_id: 1
       game_week_id: 8
-      home_team_id: 15
-      away_team_id: 5
+      home_team_id: 4
+      away_team_id: 36
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1142,9 +1218,10 @@
   rows:
     - _id: fixture77
       id: 77
+      season_id: 1
       game_week_id: 8
-      home_team_id: 16
-      away_team_id: 7
+      home_team_id: 17
+      away_team_id: 31
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1157,9 +1234,10 @@
   rows:
     - _id: fixture78
       id: 78
+      season_id: 1
       game_week_id: 8
-      home_team_id: 17
-      away_team_id: 11
+      home_team_id: 20
+      away_team_id: 13
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1172,9 +1250,10 @@
   rows:
     - _id: fixture79
       id: 79
+      season_id: 1
       game_week_id: 8
-      home_team_id: 18
-      away_team_id: 19
+      home_team_id: 6
+      away_team_id: 21
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1187,9 +1266,10 @@
   rows:
     - _id: fixture80
       id: 80
+      season_id: 1
       game_week_id: 8
-      home_team_id: 20
-      away_team_id: 13
+      home_team_id: 39
+      away_team_id: 43
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1202,9 +1282,10 @@
   rows:
     - _id: fixture81
       id: 81
+      season_id: 1
       game_week_id: 9
-      home_team_id: 1
-      away_team_id: 12
+      home_team_id: 3
+      away_team_id: 14
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1217,9 +1298,10 @@
   rows:
     - _id: fixture82
       id: 82
+      season_id: 1
       game_week_id: 9
-      home_team_id: 2
-      away_team_id: 3
+      home_team_id: 7
+      away_team_id: 91
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1232,9 +1314,10 @@
   rows:
     - _id: fixture83
       id: 83
+      season_id: 1
       game_week_id: 9
-      home_team_id: 4
-      away_team_id: 10
+      home_team_id: 94
+      away_team_id: 40
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1247,9 +1330,10 @@
   rows:
     - _id: fixture84
       id: 84
+      season_id: 1
       game_week_id: 9
-      home_team_id: 5
-      away_team_id: 20
+      home_team_id: 36
+      away_team_id: 39
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1262,9 +1346,10 @@
   rows:
     - _id: fixture85
       id: 85
+      season_id: 1
       game_week_id: 9
-      home_team_id: 6
-      away_team_id: 15
+      home_team_id: 8
+      away_team_id: 4
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1277,9 +1362,10 @@
   rows:
     - _id: fixture86
       id: 86
+      season_id: 1
       game_week_id: 9
-      home_team_id: 7
-      away_team_id: 18
+      home_team_id: 31
+      away_team_id: 6
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1292,9 +1378,10 @@
   rows:
     - _id: fixture87
       id: 87
+      season_id: 1
       game_week_id: 9
-      home_team_id: 8
-      away_team_id: 9
+      home_team_id: 11
+      away_team_id: 54
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1307,9 +1394,10 @@
   rows:
     - _id: fixture88
       id: 88
+      season_id: 1
       game_week_id: 9
-      home_team_id: 11
-      away_team_id: 16
+      home_team_id: 13
+      away_team_id: 17
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1322,9 +1410,10 @@
   rows:
     - _id: fixture89
       id: 89
+      season_id: 1
       game_week_id: 9
-      home_team_id: 13
-      away_team_id: 17
+      home_team_id: 43
+      away_team_id: 20
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1337,9 +1426,10 @@
   rows:
     - _id: fixture90
       id: 90
+      season_id: 1
       game_week_id: 9
-      home_team_id: 19
-      away_team_id: 14
+      home_team_id: 21
+      away_team_id: 1
       kickoff_time: 2024-10-26T14:00:00Z
       minutes: 0
       finished: false
@@ -1352,9 +1442,10 @@
   rows:
     - _id: fixture91
       id: 91
+      season_id: 1
       game_week_id: 10
-      home_team_id: 3
-      away_team_id: 13
+      home_team_id: 91
+      away_team_id: 43
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1367,9 +1458,10 @@
   rows:
     - _id: fixture92
       id: 92
+      season_id: 1
       game_week_id: 10
-      home_team_id: 9
-      away_team_id: 4
+      home_team_id: 54
+      away_team_id: 94
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1382,9 +1474,10 @@
   rows:
     - _id: fixture93
       id: 93
+      season_id: 1
       game_week_id: 10
-      home_team_id: 10
-      away_team_id: 11
+      home_team_id: 40
+      away_team_id: 13
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1397,9 +1490,10 @@
   rows:
     - _id: fixture94
       id: 94
+      season_id: 1
       game_week_id: 10
-      home_team_id: 12
-      away_team_id: 5
+      home_team_id: 14
+      away_team_id: 36
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1412,9 +1506,10 @@
   rows:
     - _id: fixture95
       id: 95
+      season_id: 1
       game_week_id: 10
-      home_team_id: 14
-      away_team_id: 6
+      home_team_id: 1
+      away_team_id: 8
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1427,9 +1522,10 @@
   rows:
     - _id: fixture96
       id: 96
+      season_id: 1
       game_week_id: 10
-      home_team_id: 15
-      away_team_id: 1
+      home_team_id: 4
+      away_team_id: 3
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1442,9 +1538,10 @@
   rows:
     - _id: fixture97
       id: 97
+      season_id: 1
       game_week_id: 10
-      home_team_id: 16
-      away_team_id: 19
+      home_team_id: 17
+      away_team_id: 21
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1457,9 +1554,10 @@
   rows:
     - _id: fixture98
       id: 98
+      season_id: 1
       game_week_id: 10
-      home_team_id: 17
-      away_team_id: 8
+      home_team_id: 20
+      away_team_id: 11
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1472,9 +1570,10 @@
   rows:
     - _id: fixture99
       id: 99
+      season_id: 1
       game_week_id: 10
-      home_team_id: 18
-      away_team_id: 2
+      home_team_id: 6
+      away_team_id: 7
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1487,9 +1586,10 @@
   rows:
     - _id: fixture100
       id: 100
+      season_id: 1
       game_week_id: 10
-      home_team_id: 20
-      away_team_id: 7
+      home_team_id: 39
+      away_team_id: 31
       kickoff_time: 2024-11-02T15:00:00Z
       minutes: 0
       finished: false
@@ -1502,9 +1602,10 @@
   rows:
     - _id: fixture101
       id: 101
+      season_id: 1
       game_week_id: 11
-      home_team_id: 4
-      away_team_id: 3
+      home_team_id: 94
+      away_team_id: 91
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1517,9 +1618,10 @@
   rows:
     - _id: fixture102
       id: 102
+      season_id: 1
       game_week_id: 11
-      home_team_id: 5
-      away_team_id: 13
+      home_team_id: 36
+      away_team_id: 43
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1532,9 +1634,10 @@
   rows:
     - _id: fixture103
       id: 103
+      season_id: 1
       game_week_id: 11
-      home_team_id: 6
-      away_team_id: 1
+      home_team_id: 8
+      away_team_id: 3
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1547,9 +1650,10 @@
   rows:
     - _id: fixture104
       id: 104
+      season_id: 1
       game_week_id: 11
-      home_team_id: 7
-      away_team_id: 9
+      home_team_id: 31
+      away_team_id: 54
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1562,9 +1666,10 @@
   rows:
     - _id: fixture105
       id: 105
+      season_id: 1
       game_week_id: 11
-      home_team_id: 12
-      away_team_id: 2
+      home_team_id: 14
+      away_team_id: 7
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1577,9 +1682,10 @@
   rows:
     - _id: fixture106
       id: 106
+      season_id: 1
       game_week_id: 11
-      home_team_id: 14
-      away_team_id: 11
+      home_team_id: 1
+      away_team_id: 13
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1592,9 +1698,10 @@
   rows:
     - _id: fixture107
       id: 107
+      season_id: 1
       game_week_id: 11
-      home_team_id: 16
-      away_team_id: 15
+      home_team_id: 17
+      away_team_id: 4
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1607,9 +1714,10 @@
   rows:
     - _id: fixture108
       id: 108
+      season_id: 1
       game_week_id: 11
-      home_team_id: 18
-      away_team_id: 10
+      home_team_id: 6
+      away_team_id: 40
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1622,9 +1730,10 @@
   rows:
     - _id: fixture109
       id: 109
+      season_id: 1
       game_week_id: 11
-      home_team_id: 19
-      away_team_id: 8
+      home_team_id: 21
+      away_team_id: 11
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1637,9 +1746,10 @@
   rows:
     - _id: fixture110
       id: 110
+      season_id: 1
       game_week_id: 11
-      home_team_id: 20
-      away_team_id: 17
+      home_team_id: 39
+      away_team_id: 20
       kickoff_time: 2024-11-09T15:00:00Z
       minutes: 0
       finished: false
@@ -1652,9 +1762,10 @@
   rows:
     - _id: fixture111
       id: 111
+      season_id: 1
       game_week_id: 12
-      home_team_id: 1
-      away_team_id: 16
+      home_team_id: 3
+      away_team_id: 17
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1667,9 +1778,10 @@
   rows:
     - _id: fixture112
       id: 112
+      season_id: 1
       game_week_id: 12
-      home_team_id: 2
-      away_team_id: 7
+      home_team_id: 7
+      away_team_id: 31
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1682,9 +1794,10 @@
   rows:
     - _id: fixture113
       id: 113
+      season_id: 1
       game_week_id: 12
-      home_team_id: 3
-      away_team_id: 5
+      home_team_id: 91
+      away_team_id: 36
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1697,9 +1810,10 @@
   rows:
     - _id: fixture114
       id: 114
+      season_id: 1
       game_week_id: 12
-      home_team_id: 8
-      away_team_id: 4
+      home_team_id: 11
+      away_team_id: 94
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1712,9 +1826,10 @@
   rows:
     - _id: fixture115
       id: 115
+      season_id: 1
       game_week_id: 12
-      home_team_id: 9
-      away_team_id: 20
+      home_team_id: 54
+      away_team_id: 39
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1727,9 +1842,10 @@
   rows:
     - _id: fixture116
       id: 116
+      season_id: 1
       game_week_id: 12
-      home_team_id: 10
-      away_team_id: 14
+      home_team_id: 40
+      away_team_id: 1
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1742,9 +1858,10 @@
   rows:
     - _id: fixture117
       id: 117
+      season_id: 1
       game_week_id: 12
-      home_team_id: 11
-      away_team_id: 6
+      home_team_id: 13
+      away_team_id: 8
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1757,9 +1874,10 @@
   rows:
     - _id: fixture118
       id: 118
+      season_id: 1
       game_week_id: 12
-      home_team_id: 13
-      away_team_id: 18
+      home_team_id: 43
+      away_team_id: 6
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1772,9 +1890,10 @@
   rows:
     - _id: fixture119
       id: 119
+      season_id: 1
       game_week_id: 12
-      home_team_id: 15
-      away_team_id: 19
+      home_team_id: 4
+      away_team_id: 21
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1787,9 +1906,10 @@
   rows:
     - _id: fixture120
       id: 120
+      season_id: 1
       game_week_id: 12
-      home_team_id: 17
-      away_team_id: 12
+      home_team_id: 20
+      away_team_id: 14
       kickoff_time: 2024-11-23T15:00:00Z
       minutes: 0
       finished: false
@@ -1802,9 +1922,10 @@
   rows:
     - _id: fixture121
       id: 121
+      season_id: 1
       game_week_id: 13
-      home_team_id: 4
-      away_team_id: 11
+      home_team_id: 94
+      away_team_id: 13
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1817,9 +1938,10 @@
   rows:
     - _id: fixture122
       id: 122
+      season_id: 1
       game_week_id: 13
-      home_team_id: 5
-      away_team_id: 17
+      home_team_id: 36
+      away_team_id: 20
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1832,9 +1954,10 @@
   rows:
     - _id: fixture123
       id: 123
+      season_id: 1
       game_week_id: 13
-      home_team_id: 6
-      away_team_id: 2
+      home_team_id: 8
+      away_team_id: 7
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1847,9 +1970,10 @@
   rows:
     - _id: fixture124
       id: 124
+      season_id: 1
       game_week_id: 13
-      home_team_id: 7
-      away_team_id: 15
+      home_team_id: 31
+      away_team_id: 4
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1862,9 +1986,10 @@
   rows:
     - _id: fixture125
       id: 125
+      season_id: 1
       game_week_id: 13
-      home_team_id: 12
-      away_team_id: 13
+      home_team_id: 14
+      away_team_id: 43
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1877,9 +2002,10 @@
   rows:
     - _id: fixture126
       id: 126
+      season_id: 1
       game_week_id: 13
-      home_team_id: 14
-      away_team_id: 8
+      home_team_id: 1
+      away_team_id: 11
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1892,9 +2018,10 @@
   rows:
     - _id: fixture127
       id: 127
+      season_id: 1
       game_week_id: 13
-      home_team_id: 16
-      away_team_id: 10
+      home_team_id: 17
+      away_team_id: 40
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1907,9 +2034,10 @@
   rows:
     - _id: fixture128
       id: 128
+      season_id: 1
       game_week_id: 13
-      home_team_id: 18
-      away_team_id: 9
+      home_team_id: 6
+      away_team_id: 54
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1922,9 +2050,10 @@
   rows:
     - _id: fixture129
       id: 129
+      season_id: 1
       game_week_id: 13
-      home_team_id: 19
-      away_team_id: 1
+      home_team_id: 21
+      away_team_id: 3
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1937,9 +2066,10 @@
   rows:
     - _id: fixture130
       id: 130
+      season_id: 1
       game_week_id: 13
-      home_team_id: 20
-      away_team_id: 3
+      home_team_id: 39
+      away_team_id: 91
       kickoff_time: 2024-11-30T15:00:00Z
       minutes: 0
       finished: false
@@ -1952,9 +2082,10 @@
   rows:
     - _id: fixture131
       id: 131
+      season_id: 1
       game_week_id: 14
-      home_team_id: 1
-      away_team_id: 14
+      home_team_id: 3
+      away_team_id: 1
       kickoff_time: 2024-12-03T19:45:00Z
       minutes: 0
       finished: false
@@ -1967,9 +2098,10 @@
   rows:
     - _id: fixture132
       id: 132
+      season_id: 1
       game_week_id: 14
-      home_team_id: 2
-      away_team_id: 4
+      home_team_id: 7
+      away_team_id: 94
       kickoff_time: 2024-12-03T19:45:00Z
       minutes: 0
       finished: false
@@ -1982,9 +2114,10 @@
   rows:
     - _id: fixture133
       id: 133
+      season_id: 1
       game_week_id: 14
-      home_team_id: 3
-      away_team_id: 18
+      home_team_id: 91
+      away_team_id: 6
       kickoff_time: 2024-12-03T19:45:00Z
       minutes: 0
       finished: false
@@ -1997,9 +2130,10 @@
   rows:
     - _id: fixture134
       id: 134
+      season_id: 1
       game_week_id: 14
-      home_team_id: 8
-      away_team_id: 20
+      home_team_id: 11
+      away_team_id: 39
       kickoff_time: 2024-12-03T19:45:00Z
       minutes: 0
       finished: false
@@ -2012,9 +2146,10 @@
   rows:
     - _id: fixture135
       id: 135
+      season_id: 1
       game_week_id: 14
-      home_team_id: 9
-      away_team_id: 5
+      home_team_id: 54
+      away_team_id: 36
       kickoff_time: 2024-12-03T19:45:00Z
       minutes: 0
       finished: false
@@ -2027,9 +2162,10 @@
   rows:
     - _id: fixture136
       id: 136
+      season_id: 1
       game_week_id: 14
-      home_team_id: 10
-      away_team_id: 7
+      home_team_id: 40
+      away_team_id: 31
       kickoff_time: 2024-12-03T19:45:00Z
       minutes: 0
       finished: false
@@ -2042,9 +2178,10 @@
   rows:
     - _id: fixture137
       id: 137
+      season_id: 1
       game_week_id: 14
-      home_team_id: 11
-      away_team_id: 19
+      home_team_id: 13
+      away_team_id: 21
       kickoff_time: 2024-12-03T19:45:00Z
       minutes: 0
       finished: false
@@ -2057,9 +2194,10 @@
   rows:
     - _id: fixture138
       id: 138
+      season_id: 1
       game_week_id: 14
-      home_team_id: 13
-      away_team_id: 16
+      home_team_id: 43
+      away_team_id: 17
       kickoff_time: 2024-12-04T19:45:00Z
       minutes: 0
       finished: false
@@ -2072,9 +2210,10 @@
   rows:
     - _id: fixture139
       id: 139
+      season_id: 1
       game_week_id: 14
-      home_team_id: 15
-      away_team_id: 12
+      home_team_id: 4
+      away_team_id: 14
       kickoff_time: 2024-12-04T19:45:00Z
       minutes: 0
       finished: false
@@ -2087,9 +2226,10 @@
   rows:
     - _id: fixture140
       id: 140
+      season_id: 1
       game_week_id: 14
-      home_team_id: 17
-      away_team_id: 6
+      home_team_id: 20
+      away_team_id: 8
       kickoff_time: 2024-12-04T19:45:00Z
       minutes: 0
       finished: false
@@ -2102,9 +2242,10 @@
   rows:
     - _id: fixture141
       id: 141
+      season_id: 1
       game_week_id: 15
-      home_team_id: 2
-      away_team_id: 17
+      home_team_id: 7
+      away_team_id: 20
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2117,9 +2258,10 @@
   rows:
     - _id: fixture142
       id: 142
+      season_id: 1
       game_week_id: 15
-      home_team_id: 4
-      away_team_id: 15
+      home_team_id: 94
+      away_team_id: 4
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2132,9 +2274,10 @@
   rows:
     - _id: fixture143
       id: 143
+      season_id: 1
       game_week_id: 15
-      home_team_id: 7
-      away_team_id: 13
+      home_team_id: 31
+      away_team_id: 43
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2147,9 +2290,10 @@
   rows:
     - _id: fixture144
       id: 144
+      season_id: 1
       game_week_id: 15
-      home_team_id: 8
-      away_team_id: 12
+      home_team_id: 11
+      away_team_id: 14
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2162,9 +2306,10 @@
   rows:
     - _id: fixture145
       id: 145
+      season_id: 1
       game_week_id: 15
-      home_team_id: 9
-      away_team_id: 1
+      home_team_id: 54
+      away_team_id: 3
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2177,9 +2322,10 @@
   rows:
     - _id: fixture146
       id: 146
+      season_id: 1
       game_week_id: 15
-      home_team_id: 10
-      away_team_id: 3
+      home_team_id: 40
+      away_team_id: 91
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2192,9 +2338,10 @@
   rows:
     - _id: fixture147
       id: 147
+      season_id: 1
       game_week_id: 15
-      home_team_id: 11
-      away_team_id: 5
+      home_team_id: 13
+      away_team_id: 36
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2207,9 +2354,10 @@
   rows:
     - _id: fixture148
       id: 148
+      season_id: 1
       game_week_id: 15
-      home_team_id: 14
-      away_team_id: 16
+      home_team_id: 1
+      away_team_id: 17
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2222,9 +2370,10 @@
   rows:
     - _id: fixture149
       id: 149
+      season_id: 1
       game_week_id: 15
-      home_team_id: 18
-      away_team_id: 6
+      home_team_id: 6
+      away_team_id: 8
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2237,9 +2386,10 @@
   rows:
     - _id: fixture150
       id: 150
+      season_id: 1
       game_week_id: 15
-      home_team_id: 19
-      away_team_id: 20
+      home_team_id: 21
+      away_team_id: 39
       kickoff_time: 2024-12-07T15:00:00Z
       minutes: 0
       finished: false
@@ -2252,9 +2402,10 @@
   rows:
     - _id: fixture151
       id: 151
+      season_id: 1
       game_week_id: 16
-      home_team_id: 1
-      away_team_id: 8
+      home_team_id: 3
+      away_team_id: 11
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2267,9 +2418,10 @@
   rows:
     - _id: fixture152
       id: 152
+      season_id: 1
       game_week_id: 16
-      home_team_id: 3
-      away_team_id: 19
+      home_team_id: 91
+      away_team_id: 21
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2282,9 +2434,10 @@
   rows:
     - _id: fixture153
       id: 153
+      season_id: 1
       game_week_id: 16
-      home_team_id: 5
-      away_team_id: 7
+      home_team_id: 36
+      away_team_id: 31
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2297,9 +2450,10 @@
   rows:
     - _id: fixture154
       id: 154
+      season_id: 1
       game_week_id: 16
-      home_team_id: 6
-      away_team_id: 4
+      home_team_id: 8
+      away_team_id: 94
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2312,9 +2466,10 @@
   rows:
     - _id: fixture155
       id: 155
+      season_id: 1
       game_week_id: 16
-      home_team_id: 12
-      away_team_id: 9
+      home_team_id: 14
+      away_team_id: 54
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2327,9 +2482,10 @@
   rows:
     - _id: fixture156
       id: 156
+      season_id: 1
       game_week_id: 16
-      home_team_id: 13
-      away_team_id: 14
+      home_team_id: 43
+      away_team_id: 1
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2342,9 +2498,10 @@
   rows:
     - _id: fixture157
       id: 157
+      season_id: 1
       game_week_id: 16
-      home_team_id: 15
-      away_team_id: 11
+      home_team_id: 4
+      away_team_id: 13
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2357,9 +2514,10 @@
   rows:
     - _id: fixture158
       id: 158
+      season_id: 1
       game_week_id: 16
-      home_team_id: 16
-      away_team_id: 2
+      home_team_id: 17
+      away_team_id: 7
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2372,9 +2530,10 @@
   rows:
     - _id: fixture159
       id: 159
+      season_id: 1
       game_week_id: 16
-      home_team_id: 17
-      away_team_id: 18
+      home_team_id: 20
+      away_team_id: 6
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2387,9 +2546,10 @@
   rows:
     - _id: fixture160
       id: 160
+      season_id: 1
       game_week_id: 16
-      home_team_id: 20
-      away_team_id: 10
+      home_team_id: 39
+      away_team_id: 40
       kickoff_time: 2024-12-14T15:00:00Z
       minutes: 0
       finished: false
@@ -2402,9 +2562,10 @@
   rows:
     - _id: fixture161
       id: 161
+      season_id: 1
       game_week_id: 17
-      home_team_id: 2
-      away_team_id: 13
+      home_team_id: 7
+      away_team_id: 43
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2417,9 +2578,10 @@
   rows:
     - _id: fixture162
       id: 162
+      season_id: 1
       game_week_id: 17
-      home_team_id: 4
-      away_team_id: 16
+      home_team_id: 94
+      away_team_id: 17
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2432,9 +2594,10 @@
   rows:
     - _id: fixture163
       id: 163
+      season_id: 1
       game_week_id: 17
-      home_team_id: 7
-      away_team_id: 1
+      home_team_id: 31
+      away_team_id: 3
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2447,9 +2610,10 @@
   rows:
     - _id: fixture164
       id: 164
+      season_id: 1
       game_week_id: 17
-      home_team_id: 8
-      away_team_id: 6
+      home_team_id: 11
+      away_team_id: 8
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2462,9 +2626,10 @@
   rows:
     - _id: fixture165
       id: 165
+      season_id: 1
       game_week_id: 17
-      home_team_id: 9
-      away_team_id: 17
+      home_team_id: 54
+      away_team_id: 20
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2477,9 +2642,10 @@
   rows:
     - _id: fixture166
       id: 166
+      season_id: 1
       game_week_id: 17
-      home_team_id: 10
-      away_team_id: 15
+      home_team_id: 40
+      away_team_id: 4
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2492,9 +2658,10 @@
   rows:
     - _id: fixture167
       id: 167
+      season_id: 1
       game_week_id: 17
-      home_team_id: 11
-      away_team_id: 20
+      home_team_id: 13
+      away_team_id: 39
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2507,9 +2674,10 @@
   rows:
     - _id: fixture168
       id: 168
+      season_id: 1
       game_week_id: 17
-      home_team_id: 14
-      away_team_id: 3
+      home_team_id: 1
+      away_team_id: 91
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2522,9 +2690,10 @@
   rows:
     - _id: fixture169
       id: 169
+      season_id: 1
       game_week_id: 17
-      home_team_id: 18
-      away_team_id: 12
+      home_team_id: 6
+      away_team_id: 14
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2537,9 +2706,10 @@
   rows:
     - _id: fixture170
       id: 170
+      season_id: 1
       game_week_id: 17
-      home_team_id: 19
-      away_team_id: 5
+      home_team_id: 21
+      away_team_id: 36
       kickoff_time: 2024-12-21T15:00:00Z
       minutes: 0
       finished: false
@@ -2552,9 +2722,10 @@
   rows:
     - _id: fixture171
       id: 171
+      season_id: 1
       game_week_id: 18
-      home_team_id: 1
-      away_team_id: 10
+      home_team_id: 3
+      away_team_id: 40
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2567,9 +2738,10 @@
   rows:
     - _id: fixture172
       id: 172
+      season_id: 1
       game_week_id: 18
-      home_team_id: 3
-      away_team_id: 7
+      home_team_id: 91
+      away_team_id: 31
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2582,9 +2754,10 @@
   rows:
     - _id: fixture173
       id: 173
+      season_id: 1
       game_week_id: 18
-      home_team_id: 5
-      away_team_id: 4
+      home_team_id: 36
+      away_team_id: 94
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2597,9 +2770,10 @@
   rows:
     - _id: fixture174
       id: 174
+      season_id: 1
       game_week_id: 18
-      home_team_id: 6
-      away_team_id: 9
+      home_team_id: 8
+      away_team_id: 54
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2612,9 +2786,10 @@
   rows:
     - _id: fixture175
       id: 175
+      season_id: 1
       game_week_id: 18
-      home_team_id: 12
-      away_team_id: 11
+      home_team_id: 14
+      away_team_id: 13
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2627,9 +2802,10 @@
   rows:
     - _id: fixture176
       id: 176
+      season_id: 1
       game_week_id: 18
-      home_team_id: 13
-      away_team_id: 8
+      home_team_id: 43
+      away_team_id: 11
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2642,9 +2818,10 @@
   rows:
     - _id: fixture177
       id: 177
+      season_id: 1
       game_week_id: 18
-      home_team_id: 15
-      away_team_id: 2
+      home_team_id: 4
+      away_team_id: 7
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2657,9 +2834,10 @@
   rows:
     - _id: fixture178
       id: 178
+      season_id: 1
       game_week_id: 18
-      home_team_id: 16
-      away_team_id: 18
+      home_team_id: 17
+      away_team_id: 6
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2672,9 +2850,10 @@
   rows:
     - _id: fixture179
       id: 179
+      season_id: 1
       game_week_id: 18
-      home_team_id: 17
-      away_team_id: 19
+      home_team_id: 20
+      away_team_id: 21
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2687,9 +2866,10 @@
   rows:
     - _id: fixture180
       id: 180
+      season_id: 1
       game_week_id: 18
-      home_team_id: 20
-      away_team_id: 14
+      home_team_id: 39
+      away_team_id: 1
       kickoff_time: 2024-12-26T15:00:00Z
       minutes: 0
       finished: false
@@ -2702,9 +2882,10 @@
   rows:
     - _id: fixture181
       id: 181
+      season_id: 1
       game_week_id: 19
-      home_team_id: 2
-      away_team_id: 5
+      home_team_id: 7
+      away_team_id: 36
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2717,9 +2898,10 @@
   rows:
     - _id: fixture182
       id: 182
+      season_id: 1
       game_week_id: 19
-      home_team_id: 4
-      away_team_id: 1
+      home_team_id: 94
+      away_team_id: 3
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2732,9 +2914,10 @@
   rows:
     - _id: fixture183
       id: 183
+      season_id: 1
       game_week_id: 19
-      home_team_id: 7
-      away_team_id: 17
+      home_team_id: 31
+      away_team_id: 20
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2747,9 +2930,10 @@
   rows:
     - _id: fixture184
       id: 184
+      season_id: 1
       game_week_id: 19
-      home_team_id: 8
-      away_team_id: 16
+      home_team_id: 11
+      away_team_id: 17
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2762,9 +2946,10 @@
   rows:
     - _id: fixture185
       id: 185
+      season_id: 1
       game_week_id: 19
-      home_team_id: 9
-      away_team_id: 3
+      home_team_id: 54
+      away_team_id: 91
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2777,9 +2962,10 @@
   rows:
     - _id: fixture186
       id: 186
+      season_id: 1
       game_week_id: 19
-      home_team_id: 10
-      away_team_id: 6
+      home_team_id: 40
+      away_team_id: 8
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2792,9 +2978,10 @@
   rows:
     - _id: fixture187
       id: 187
+      season_id: 1
       game_week_id: 19
-      home_team_id: 11
-      away_team_id: 13
+      home_team_id: 13
+      away_team_id: 43
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2807,9 +2994,10 @@
   rows:
     - _id: fixture188
       id: 188
+      season_id: 1
       game_week_id: 19
-      home_team_id: 14
-      away_team_id: 15
+      home_team_id: 1
+      away_team_id: 4
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2822,9 +3010,10 @@
   rows:
     - _id: fixture189
       id: 189
+      season_id: 1
       game_week_id: 19
-      home_team_id: 18
-      away_team_id: 20
+      home_team_id: 6
+      away_team_id: 39
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2837,9 +3026,10 @@
   rows:
     - _id: fixture190
       id: 190
+      season_id: 1
       game_week_id: 19
-      home_team_id: 19
-      away_team_id: 12
+      home_team_id: 21
+      away_team_id: 14
       kickoff_time: 2024-12-29T15:00:00Z
       minutes: 0
       finished: false
@@ -2852,9 +3042,10 @@
   rows:
     - _id: fixture191
       id: 191
+      season_id: 1
       game_week_id: 20
-      home_team_id: 2
-      away_team_id: 11
+      home_team_id: 7
+      away_team_id: 13
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2867,9 +3058,10 @@
   rows:
     - _id: fixture192
       id: 192
+      season_id: 1
       game_week_id: 20
-      home_team_id: 3
-      away_team_id: 8
+      home_team_id: 91
+      away_team_id: 11
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2882,9 +3074,10 @@
   rows:
     - _id: fixture193
       id: 193
+      season_id: 1
       game_week_id: 20
-      home_team_id: 5
-      away_team_id: 1
+      home_team_id: 36
+      away_team_id: 3
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2897,9 +3090,10 @@
   rows:
     - _id: fixture194
       id: 194
+      season_id: 1
       game_week_id: 20
-      home_team_id: 7
-      away_team_id: 6
+      home_team_id: 31
+      away_team_id: 8
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2912,9 +3106,10 @@
   rows:
     - _id: fixture195
       id: 195
+      season_id: 1
       game_week_id: 20
-      home_team_id: 9
-      away_team_id: 10
+      home_team_id: 54
+      away_team_id: 40
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2927,9 +3122,10 @@
   rows:
     - _id: fixture196
       id: 196
+      season_id: 1
       game_week_id: 20
-      home_team_id: 12
-      away_team_id: 14
+      home_team_id: 14
+      away_team_id: 1
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2942,9 +3138,10 @@
   rows:
     - _id: fixture197
       id: 197
+      season_id: 1
       game_week_id: 20
-      home_team_id: 13
-      away_team_id: 19
+      home_team_id: 43
+      away_team_id: 21
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2957,9 +3154,10 @@
   rows:
     - _id: fixture198
       id: 198
+      season_id: 1
       game_week_id: 20
-      home_team_id: 17
-      away_team_id: 4
+      home_team_id: 20
+      away_team_id: 94
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2972,9 +3170,10 @@
   rows:
     - _id: fixture199
       id: 199
+      season_id: 1
       game_week_id: 20
-      home_team_id: 18
-      away_team_id: 15
+      home_team_id: 6
+      away_team_id: 4
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -2987,9 +3186,10 @@
   rows:
     - _id: fixture200
       id: 200
+      season_id: 1
       game_week_id: 20
-      home_team_id: 20
-      away_team_id: 16
+      home_team_id: 39
+      away_team_id: 17
       kickoff_time: 2025-01-04T15:00:00Z
       minutes: 0
       finished: false
@@ -3002,9 +3202,10 @@
   rows:
     - _id: fixture201
       id: 201
+      season_id: 1
       game_week_id: 21
-      home_team_id: 1
-      away_team_id: 18
+      home_team_id: 3
+      away_team_id: 6
       kickoff_time: 2025-01-14T19:45:00Z
       minutes: 0
       finished: false
@@ -3017,9 +3218,10 @@
   rows:
     - _id: fixture202
       id: 202
+      season_id: 1
       game_week_id: 21
-      home_team_id: 4
-      away_team_id: 13
+      home_team_id: 94
+      away_team_id: 43
       kickoff_time: 2025-01-14T19:45:00Z
       minutes: 0
       finished: false
@@ -3032,9 +3234,10 @@
   rows:
     - _id: fixture203
       id: 203
+      season_id: 1
       game_week_id: 21
-      home_team_id: 8
-      away_team_id: 2
+      home_team_id: 11
+      away_team_id: 7
       kickoff_time: 2025-01-14T19:45:00Z
       minutes: 0
       finished: false
@@ -3047,9 +3250,10 @@
   rows:
     - _id: fixture204
       id: 204
+      season_id: 1
       game_week_id: 21
-      home_team_id: 10
-      away_team_id: 5
+      home_team_id: 40
+      away_team_id: 36
       kickoff_time: 2025-01-14T19:45:00Z
       minutes: 0
       finished: false
@@ -3062,9 +3266,10 @@
   rows:
     - _id: fixture205
       id: 205
+      season_id: 1
       game_week_id: 21
-      home_team_id: 11
-      away_team_id: 7
+      home_team_id: 13
+      away_team_id: 31
       kickoff_time: 2025-01-14T19:45:00Z
       minutes: 0
       finished: false
@@ -3077,9 +3282,10 @@
   rows:
     - _id: fixture206
       id: 206
+      season_id: 1
       game_week_id: 21
-      home_team_id: 16
-      away_team_id: 12
+      home_team_id: 17
+      away_team_id: 14
       kickoff_time: 2025-01-14T19:45:00Z
       minutes: 0
       finished: false
@@ -3092,9 +3298,10 @@
   rows:
     - _id: fixture207
       id: 207
+      season_id: 1
       game_week_id: 21
-      home_team_id: 19
-      away_team_id: 9
+      home_team_id: 21
+      away_team_id: 54
       kickoff_time: 2025-01-14T19:45:00Z
       minutes: 0
       finished: false
@@ -3107,9 +3314,10 @@
   rows:
     - _id: fixture208
       id: 208
+      season_id: 1
       game_week_id: 21
-      home_team_id: 6
-      away_team_id: 3
+      home_team_id: 8
+      away_team_id: 91
       kickoff_time: 2025-01-15T19:45:00Z
       minutes: 0
       finished: false
@@ -3122,9 +3330,10 @@
   rows:
     - _id: fixture210
       id: 210
+      season_id: 1
       game_week_id: 21
-      home_team_id: 15
-      away_team_id: 20
+      home_team_id: 4
+      away_team_id: 39
       kickoff_time: 2025-01-15T19:45:00Z
       minutes: 0
       finished: false
@@ -3137,9 +3346,10 @@
   rows:
     - _id: fixture209
       id: 209
+      season_id: 1
       game_week_id: 21
-      home_team_id: 14
-      away_team_id: 17
+      home_team_id: 1
+      away_team_id: 20
       kickoff_time: 2025-01-15T20:00:00Z
       minutes: 0
       finished: false
@@ -3152,9 +3362,10 @@
   rows:
     - _id: fixture211
       id: 211
+      season_id: 1
       game_week_id: 22
-      home_team_id: 1
-      away_team_id: 2
+      home_team_id: 3
+      away_team_id: 7
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3167,9 +3378,10 @@
   rows:
     - _id: fixture212
       id: 212
+      season_id: 1
       game_week_id: 22
-      home_team_id: 4
-      away_team_id: 12
+      home_team_id: 94
+      away_team_id: 14
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3182,9 +3394,10 @@
   rows:
     - _id: fixture213
       id: 213
+      season_id: 1
       game_week_id: 22
-      home_team_id: 6
-      away_team_id: 20
+      home_team_id: 8
+      away_team_id: 39
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3197,9 +3410,10 @@
   rows:
     - _id: fixture214
       id: 214
+      season_id: 1
       game_week_id: 22
-      home_team_id: 8
-      away_team_id: 18
+      home_team_id: 11
+      away_team_id: 6
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3212,9 +3426,10 @@
   rows:
     - _id: fixture215
       id: 215
+      season_id: 1
       game_week_id: 22
-      home_team_id: 10
-      away_team_id: 13
+      home_team_id: 40
+      away_team_id: 43
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3227,9 +3442,10 @@
   rows:
     - _id: fixture216
       id: 216
+      season_id: 1
       game_week_id: 22
-      home_team_id: 11
-      away_team_id: 9
+      home_team_id: 13
+      away_team_id: 54
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3242,9 +3458,10 @@
   rows:
     - _id: fixture217
       id: 217
+      season_id: 1
       game_week_id: 22
-      home_team_id: 14
-      away_team_id: 5
+      home_team_id: 1
+      away_team_id: 36
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3257,9 +3474,10 @@
   rows:
     - _id: fixture218
       id: 218
+      season_id: 1
       game_week_id: 22
-      home_team_id: 15
-      away_team_id: 3
+      home_team_id: 4
+      away_team_id: 91
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3272,9 +3490,10 @@
   rows:
     - _id: fixture219
       id: 219
+      season_id: 1
       game_week_id: 22
-      home_team_id: 16
-      away_team_id: 17
+      home_team_id: 17
+      away_team_id: 20
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3287,9 +3506,10 @@
   rows:
     - _id: fixture220
       id: 220
+      season_id: 1
       game_week_id: 22
-      home_team_id: 19
-      away_team_id: 7
+      home_team_id: 21
+      away_team_id: 31
       kickoff_time: 2025-01-18T15:00:00Z
       minutes: 0
       finished: false
@@ -3302,9 +3522,10 @@
   rows:
     - _id: fixture221
       id: 221
+      season_id: 1
       game_week_id: 23
-      home_team_id: 2
-      away_team_id: 19
+      home_team_id: 7
+      away_team_id: 21
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3317,9 +3538,10 @@
   rows:
     - _id: fixture222
       id: 222
+      season_id: 1
       game_week_id: 23
-      home_team_id: 3
-      away_team_id: 16
+      home_team_id: 91
+      away_team_id: 17
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3332,9 +3554,10 @@
   rows:
     - _id: fixture223
       id: 223
+      season_id: 1
       game_week_id: 23
-      home_team_id: 5
-      away_team_id: 8
+      home_team_id: 36
+      away_team_id: 11
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3347,9 +3570,10 @@
   rows:
     - _id: fixture224
       id: 224
+      season_id: 1
       game_week_id: 23
-      home_team_id: 7
-      away_team_id: 4
+      home_team_id: 31
+      away_team_id: 94
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3362,9 +3586,10 @@
   rows:
     - _id: fixture225
       id: 225
+      season_id: 1
       game_week_id: 23
-      home_team_id: 9
-      away_team_id: 14
+      home_team_id: 54
+      away_team_id: 1
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3377,9 +3602,10 @@
   rows:
     - _id: fixture226
       id: 226
+      season_id: 1
       game_week_id: 23
-      home_team_id: 12
-      away_team_id: 10
+      home_team_id: 14
+      away_team_id: 40
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3392,9 +3618,10 @@
   rows:
     - _id: fixture227
       id: 227
+      season_id: 1
       game_week_id: 23
-      home_team_id: 13
-      away_team_id: 6
+      home_team_id: 43
+      away_team_id: 8
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3407,9 +3634,10 @@
   rows:
     - _id: fixture228
       id: 228
+      season_id: 1
       game_week_id: 23
-      home_team_id: 17
-      away_team_id: 15
+      home_team_id: 20
+      away_team_id: 4
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3422,9 +3650,10 @@
   rows:
     - _id: fixture229
       id: 229
+      season_id: 1
       game_week_id: 23
-      home_team_id: 18
-      away_team_id: 11
+      home_team_id: 6
+      away_team_id: 13
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3437,9 +3666,10 @@
   rows:
     - _id: fixture230
       id: 230
+      season_id: 1
       game_week_id: 23
-      home_team_id: 20
-      away_team_id: 1
+      home_team_id: 39
+      away_team_id: 3
       kickoff_time: 2025-01-25T15:00:00Z
       minutes: 0
       finished: false
@@ -3452,9 +3682,10 @@
   rows:
     - _id: fixture231
       id: 231
+      season_id: 1
       game_week_id: 24
-      home_team_id: 1
-      away_team_id: 13
+      home_team_id: 3
+      away_team_id: 43
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3467,9 +3698,10 @@
   rows:
     - _id: fixture232
       id: 232
+      season_id: 1
       game_week_id: 24
-      home_team_id: 3
-      away_team_id: 12
+      home_team_id: 91
+      away_team_id: 14
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3482,9 +3714,10 @@
   rows:
     - _id: fixture233
       id: 233
+      season_id: 1
       game_week_id: 24
-      home_team_id: 4
-      away_team_id: 18
+      home_team_id: 94
+      away_team_id: 6
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3497,9 +3730,10 @@
   rows:
     - _id: fixture234
       id: 234
+      season_id: 1
       game_week_id: 24
-      home_team_id: 6
-      away_team_id: 19
+      home_team_id: 8
+      away_team_id: 21
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3512,9 +3746,10 @@
   rows:
     - _id: fixture235
       id: 235
+      season_id: 1
       game_week_id: 24
-      home_team_id: 8
-      away_team_id: 11
+      home_team_id: 11
+      away_team_id: 13
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3527,9 +3762,10 @@
   rows:
     - _id: fixture236
       id: 236
+      season_id: 1
       game_week_id: 24
-      home_team_id: 10
-      away_team_id: 17
+      home_team_id: 40
+      away_team_id: 20
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3542,9 +3778,10 @@
   rows:
     - _id: fixture237
       id: 237
+      season_id: 1
       game_week_id: 24
-      home_team_id: 14
-      away_team_id: 7
+      home_team_id: 1
+      away_team_id: 31
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3557,9 +3794,10 @@
   rows:
     - _id: fixture238
       id: 238
+      season_id: 1
       game_week_id: 24
-      home_team_id: 15
-      away_team_id: 9
+      home_team_id: 4
+      away_team_id: 54
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3572,9 +3810,10 @@
   rows:
     - _id: fixture239
       id: 239
+      season_id: 1
       game_week_id: 24
-      home_team_id: 16
-      away_team_id: 5
+      home_team_id: 17
+      away_team_id: 36
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3587,9 +3826,10 @@
   rows:
     - _id: fixture240
       id: 240
+      season_id: 1
       game_week_id: 24
-      home_team_id: 20
-      away_team_id: 2
+      home_team_id: 39
+      away_team_id: 7
       kickoff_time: 2025-02-01T15:00:00Z
       minutes: 0
       finished: false
@@ -3602,9 +3842,10 @@
   rows:
     - _id: fixture241
       id: 241
+      season_id: 1
       game_week_id: 25
-      home_team_id: 2
-      away_team_id: 10
+      home_team_id: 7
+      away_team_id: 40
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3617,9 +3858,10 @@
   rows:
     - _id: fixture242
       id: 242
+      season_id: 1
       game_week_id: 25
-      home_team_id: 5
-      away_team_id: 6
+      home_team_id: 36
+      away_team_id: 8
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3632,9 +3874,10 @@
   rows:
     - _id: fixture243
       id: 243
+      season_id: 1
       game_week_id: 25
-      home_team_id: 7
-      away_team_id: 8
+      home_team_id: 31
+      away_team_id: 11
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3647,9 +3890,10 @@
   rows:
     - _id: fixture244
       id: 244
+      season_id: 1
       game_week_id: 25
-      home_team_id: 9
-      away_team_id: 16
+      home_team_id: 54
+      away_team_id: 17
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3662,9 +3906,10 @@
   rows:
     - _id: fixture245
       id: 245
+      season_id: 1
       game_week_id: 25
-      home_team_id: 11
-      away_team_id: 1
+      home_team_id: 13
+      away_team_id: 3
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3677,9 +3922,10 @@
   rows:
     - _id: fixture246
       id: 246
+      season_id: 1
       game_week_id: 25
-      home_team_id: 12
-      away_team_id: 20
+      home_team_id: 14
+      away_team_id: 39
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3692,9 +3938,10 @@
   rows:
     - _id: fixture247
       id: 247
+      season_id: 1
       game_week_id: 25
-      home_team_id: 13
-      away_team_id: 15
+      home_team_id: 43
+      away_team_id: 4
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3707,9 +3954,10 @@
   rows:
     - _id: fixture248
       id: 248
+      season_id: 1
       game_week_id: 25
-      home_team_id: 17
-      away_team_id: 3
+      home_team_id: 20
+      away_team_id: 91
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3722,9 +3970,10 @@
   rows:
     - _id: fixture249
       id: 249
+      season_id: 1
       game_week_id: 25
-      home_team_id: 18
-      away_team_id: 14
+      home_team_id: 6
+      away_team_id: 1
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3737,9 +3986,10 @@
   rows:
     - _id: fixture250
       id: 250
+      season_id: 1
       game_week_id: 25
-      home_team_id: 19
-      away_team_id: 4
+      home_team_id: 21
+      away_team_id: 94
       kickoff_time: 2025-02-15T15:00:00Z
       minutes: 0
       finished: false
@@ -3752,9 +4002,10 @@
   rows:
     - _id: fixture251
       id: 251
+      season_id: 1
       game_week_id: 26
-      home_team_id: 1
-      away_team_id: 19
+      home_team_id: 3
+      away_team_id: 21
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3767,9 +4018,10 @@
   rows:
     - _id: fixture252
       id: 252
+      season_id: 1
       game_week_id: 26
-      home_team_id: 2
-      away_team_id: 6
+      home_team_id: 7
+      away_team_id: 8
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3782,9 +4034,10 @@
   rows:
     - _id: fixture253
       id: 253
+      season_id: 1
       game_week_id: 26
-      home_team_id: 3
-      away_team_id: 20
+      home_team_id: 91
+      away_team_id: 39
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3797,9 +4050,10 @@
   rows:
     - _id: fixture254
       id: 254
+      season_id: 1
       game_week_id: 26
-      home_team_id: 8
-      away_team_id: 14
+      home_team_id: 11
+      away_team_id: 1
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3812,9 +4066,10 @@
   rows:
     - _id: fixture255
       id: 255
+      season_id: 1
       game_week_id: 26
-      home_team_id: 9
-      away_team_id: 7
+      home_team_id: 54
+      away_team_id: 31
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3827,9 +4082,10 @@
   rows:
     - _id: fixture256
       id: 256
+      season_id: 1
       game_week_id: 26
-      home_team_id: 10
-      away_team_id: 18
+      home_team_id: 40
+      away_team_id: 6
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3842,9 +4098,10 @@
   rows:
     - _id: fixture257
       id: 257
+      season_id: 1
       game_week_id: 26
-      home_team_id: 11
-      away_team_id: 4
+      home_team_id: 13
+      away_team_id: 94
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3857,9 +4114,10 @@
   rows:
     - _id: fixture258
       id: 258
+      season_id: 1
       game_week_id: 26
-      home_team_id: 13
-      away_team_id: 12
+      home_team_id: 43
+      away_team_id: 14
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3872,9 +4130,10 @@
   rows:
     - _id: fixture259
       id: 259
+      season_id: 1
       game_week_id: 26
-      home_team_id: 15
-      away_team_id: 16
+      home_team_id: 4
+      away_team_id: 17
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3887,9 +4146,10 @@
   rows:
     - _id: fixture260
       id: 260
+      season_id: 1
       game_week_id: 26
-      home_team_id: 17
-      away_team_id: 5
+      home_team_id: 20
+      away_team_id: 36
       kickoff_time: 2025-02-22T15:00:00Z
       minutes: 0
       finished: false
@@ -3902,9 +4162,10 @@
   rows:
     - _id: fixture261
       id: 261
+      season_id: 1
       game_week_id: 27
-      home_team_id: 4
-      away_team_id: 8
+      home_team_id: 94
+      away_team_id: 11
       kickoff_time: 2025-02-25T19:45:00Z
       minutes: 0
       finished: false
@@ -3917,9 +4178,10 @@
   rows:
     - _id: fixture262
       id: 262
+      season_id: 1
       game_week_id: 27
-      home_team_id: 5
-      away_team_id: 3
+      home_team_id: 36
+      away_team_id: 91
       kickoff_time: 2025-02-25T19:45:00Z
       minutes: 0
       finished: false
@@ -3932,9 +4194,10 @@
   rows:
     - _id: fixture264
       id: 264
+      season_id: 1
       game_week_id: 27
-      home_team_id: 16
-      away_team_id: 1
+      home_team_id: 17
+      away_team_id: 3
       kickoff_time: 2025-02-25T19:45:00Z
       minutes: 0
       finished: false
@@ -3947,9 +4210,10 @@
   rows:
     - _id: fixture265
       id: 265
+      season_id: 1
       game_week_id: 27
-      home_team_id: 18
-      away_team_id: 13
+      home_team_id: 6
+      away_team_id: 43
       kickoff_time: 2025-02-25T19:45:00Z
       minutes: 0
       finished: false
@@ -3962,9 +4226,10 @@
   rows:
     - _id: fixture266
       id: 266
+      season_id: 1
       game_week_id: 27
-      home_team_id: 19
-      away_team_id: 11
+      home_team_id: 21
+      away_team_id: 13
       kickoff_time: 2025-02-25T19:45:00Z
       minutes: 0
       finished: false
@@ -3977,9 +4242,10 @@
   rows:
     - _id: fixture267
       id: 267
+      season_id: 1
       game_week_id: 27
-      home_team_id: 20
-      away_team_id: 9
+      home_team_id: 39
+      away_team_id: 54
       kickoff_time: 2025-02-25T19:45:00Z
       minutes: 0
       finished: false
@@ -3992,9 +4258,10 @@
   rows:
     - _id: fixture263
       id: 263
+      season_id: 1
       game_week_id: 27
-      home_team_id: 7
-      away_team_id: 2
+      home_team_id: 31
+      away_team_id: 7
       kickoff_time: 2025-02-25T20:00:00Z
       minutes: 0
       finished: false
@@ -4007,9 +4274,10 @@
   rows:
     - _id: fixture268
       id: 268
+      season_id: 1
       game_week_id: 27
-      home_team_id: 6
-      away_team_id: 17
+      home_team_id: 8
+      away_team_id: 20
       kickoff_time: 2025-02-26T19:45:00Z
       minutes: 0
       finished: false
@@ -4022,9 +4290,10 @@
   rows:
     - _id: fixture269
       id: 269
+      season_id: 1
       game_week_id: 27
-      home_team_id: 12
-      away_team_id: 15
+      home_team_id: 14
+      away_team_id: 4
       kickoff_time: 2025-02-26T20:00:00Z
       minutes: 0
       finished: false
@@ -4037,9 +4306,10 @@
   rows:
     - _id: fixture270
       id: 270
+      season_id: 1
       game_week_id: 27
-      home_team_id: 14
-      away_team_id: 10
+      home_team_id: 1
+      away_team_id: 40
       kickoff_time: 2025-02-26T20:00:00Z
       minutes: 0
       finished: false
@@ -4052,9 +4322,10 @@
   rows:
     - _id: fixture271
       id: 271
+      season_id: 1
       game_week_id: 28
-      home_team_id: 4
-      away_team_id: 2
+      home_team_id: 94
+      away_team_id: 7
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4067,9 +4338,10 @@
   rows:
     - _id: fixture272
       id: 272
+      season_id: 1
       game_week_id: 28
-      home_team_id: 5
-      away_team_id: 9
+      home_team_id: 36
+      away_team_id: 54
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4082,9 +4354,10 @@
   rows:
     - _id: fixture273
       id: 273
+      season_id: 1
       game_week_id: 28
-      home_team_id: 6
-      away_team_id: 11
+      home_team_id: 8
+      away_team_id: 13
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4097,9 +4370,10 @@
   rows:
     - _id: fixture274
       id: 274
+      season_id: 1
       game_week_id: 28
-      home_team_id: 7
-      away_team_id: 10
+      home_team_id: 31
+      away_team_id: 40
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4112,9 +4386,10 @@
   rows:
     - _id: fixture275
       id: 275
+      season_id: 1
       game_week_id: 28
-      home_team_id: 12
-      away_team_id: 17
+      home_team_id: 14
+      away_team_id: 20
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4127,9 +4402,10 @@
   rows:
     - _id: fixture276
       id: 276
+      season_id: 1
       game_week_id: 28
-      home_team_id: 14
-      away_team_id: 1
+      home_team_id: 1
+      away_team_id: 3
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4142,9 +4418,10 @@
   rows:
     - _id: fixture277
       id: 277
+      season_id: 1
       game_week_id: 28
-      home_team_id: 16
-      away_team_id: 13
+      home_team_id: 17
+      away_team_id: 43
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4157,9 +4434,10 @@
   rows:
     - _id: fixture278
       id: 278
+      season_id: 1
       game_week_id: 28
-      home_team_id: 18
-      away_team_id: 3
+      home_team_id: 6
+      away_team_id: 91
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4172,9 +4450,10 @@
   rows:
     - _id: fixture279
       id: 279
+      season_id: 1
       game_week_id: 28
-      home_team_id: 19
-      away_team_id: 15
+      home_team_id: 21
+      away_team_id: 4
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4187,9 +4466,10 @@
   rows:
     - _id: fixture280
       id: 280
+      season_id: 1
       game_week_id: 28
-      home_team_id: 20
-      away_team_id: 8
+      home_team_id: 39
+      away_team_id: 11
       kickoff_time: 2025-03-08T15:00:00Z
       minutes: 0
       finished: false
@@ -4202,9 +4482,10 @@
   rows:
     - _id: fixture281
       id: 281
+      season_id: 1
       game_week_id: 29
-      home_team_id: 1
-      away_team_id: 6
+      home_team_id: 3
+      away_team_id: 8
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4217,9 +4498,10 @@
   rows:
     - _id: fixture282
       id: 282
+      season_id: 1
       game_week_id: 29
-      home_team_id: 2
-      away_team_id: 12
+      home_team_id: 7
+      away_team_id: 14
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4232,9 +4514,10 @@
   rows:
     - _id: fixture283
       id: 283
+      season_id: 1
       game_week_id: 29
-      home_team_id: 3
-      away_team_id: 4
+      home_team_id: 91
+      away_team_id: 94
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4247,9 +4530,10 @@
   rows:
     - _id: fixture284
       id: 284
+      season_id: 1
       game_week_id: 29
-      home_team_id: 8
-      away_team_id: 19
+      home_team_id: 11
+      away_team_id: 21
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4262,9 +4546,10 @@
   rows:
     - _id: fixture285
       id: 285
+      season_id: 1
       game_week_id: 29
-      home_team_id: 9
-      away_team_id: 18
+      home_team_id: 54
+      away_team_id: 6
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4277,9 +4562,10 @@
   rows:
     - _id: fixture286
       id: 286
+      season_id: 1
       game_week_id: 29
-      home_team_id: 10
-      away_team_id: 16
+      home_team_id: 40
+      away_team_id: 17
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4292,9 +4578,10 @@
   rows:
     - _id: fixture287
       id: 287
+      season_id: 1
       game_week_id: 29
-      home_team_id: 11
-      away_team_id: 14
+      home_team_id: 13
+      away_team_id: 1
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4307,9 +4594,10 @@
   rows:
     - _id: fixture288
       id: 288
+      season_id: 1
       game_week_id: 29
-      home_team_id: 13
-      away_team_id: 5
+      home_team_id: 43
+      away_team_id: 36
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4322,9 +4610,10 @@
   rows:
     - _id: fixture289
       id: 289
+      season_id: 1
       game_week_id: 29
-      home_team_id: 15
-      away_team_id: 7
+      home_team_id: 4
+      away_team_id: 31
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4337,9 +4626,10 @@
   rows:
     - _id: fixture290
       id: 290
+      season_id: 1
       game_week_id: 29
-      home_team_id: 17
-      away_team_id: 20
+      home_team_id: 20
+      away_team_id: 39
       kickoff_time: 2025-03-15T15:00:00Z
       minutes: 0
       finished: false
@@ -4352,9 +4642,10 @@
   rows:
     - _id: fixture291
       id: 291
+      season_id: 1
       game_week_id: 30
-      home_team_id: 1
-      away_team_id: 9
+      home_team_id: 3
+      away_team_id: 54
       kickoff_time: 2025-04-01T18:45:00Z
       minutes: 0
       finished: false
@@ -4367,9 +4658,10 @@
   rows:
     - _id: fixture292
       id: 292
+      season_id: 1
       game_week_id: 30
-      home_team_id: 3
-      away_team_id: 10
+      home_team_id: 91
+      away_team_id: 40
       kickoff_time: 2025-04-01T18:45:00Z
       minutes: 0
       finished: false
@@ -4382,9 +4674,10 @@
   rows:
     - _id: fixture293
       id: 293
+      season_id: 1
       game_week_id: 30
-      home_team_id: 5
-      away_team_id: 2
+      home_team_id: 36
+      away_team_id: 7
       kickoff_time: 2025-04-01T18:45:00Z
       minutes: 0
       finished: false
@@ -4397,9 +4690,10 @@
   rows:
     - _id: fixture294
       id: 294
+      season_id: 1
       game_week_id: 30
-      home_team_id: 16
-      away_team_id: 14
+      home_team_id: 17
+      away_team_id: 1
       kickoff_time: 2025-04-01T18:45:00Z
       minutes: 0
       finished: false
@@ -4412,9 +4706,10 @@
   rows:
     - _id: fixture295
       id: 295
+      season_id: 1
       game_week_id: 30
-      home_team_id: 20
-      away_team_id: 19
+      home_team_id: 39
+      away_team_id: 21
       kickoff_time: 2025-04-01T18:45:00Z
       minutes: 0
       finished: false
@@ -4427,9 +4722,10 @@
   rows:
     - _id: fixture296
       id: 296
+      season_id: 1
       game_week_id: 30
-      home_team_id: 6
-      away_team_id: 18
+      home_team_id: 8
+      away_team_id: 6
       kickoff_time: 2025-04-02T18:45:00Z
       minutes: 0
       finished: false
@@ -4442,9 +4738,10 @@
   rows:
     - _id: fixture298
       id: 298
+      season_id: 1
       game_week_id: 30
-      home_team_id: 13
-      away_team_id: 11
+      home_team_id: 43
+      away_team_id: 13
       kickoff_time: 2025-04-02T18:45:00Z
       minutes: 0
       finished: false
@@ -4457,9 +4754,10 @@
   rows:
     - _id: fixture299
       id: 299
+      season_id: 1
       game_week_id: 30
-      home_team_id: 15
-      away_team_id: 4
+      home_team_id: 4
+      away_team_id: 94
       kickoff_time: 2025-04-02T18:45:00Z
       minutes: 0
       finished: false
@@ -4472,9 +4770,10 @@
   rows:
     - _id: fixture300
       id: 300
+      season_id: 1
       game_week_id: 30
-      home_team_id: 17
-      away_team_id: 7
+      home_team_id: 20
+      away_team_id: 31
       kickoff_time: 2025-04-02T18:45:00Z
       minutes: 0
       finished: false
@@ -4487,9 +4786,10 @@
   rows:
     - _id: fixture297
       id: 297
+      season_id: 1
       game_week_id: 30
-      home_team_id: 12
-      away_team_id: 8
+      home_team_id: 14
+      away_team_id: 11
       kickoff_time: 2025-04-02T19:00:00Z
       minutes: 0
       finished: false
@@ -4502,9 +4802,10 @@
   rows:
     - _id: fixture301
       id: 301
+      season_id: 1
       game_week_id: 31
-      home_team_id: 2
-      away_team_id: 16
+      home_team_id: 7
+      away_team_id: 17
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4517,9 +4818,10 @@
   rows:
     - _id: fixture302
       id: 302
+      season_id: 1
       game_week_id: 31
-      home_team_id: 4
-      away_team_id: 6
+      home_team_id: 94
+      away_team_id: 8
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4532,9 +4834,10 @@
   rows:
     - _id: fixture303
       id: 303
+      season_id: 1
       game_week_id: 31
-      home_team_id: 7
-      away_team_id: 5
+      home_team_id: 31
+      away_team_id: 36
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4547,9 +4850,10 @@
   rows:
     - _id: fixture304
       id: 304
+      season_id: 1
       game_week_id: 31
-      home_team_id: 8
-      away_team_id: 1
+      home_team_id: 11
+      away_team_id: 3
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4562,9 +4866,10 @@
   rows:
     - _id: fixture305
       id: 305
+      season_id: 1
       game_week_id: 31
-      home_team_id: 9
-      away_team_id: 12
+      home_team_id: 54
+      away_team_id: 14
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4577,9 +4882,10 @@
   rows:
     - _id: fixture306
       id: 306
+      season_id: 1
       game_week_id: 31
-      home_team_id: 10
-      away_team_id: 20
+      home_team_id: 40
+      away_team_id: 39
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4592,9 +4898,10 @@
   rows:
     - _id: fixture307
       id: 307
+      season_id: 1
       game_week_id: 31
-      home_team_id: 11
-      away_team_id: 15
+      home_team_id: 13
+      away_team_id: 4
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4607,9 +4914,10 @@
   rows:
     - _id: fixture308
       id: 308
+      season_id: 1
       game_week_id: 31
-      home_team_id: 14
-      away_team_id: 13
+      home_team_id: 1
+      away_team_id: 43
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4622,9 +4930,10 @@
   rows:
     - _id: fixture309
       id: 309
+      season_id: 1
       game_week_id: 31
-      home_team_id: 18
-      away_team_id: 17
+      home_team_id: 6
+      away_team_id: 20
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4637,9 +4946,10 @@
   rows:
     - _id: fixture310
       id: 310
+      season_id: 1
       game_week_id: 31
-      home_team_id: 19
-      away_team_id: 3
+      home_team_id: 21
+      away_team_id: 91
       kickoff_time: 2025-04-05T14:00:00Z
       minutes: 0
       finished: false
@@ -4652,9 +4962,10 @@
   rows:
     - _id: fixture311
       id: 311
+      season_id: 1
       game_week_id: 32
-      home_team_id: 1
-      away_team_id: 4
+      home_team_id: 3
+      away_team_id: 94
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4667,9 +4978,10 @@
   rows:
     - _id: fixture312
       id: 312
+      season_id: 1
       game_week_id: 32
-      home_team_id: 3
-      away_team_id: 9
+      home_team_id: 91
+      away_team_id: 54
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4682,9 +4994,10 @@
   rows:
     - _id: fixture313
       id: 313
+      season_id: 1
       game_week_id: 32
-      home_team_id: 5
-      away_team_id: 11
+      home_team_id: 36
+      away_team_id: 13
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4697,9 +5010,10 @@
   rows:
     - _id: fixture314
       id: 314
+      season_id: 1
       game_week_id: 32
-      home_team_id: 6
-      away_team_id: 10
+      home_team_id: 8
+      away_team_id: 40
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4712,9 +5026,10 @@
   rows:
     - _id: fixture315
       id: 315
+      season_id: 1
       game_week_id: 32
-      home_team_id: 12
-      away_team_id: 19
+      home_team_id: 14
+      away_team_id: 21
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4727,9 +5042,10 @@
   rows:
     - _id: fixture316
       id: 316
+      season_id: 1
       game_week_id: 32
-      home_team_id: 13
-      away_team_id: 7
+      home_team_id: 43
+      away_team_id: 31
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4742,9 +5058,10 @@
   rows:
     - _id: fixture317
       id: 317
+      season_id: 1
       game_week_id: 32
-      home_team_id: 15
-      away_team_id: 14
+      home_team_id: 4
+      away_team_id: 1
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4757,9 +5074,10 @@
   rows:
     - _id: fixture318
       id: 318
+      season_id: 1
       game_week_id: 32
-      home_team_id: 16
-      away_team_id: 8
+      home_team_id: 17
+      away_team_id: 11
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4772,9 +5090,10 @@
   rows:
     - _id: fixture319
       id: 319
+      season_id: 1
       game_week_id: 32
-      home_team_id: 17
-      away_team_id: 2
+      home_team_id: 20
+      away_team_id: 7
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4787,9 +5106,10 @@
   rows:
     - _id: fixture320
       id: 320
+      season_id: 1
       game_week_id: 32
-      home_team_id: 20
-      away_team_id: 18
+      home_team_id: 39
+      away_team_id: 6
       kickoff_time: 2025-04-12T14:00:00Z
       minutes: 0
       finished: false
@@ -4802,9 +5122,10 @@
   rows:
     - _id: fixture321
       id: 321
+      season_id: 1
       game_week_id: 33
-      home_team_id: 2
-      away_team_id: 15
+      home_team_id: 7
+      away_team_id: 4
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4817,9 +5138,10 @@
   rows:
     - _id: fixture322
       id: 322
+      season_id: 1
       game_week_id: 33
-      home_team_id: 4
-      away_team_id: 5
+      home_team_id: 94
+      away_team_id: 36
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4832,9 +5154,10 @@
   rows:
     - _id: fixture323
       id: 323
+      season_id: 1
       game_week_id: 33
-      home_team_id: 7
-      away_team_id: 3
+      home_team_id: 31
+      away_team_id: 91
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4847,9 +5170,10 @@
   rows:
     - _id: fixture324
       id: 324
+      season_id: 1
       game_week_id: 33
-      home_team_id: 8
-      away_team_id: 13
+      home_team_id: 11
+      away_team_id: 43
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4862,9 +5186,10 @@
   rows:
     - _id: fixture325
       id: 325
+      season_id: 1
       game_week_id: 33
-      home_team_id: 9
-      away_team_id: 6
+      home_team_id: 54
+      away_team_id: 8
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4877,9 +5202,10 @@
   rows:
     - _id: fixture326
       id: 326
+      season_id: 1
       game_week_id: 33
-      home_team_id: 10
-      away_team_id: 1
+      home_team_id: 40
+      away_team_id: 3
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4892,9 +5218,10 @@
   rows:
     - _id: fixture327
       id: 327
+      season_id: 1
       game_week_id: 33
-      home_team_id: 11
-      away_team_id: 12
+      home_team_id: 13
+      away_team_id: 14
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4907,9 +5234,10 @@
   rows:
     - _id: fixture328
       id: 328
+      season_id: 1
       game_week_id: 33
-      home_team_id: 14
-      away_team_id: 20
+      home_team_id: 1
+      away_team_id: 39
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4922,9 +5250,10 @@
   rows:
     - _id: fixture329
       id: 329
+      season_id: 1
       game_week_id: 33
-      home_team_id: 18
-      away_team_id: 16
+      home_team_id: 6
+      away_team_id: 17
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4937,9 +5266,10 @@
   rows:
     - _id: fixture330
       id: 330
+      season_id: 1
       game_week_id: 33
-      home_team_id: 19
-      away_team_id: 17
+      home_team_id: 21
+      away_team_id: 20
       kickoff_time: 2025-04-19T14:00:00Z
       minutes: 0
       finished: false
@@ -4952,9 +5282,10 @@
   rows:
     - _id: fixture331
       id: 331
+      season_id: 1
       game_week_id: 34
-      home_team_id: 1
-      away_team_id: 7
+      home_team_id: 3
+      away_team_id: 31
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -4967,9 +5298,10 @@
   rows:
     - _id: fixture332
       id: 332
+      season_id: 1
       game_week_id: 34
-      home_team_id: 3
-      away_team_id: 14
+      home_team_id: 91
+      away_team_id: 1
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -4982,9 +5314,10 @@
   rows:
     - _id: fixture333
       id: 333
+      season_id: 1
       game_week_id: 34
-      home_team_id: 5
-      away_team_id: 19
+      home_team_id: 36
+      away_team_id: 21
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -4997,9 +5330,10 @@
   rows:
     - _id: fixture334
       id: 334
+      season_id: 1
       game_week_id: 34
-      home_team_id: 6
-      away_team_id: 8
+      home_team_id: 8
+      away_team_id: 11
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -5012,9 +5346,10 @@
   rows:
     - _id: fixture335
       id: 335
+      season_id: 1
       game_week_id: 34
-      home_team_id: 12
-      away_team_id: 18
+      home_team_id: 14
+      away_team_id: 6
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -5027,9 +5362,10 @@
   rows:
     - _id: fixture336
       id: 336
+      season_id: 1
       game_week_id: 34
-      home_team_id: 13
-      away_team_id: 2
+      home_team_id: 43
+      away_team_id: 7
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -5042,9 +5378,10 @@
   rows:
     - _id: fixture337
       id: 337
+      season_id: 1
       game_week_id: 34
-      home_team_id: 15
-      away_team_id: 10
+      home_team_id: 4
+      away_team_id: 40
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -5057,9 +5394,10 @@
   rows:
     - _id: fixture338
       id: 338
+      season_id: 1
       game_week_id: 34
-      home_team_id: 16
-      away_team_id: 4
+      home_team_id: 17
+      away_team_id: 94
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -5072,9 +5410,10 @@
   rows:
     - _id: fixture339
       id: 339
+      season_id: 1
       game_week_id: 34
-      home_team_id: 17
-      away_team_id: 9
+      home_team_id: 20
+      away_team_id: 54
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -5087,9 +5426,10 @@
   rows:
     - _id: fixture340
       id: 340
+      season_id: 1
       game_week_id: 34
-      home_team_id: 20
-      away_team_id: 11
+      home_team_id: 39
+      away_team_id: 13
       kickoff_time: 2025-04-26T14:00:00Z
       minutes: 0
       finished: false
@@ -5102,9 +5442,10 @@
   rows:
     - _id: fixture341
       id: 341
+      season_id: 1
       game_week_id: 35
-      home_team_id: 1
-      away_team_id: 3
+      home_team_id: 3
+      away_team_id: 91
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5117,9 +5458,10 @@
   rows:
     - _id: fixture342
       id: 342
+      season_id: 1
       game_week_id: 35
-      home_team_id: 2
-      away_team_id: 9
+      home_team_id: 7
+      away_team_id: 54
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5132,9 +5474,10 @@
   rows:
     - _id: fixture343
       id: 343
+      season_id: 1
       game_week_id: 35
-      home_team_id: 4
-      away_team_id: 14
+      home_team_id: 94
+      away_team_id: 1
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5147,9 +5490,10 @@
   rows:
     - _id: fixture344
       id: 344
+      season_id: 1
       game_week_id: 35
-      home_team_id: 5
-      away_team_id: 15
+      home_team_id: 36
+      away_team_id: 4
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5162,9 +5506,10 @@
   rows:
     - _id: fixture345
       id: 345
+      season_id: 1
       game_week_id: 35
-      home_team_id: 6
-      away_team_id: 12
+      home_team_id: 8
+      away_team_id: 14
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5177,9 +5522,10 @@
   rows:
     - _id: fixture346
       id: 346
+      season_id: 1
       game_week_id: 35
-      home_team_id: 7
-      away_team_id: 16
+      home_team_id: 31
+      away_team_id: 17
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5192,9 +5538,10 @@
   rows:
     - _id: fixture347
       id: 347
+      season_id: 1
       game_week_id: 35
-      home_team_id: 8
-      away_team_id: 10
+      home_team_id: 11
+      away_team_id: 40
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5207,9 +5554,10 @@
   rows:
     - _id: fixture348
       id: 348
+      season_id: 1
       game_week_id: 35
-      home_team_id: 11
-      away_team_id: 17
+      home_team_id: 13
+      away_team_id: 20
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5222,9 +5570,10 @@
   rows:
     - _id: fixture349
       id: 349
+      season_id: 1
       game_week_id: 35
-      home_team_id: 13
-      away_team_id: 20
+      home_team_id: 43
+      away_team_id: 39
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5237,9 +5586,10 @@
   rows:
     - _id: fixture350
       id: 350
+      season_id: 1
       game_week_id: 35
-      home_team_id: 19
-      away_team_id: 18
+      home_team_id: 21
+      away_team_id: 6
       kickoff_time: 2025-05-03T14:00:00Z
       minutes: 0
       finished: false
@@ -5252,9 +5602,10 @@
   rows:
     - _id: fixture351
       id: 351
+      season_id: 1
       game_week_id: 36
-      home_team_id: 3
-      away_team_id: 2
+      home_team_id: 91
+      away_team_id: 7
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5267,9 +5618,10 @@
   rows:
     - _id: fixture352
       id: 352
+      season_id: 1
       game_week_id: 36
-      home_team_id: 9
-      away_team_id: 8
+      home_team_id: 54
+      away_team_id: 11
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5282,9 +5634,10 @@
   rows:
     - _id: fixture353
       id: 353
+      season_id: 1
       game_week_id: 36
-      home_team_id: 10
-      away_team_id: 4
+      home_team_id: 40
+      away_team_id: 94
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5297,9 +5650,10 @@
   rows:
     - _id: fixture354
       id: 354
+      season_id: 1
       game_week_id: 36
-      home_team_id: 12
-      away_team_id: 1
+      home_team_id: 14
+      away_team_id: 3
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5312,9 +5666,10 @@
   rows:
     - _id: fixture355
       id: 355
+      season_id: 1
       game_week_id: 36
-      home_team_id: 14
-      away_team_id: 19
+      home_team_id: 1
+      away_team_id: 21
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5327,9 +5682,10 @@
   rows:
     - _id: fixture356
       id: 356
+      season_id: 1
       game_week_id: 36
-      home_team_id: 15
-      away_team_id: 6
+      home_team_id: 4
+      away_team_id: 8
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5342,9 +5698,10 @@
   rows:
     - _id: fixture357
       id: 357
+      season_id: 1
       game_week_id: 36
-      home_team_id: 16
-      away_team_id: 11
+      home_team_id: 17
+      away_team_id: 13
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5357,9 +5714,10 @@
   rows:
     - _id: fixture358
       id: 358
+      season_id: 1
       game_week_id: 36
-      home_team_id: 17
-      away_team_id: 13
+      home_team_id: 20
+      away_team_id: 43
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5372,9 +5730,10 @@
   rows:
     - _id: fixture359
       id: 359
+      season_id: 1
       game_week_id: 36
-      home_team_id: 18
-      away_team_id: 7
+      home_team_id: 6
+      away_team_id: 31
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5387,9 +5746,10 @@
   rows:
     - _id: fixture360
       id: 360
+      season_id: 1
       game_week_id: 36
-      home_team_id: 20
-      away_team_id: 5
+      home_team_id: 39
+      away_team_id: 36
       kickoff_time: 2025-05-10T14:00:00Z
       minutes: 0
       finished: false
@@ -5402,9 +5762,10 @@
   rows:
     - _id: fixture361
       id: 361
+      season_id: 1
       game_week_id: 37
-      home_team_id: 1
-      away_team_id: 15
+      home_team_id: 3
+      away_team_id: 4
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5417,9 +5778,10 @@
   rows:
     - _id: fixture362
       id: 362
+      season_id: 1
       game_week_id: 37
-      home_team_id: 2
-      away_team_id: 18
+      home_team_id: 7
+      away_team_id: 6
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5432,9 +5794,10 @@
   rows:
     - _id: fixture363
       id: 363
+      season_id: 1
       game_week_id: 37
-      home_team_id: 4
-      away_team_id: 9
+      home_team_id: 94
+      away_team_id: 54
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5447,9 +5810,10 @@
   rows:
     - _id: fixture364
       id: 364
+      season_id: 1
       game_week_id: 37
-      home_team_id: 5
-      away_team_id: 12
+      home_team_id: 36
+      away_team_id: 14
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5462,9 +5826,10 @@
   rows:
     - _id: fixture365
       id: 365
+      season_id: 1
       game_week_id: 37
-      home_team_id: 6
-      away_team_id: 14
+      home_team_id: 8
+      away_team_id: 1
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5477,9 +5842,10 @@
   rows:
     - _id: fixture366
       id: 366
+      season_id: 1
       game_week_id: 37
-      home_team_id: 7
-      away_team_id: 20
+      home_team_id: 31
+      away_team_id: 39
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5492,9 +5858,10 @@
   rows:
     - _id: fixture367
       id: 367
+      season_id: 1
       game_week_id: 37
-      home_team_id: 8
-      away_team_id: 17
+      home_team_id: 11
+      away_team_id: 20
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5507,9 +5874,10 @@
   rows:
     - _id: fixture368
       id: 368
+      season_id: 1
       game_week_id: 37
-      home_team_id: 11
-      away_team_id: 10
+      home_team_id: 13
+      away_team_id: 40
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5522,9 +5890,10 @@
   rows:
     - _id: fixture369
       id: 369
+      season_id: 1
       game_week_id: 37
-      home_team_id: 13
-      away_team_id: 3
+      home_team_id: 43
+      away_team_id: 91
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5537,9 +5906,10 @@
   rows:
     - _id: fixture370
       id: 370
+      season_id: 1
       game_week_id: 37
-      home_team_id: 19
-      away_team_id: 16
+      home_team_id: 21
+      away_team_id: 17
       kickoff_time: 2025-05-18T14:00:00Z
       minutes: 0
       finished: false
@@ -5552,9 +5922,10 @@
   rows:
     - _id: fixture371
       id: 371
+      season_id: 1
       game_week_id: 38
-      home_team_id: 3
-      away_team_id: 11
+      home_team_id: 91
+      away_team_id: 13
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5567,9 +5938,10 @@
   rows:
     - _id: fixture372
       id: 372
+      season_id: 1
       game_week_id: 38
-      home_team_id: 9
-      away_team_id: 13
+      home_team_id: 54
+      away_team_id: 43
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5582,9 +5954,10 @@
   rows:
     - _id: fixture373
       id: 373
+      season_id: 1
       game_week_id: 38
-      home_team_id: 10
-      away_team_id: 19
+      home_team_id: 40
+      away_team_id: 21
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5597,9 +5970,10 @@
   rows:
     - _id: fixture374
       id: 374
+      season_id: 1
       game_week_id: 38
-      home_team_id: 12
-      away_team_id: 7
+      home_team_id: 14
+      away_team_id: 31
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5612,9 +5986,10 @@
   rows:
     - _id: fixture375
       id: 375
+      season_id: 1
       game_week_id: 38
-      home_team_id: 14
-      away_team_id: 2
+      home_team_id: 1
+      away_team_id: 7
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5627,9 +6002,10 @@
   rows:
     - _id: fixture376
       id: 376
+      season_id: 1
       game_week_id: 38
-      home_team_id: 15
-      away_team_id: 8
+      home_team_id: 4
+      away_team_id: 11
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5642,9 +6018,10 @@
   rows:
     - _id: fixture377
       id: 377
+      season_id: 1
       game_week_id: 38
-      home_team_id: 16
-      away_team_id: 6
+      home_team_id: 17
+      away_team_id: 8
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5657,9 +6034,10 @@
   rows:
     - _id: fixture378
       id: 378
+      season_id: 1
       game_week_id: 38
-      home_team_id: 17
-      away_team_id: 1
+      home_team_id: 20
+      away_team_id: 3
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5672,9 +6050,10 @@
   rows:
     - _id: fixture379
       id: 379
+      season_id: 1
       game_week_id: 38
-      home_team_id: 18
-      away_team_id: 5
+      home_team_id: 6
+      away_team_id: 36
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
@@ -5687,9 +6066,10 @@
   rows:
     - _id: fixture380
       id: 380
+      season_id: 1
       game_week_id: 38
-      home_team_id: 20
-      away_team_id: 4
+      home_team_id: 39
+      away_team_id: 94
       kickoff_time: 2025-05-25T15:00:00Z
       minutes: 0
       finished: false
