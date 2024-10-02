@@ -34,6 +34,12 @@ type AppConfig struct {
 	Debug     bool   `yaml:"debug"`
 	SecretKey string `yaml:"secret_key"`
 
+	DBEngine string `yaml:"dbEngine"`
+
+	MYSQL struct {
+		DSN string `yaml:"dsn"`
+	} `yaml:"mysql"`
+
 	PGX struct {
 		DSN string `yaml:"dsn"`
 	} `yaml:"pgx"`

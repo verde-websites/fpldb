@@ -9,7 +9,7 @@ type Fixture struct {
 	GameWeekID           int64     `json:"game_week_id" bun:"game_week_id"`
 	HomeTeamID           int64     `json:"home_team_id" bun:"home_team_id"`
 	AwayTeamID           int64     `json:"away_team_id" bun:"away_team_id"`
-	KickoffTime          time.Time `json:"kickoff_time" bun:"kickoff_time,type:timestamp with time zone"`
+	KickoffTime          time.Time `json:"kickoff_time" bun:"kickoff_time"`
 	Minutes              int       `json:"minutes" bun:"minutes"`
 	Finished             bool      `json:"finished" bun:"finished"`
 	FinishedProvisional  bool      `json:"finished_provisional" bun:"finished_provisional"`

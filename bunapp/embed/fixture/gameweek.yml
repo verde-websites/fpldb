@@ -5,9 +5,9 @@
       gameweek_number: 1
       name: Gameweek 1
       transfer_deadline: 2024-08-16T17:30:00Z
-      gameweek_active: false
-      gameweek_finished: false
-      data_checked: false
+      gameweek_active: true
+      gameweek_finished: true
+      data_checked: true
     - _id: gw2
       id: 2
       gameweek_number: 2
@@ -52,7 +52,7 @@
       id: 7
       gameweek_number: 7
       name: Gameweek 7
-      transfer_deadline: 2024-10-05T12:30:00Z
+      transfer_deadline: 2024-10-05T10:00:00Z
       gameweek_active: false
       gameweek_finished: false
       data_checked: false
@@ -60,7 +60,7 @@
       id: 8
       gameweek_number: 8
       name: Gameweek 8
-      transfer_deadline: 2024-10-19T12:30:00Z
+      transfer_deadline: 2024-10-19T10:00:00Z
       gameweek_active: false
       gameweek_finished: false
       data_checked: false
@@ -68,7 +68,7 @@
       id: 9
       gameweek_number: 9
       name: Gameweek 9
-      transfer_deadline: 2024-10-26T12:30:00Z
+      transfer_deadline: 2024-10-25T17:30:00Z
       gameweek_active: false
       gameweek_finished: false
       data_checked: false

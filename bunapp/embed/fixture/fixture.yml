@@ -8,12 +8,12 @@
       home_team_id: 1
       away_team_id: 54
       kickoff_time: 2024-08-16T19:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
-      home_team_score: 0
+      started: true
+      home_team_score: 1
       away_team_score: 0
 - model: Fixture
   rows:
@@ -25,13 +25,13 @@
       home_team_id: 40
       away_team_id: 14
       kickoff_time: 2024-08-17T11:30:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
+      started: true
       home_team_score: 0
-      away_team_score: 0
+      away_team_score: 2
 - model: Fixture
   rows:
     - _id: fixture2444471
@@ -42,12 +42,12 @@
       home_team_id: 3
       away_team_id: 39
       kickoff_time: 2024-08-17T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
-      home_team_score: 0
+      started: true
+      home_team_score: 2
       away_team_score: 0
 - model: Fixture
   rows:
@@ -59,13 +59,13 @@
       home_team_id: 11
       away_team_id: 36
       kickoff_time: 2024-08-17T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
+      started: true
       home_team_score: 0
-      away_team_score: 0
+      away_team_score: 3
 - model: Fixture
   rows:
     - _id: fixture2444474
@@ -76,12 +76,12 @@
       home_team_id: 4
       away_team_id: 20
       kickoff_time: 2024-08-17T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
-      home_team_score: 0
+      started: true
+      home_team_score: 1
       away_team_score: 0
 - model: Fixture
   rows:
@@ -93,13 +93,13 @@
       home_team_id: 17
       away_team_id: 91
       kickoff_time: 2024-08-17T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
+      started: true
+      home_team_score: 1
+      away_team_score: 1
 - model: Fixture
   rows:
     - _id: fixture2444476
@@ -110,13 +110,13 @@
       home_team_id: 21
       away_team_id: 7
       kickoff_time: 2024-08-17T16:30:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
+      started: true
+      home_team_score: 1
+      away_team_score: 2
 - model: Fixture
   rows:
     - _id: fixture2444477
@@ -127,13 +127,13 @@
       home_team_id: 94
       away_team_id: 31
       kickoff_time: 2024-08-18T13:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
+      started: true
+      home_team_score: 2
+      away_team_score: 1
 - model: Fixture
   rows:
     - _id: fixture2444478
@@ -144,13 +144,13 @@
       home_team_id: 8
       away_team_id: 43
       kickoff_time: 2024-08-18T15:30:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
+      started: true
       home_team_score: 0
-      away_team_score: 0
+      away_team_score: 2
 - model: Fixture
   rows:
     - _id: fixture2444479
@@ -161,13 +161,13 @@
       home_team_id: 13
       away_team_id: 6
       kickoff_time: 2024-08-19T19:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
+      minutes: 90
+      finished: true
+      finished_provisional: true
       provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
+      started: true
+      home_team_score: 1
+      away_team_score: 1
 - model: Fixture
   rows:
     - _id: fixture2444482
@@ -1020,14 +1020,14 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture2444530
-      id: 2444530
-      fpl_tracker_id: 61
+    - _id: fixture2444535
+      id: 2444535
+      fpl_tracker_id: 66
       season_id: 1
       game_week_id: 7
-      home_team_id: 3
-      away_team_id: 20
-      kickoff_time: 2024-10-05T14:00:00Z
+      home_team_id: 31
+      away_team_id: 14
+      kickoff_time: 2024-10-05T11:30:00Z
       minutes: 0
       finished: false
       finished_provisional: false
@@ -1037,13 +1037,13 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture2444531
-      id: 2444531
-      fpl_tracker_id: 62
+    - _id: fixture2444530
+      id: 2444530
+      fpl_tracker_id: 61
       season_id: 1
       game_week_id: 7
-      home_team_id: 7
-      away_team_id: 1
+      home_team_id: 3
+      away_team_id: 20
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -1071,23 +1071,6 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture2444533
-      id: 2444533
-      fpl_tracker_id: 64
-      season_id: 1
-      game_week_id: 7
-      home_team_id: 36
-      away_team_id: 6
-      kickoff_time: 2024-10-05T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
-      provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
-- model: Fixture
-  rows:
     - _id: fixture2444534
       id: 2444534
       fpl_tracker_id: 65
@@ -1095,40 +1078,6 @@
       game_week_id: 7
       home_team_id: 8
       away_team_id: 17
-      kickoff_time: 2024-10-05T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
-      provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
-- model: Fixture
-  rows:
-    - _id: fixture2444535
-      id: 2444535
-      fpl_tracker_id: 66
-      season_id: 1
-      game_week_id: 7
-      home_team_id: 31
-      away_team_id: 14
-      kickoff_time: 2024-10-05T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
-      provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
-- model: Fixture
-  rows:
-    - _id: fixture2444536
-      id: 2444536
-      fpl_tracker_id: 67
-      season_id: 1
-      game_week_id: 7
-      home_team_id: 11
-      away_team_id: 4
       kickoff_time: 2024-10-05T14:00:00Z
       minutes: 0
       finished: false
@@ -1190,14 +1139,65 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture2444540
-      id: 2444540
-      fpl_tracker_id: 71
+    - _id: fixture2444536
+      id: 2444536
+      fpl_tracker_id: 67
+      season_id: 1
+      game_week_id: 7
+      home_team_id: 11
+      away_team_id: 4
+      kickoff_time: 2024-10-05T16:30:00Z
+      minutes: 0
+      finished: false
+      finished_provisional: false
+      provisional_start_time: false
+      started: false
+      home_team_score: 0
+      away_team_score: 0
+- model: Fixture
+  rows:
+    - _id: fixture2444531
+      id: 2444531
+      fpl_tracker_id: 62
+      season_id: 1
+      game_week_id: 7
+      home_team_id: 7
+      away_team_id: 1
+      kickoff_time: 2024-10-06T13:00:00Z
+      minutes: 0
+      finished: false
+      finished_provisional: false
+      provisional_start_time: false
+      started: false
+      home_team_score: 0
+      away_team_score: 0
+- model: Fixture
+  rows:
+    - _id: fixture2444533
+      id: 2444533
+      fpl_tracker_id: 64
+      season_id: 1
+      game_week_id: 7
+      home_team_id: 36
+      away_team_id: 6
+      kickoff_time: 2024-10-06T15:30:00Z
+      minutes: 0
+      finished: false
+      finished_provisional: false
+      provisional_start_time: false
+      started: false
+      home_team_score: 0
+      away_team_score: 0
+- model: Fixture
+  rows:
+    - _id: fixture2444548
+      id: 2444548
+      fpl_tracker_id: 79
       season_id: 1
       game_week_id: 8
-      home_team_id: 91
-      away_team_id: 3
-      kickoff_time: 2024-10-19T14:00:00Z
+      home_team_id: 6
+      away_team_id: 21
+      kickoff_time: 2024-10-19T11:30:00Z
       minutes: 0
       finished: false
       finished_provisional: false
@@ -1231,23 +1231,6 @@
       game_week_id: 8
       home_team_id: 40
       away_team_id: 11
-      kickoff_time: 2024-10-19T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
-      provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
-- model: Fixture
-  rows:
-    - _id: fixture2444543
-      id: 2444543
-      fpl_tracker_id: 74
-      season_id: 1
-      game_week_id: 8
-      home_team_id: 14
-      away_team_id: 8
       kickoff_time: 2024-10-19T14:00:00Z
       minutes: 0
       finished: false
@@ -1326,14 +1309,31 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture2444548
-      id: 2444548
-      fpl_tracker_id: 79
+    - _id: fixture2444543
+      id: 2444543
+      fpl_tracker_id: 74
       season_id: 1
       game_week_id: 8
-      home_team_id: 6
-      away_team_id: 21
-      kickoff_time: 2024-10-19T14:00:00Z
+      home_team_id: 14
+      away_team_id: 8
+      kickoff_time: 2024-10-19T16:30:00Z
+      minutes: 0
+      finished: false
+      finished_provisional: false
+      provisional_start_time: false
+      started: false
+      home_team_score: 0
+      away_team_score: 0
+- model: Fixture
+  rows:
+    - _id: fixture2444540
+      id: 2444540
+      fpl_tracker_id: 71
+      season_id: 1
+      game_week_id: 8
+      home_team_id: 91
+      away_team_id: 3
+      kickoff_time: 2024-10-20T13:00:00Z
       minutes: 0
       finished: false
       finished_provisional: false
@@ -1350,7 +1350,7 @@
       game_week_id: 8
       home_team_id: 39
       away_team_id: 43
-      kickoff_time: 2024-10-19T14:00:00Z
+      kickoff_time: 2024-10-20T15:30:00Z
       minutes: 0
       finished: false
       finished_provisional: false
@@ -1360,14 +1360,14 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture2444550
-      id: 2444550
-      fpl_tracker_id: 81
+    - _id: fixture2444557
+      id: 2444557
+      fpl_tracker_id: 88
       season_id: 1
       game_week_id: 9
-      home_team_id: 3
-      away_team_id: 14
-      kickoff_time: 2024-10-26T14:00:00Z
+      home_team_id: 13
+      away_team_id: 17
+      kickoff_time: 2024-10-25T19:00:00Z
       minutes: 0
       finished: false
       finished_provisional: false
@@ -1428,74 +1428,6 @@
       away_team_score: 0
 - model: Fixture
   rows:
-    - _id: fixture2444554
-      id: 2444554
-      fpl_tracker_id: 85
-      season_id: 1
-      game_week_id: 9
-      home_team_id: 8
-      away_team_id: 4
-      kickoff_time: 2024-10-26T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
-      provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
-- model: Fixture
-  rows:
-    - _id: fixture2444555
-      id: 2444555
-      fpl_tracker_id: 86
-      season_id: 1
-      game_week_id: 9
-      home_team_id: 31
-      away_team_id: 6
-      kickoff_time: 2024-10-26T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
-      provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
-- model: Fixture
-  rows:
-    - _id: fixture2444556
-      id: 2444556
-      fpl_tracker_id: 87
-      season_id: 1
-      game_week_id: 9
-      home_team_id: 11
-      away_team_id: 54
-      kickoff_time: 2024-10-26T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
-      provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
-- model: Fixture
-  rows:
-    - _id: fixture2444557
-      id: 2444557
-      fpl_tracker_id: 88
-      season_id: 1
-      game_week_id: 9
-      home_team_id: 13
-      away_team_id: 17
-      kickoff_time: 2024-10-26T14:00:00Z
-      minutes: 0
-      finished: false
-      finished_provisional: false
-      provisional_start_time: false
-      started: false
-      home_team_score: 0
-      away_team_score: 0
-- model: Fixture
-  rows:
     - _id: fixture2444558
       id: 2444558
       fpl_tracker_id: 89
@@ -1513,6 +1445,57 @@
       away_team_score: 0
 - model: Fixture
   rows:
+    - _id: fixture2444556
+      id: 2444556
+      fpl_tracker_id: 87
+      season_id: 1
+      game_week_id: 9
+      home_team_id: 11
+      away_team_id: 54
+      kickoff_time: 2024-10-26T16:30:00Z
+      minutes: 0
+      finished: false
+      finished_provisional: false
+      provisional_start_time: false
+      started: false
+      home_team_score: 0
+      away_team_score: 0
+- model: Fixture
+  rows:
+    - _id: fixture2444554
+      id: 2444554
+      fpl_tracker_id: 85
+      season_id: 1
+      game_week_id: 9
+      home_team_id: 8
+      away_team_id: 4
+      kickoff_time: 2024-10-27T14:00:00Z
+      minutes: 0
+      finished: false
+      finished_provisional: false
+      provisional_start_time: false
+      started: false
+      home_team_score: 0
+      away_team_score: 0
+- model: Fixture
+  rows:
+    - _id: fixture2444555
+      id: 2444555
+      fpl_tracker_id: 86
+      season_id: 1
+      game_week_id: 9
+      home_team_id: 31
+      away_team_id: 6
+      kickoff_time: 2024-10-27T14:00:00Z
+      minutes: 0
+      finished: false
+      finished_provisional: false
+      provisional_start_time: false
+      started: false
+      home_team_score: 0
+      away_team_score: 0
+- model: Fixture
+  rows:
     - _id: fixture2444559
       id: 2444559
       fpl_tracker_id: 90
@@ -1520,7 +1503,24 @@
       game_week_id: 9
       home_team_id: 21
       away_team_id: 1
-      kickoff_time: 2024-10-26T14:00:00Z
+      kickoff_time: 2024-10-27T14:00:00Z
+      minutes: 0
+      finished: false
+      finished_provisional: false
+      provisional_start_time: false
+      started: false
+      home_team_score: 0
+      away_team_score: 0
+- model: Fixture
+  rows:
+    - _id: fixture2444550
+      id: 2444550
+      fpl_tracker_id: 81
+      season_id: 1
+      game_week_id: 9
+      home_team_id: 3
+      away_team_id: 14
+      kickoff_time: 2024-10-27T16:30:00Z
       minutes: 0
       finished: false
       finished_provisional: false

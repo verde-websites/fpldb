@@ -75,12 +75,12 @@
     - _id: player466075-season1
       season_id: 1
       player_id: 466075
+    - _id: player499169-season1
+      season_id: 1
+      player_id: 499169
     - _id: player106468-season1
       season_id: 1
       player_id: 106468
-    - _id: player433979-season1
-      season_id: 1
-      player_id: 433979
     - _id: player215711-season1
       season_id: 1
       player_id: 215711
@@ -180,6 +180,9 @@
     - _id: player481624-season1
       season_id: 1
       player_id: 481624
+    - _id: player515597-season1
+      season_id: 1
+      player_id: 515597
     - _id: player232980-season1
       season_id: 1
       player_id: 232980
@@ -249,9 +252,6 @@
     - _id: player54469-season1
       season_id: 1
       player_id: 54469
-    - _id: player154566-season1
-      season_id: 1
-      player_id: 154566
     - _id: player201658-season1
       season_id: 1
       player_id: 201658
@@ -264,6 +264,15 @@
     - _id: player554605-season1
       season_id: 1
       player_id: 554605
+    - _id: player436893-season1
+      season_id: 1
+      player_id: 436893
+    - _id: player444172-season1
+      season_id: 1
+      player_id: 444172
+    - _id: player444102-season1
+      season_id: 1
+      player_id: 444102
     - _id: player191866-season1
       season_id: 1
       player_id: 191866
@@ -345,6 +354,12 @@
     - _id: player48760-season1
       season_id: 1
       player_id: 48760
+    - _id: player244858-season1
+      season_id: 1
+      player_id: 244858
+    - _id: player591357-season1
+      season_id: 1
+      player_id: 591357
     - _id: player535818-season1
       season_id: 1
       player_id: 535818
@@ -357,9 +372,6 @@
     - _id: player543158-season1
       season_id: 1
       player_id: 543158
-    - _id: player536916-season1
-      season_id: 1
-      player_id: 536916
     - _id: player519324-season1
       season_id: 1
       player_id: 519324
@@ -456,6 +468,21 @@
     - _id: player467779-season1
       season_id: 1
       player_id: 467779
+    - _id: player513433-season1
+      season_id: 1
+      player_id: 513433
+    - _id: player509416-season1
+      season_id: 1
+      player_id: 509416
+    - _id: player513834-season1
+      season_id: 1
+      player_id: 513834
+    - _id: player472739-season1
+      season_id: 1
+      player_id: 472739
+    - _id: player463067-season1
+      season_id: 1
+      player_id: 463067
     - _id: player532605-season1
       season_id: 1
       player_id: 532605
@@ -570,12 +597,12 @@
     - _id: player109646-season1
       season_id: 1
       player_id: 109646
-    - _id: player503714-season1
-      season_id: 1
-      player_id: 503714
     - _id: player444463-season1
       season_id: 1
       player_id: 444463
+    - _id: player247632-season1
+      season_id: 1
+      player_id: 247632
     - _id: player488464-season1
       season_id: 1
       player_id: 488464
@@ -735,6 +762,12 @@
     - _id: player512462-season1
       season_id: 1
       player_id: 512462
+    - _id: player609873-season1
+      season_id: 1
+      player_id: 609873
+    - _id: player491557-season1
+      season_id: 1
+      player_id: 491557
     - _id: player209289-season1
       season_id: 1
       player_id: 209289
@@ -807,6 +840,12 @@
     - _id: player246301-season1
       season_id: 1
       player_id: 246301
+    - _id: player577725-season1
+      season_id: 1
+      player_id: 577725
+    - _id: player573062-season1
+      season_id: 1
+      player_id: 573062
     - _id: player462387-season1
       season_id: 1
       player_id: 462387
@@ -882,12 +921,24 @@
     - _id: player220583-season1
       season_id: 1
       player_id: 220583
+    - _id: player155405-season1
+      season_id: 1
+      player_id: 155405
     - _id: player232917-season1
       season_id: 1
       player_id: 232917
     - _id: player108053-season1
       season_id: 1
       player_id: 108053
+    - _id: player172453-season1
+      season_id: 1
+      player_id: 172453
+    - _id: player454667-season1
+      season_id: 1
+      player_id: 454667
+    - _id: player536916-season1
+      season_id: 1
+      player_id: 536916
     - _id: player225902-season1
       season_id: 1
       player_id: 225902
@@ -966,6 +1017,12 @@
     - _id: player531442-season1
       season_id: 1
       player_id: 531442
+    - _id: player532534-season1
+      season_id: 1
+      player_id: 532534
+    - _id: player501770-season1
+      season_id: 1
+      player_id: 501770
     - _id: player116535-season1
       season_id: 1
       player_id: 116535
@@ -978,9 +1035,6 @@
     - _id: player492777-season1
       season_id: 1
       player_id: 492777
-    - _id: player244858-season1
-      season_id: 1
-      player_id: 244858
     - _id: player491970-season1
       season_id: 1
       player_id: 491970
@@ -1113,9 +1167,6 @@
     - _id: player88248-season1
       season_id: 1
       player_id: 88248
-    - _id: player155405-season1
-      season_id: 1
-      player_id: 155405
     - _id: player220566-season1
       season_id: 1
       player_id: 220566
@@ -1131,6 +1182,9 @@
     - _id: player510281-season1
       season_id: 1
       player_id: 510281
+    - _id: player472769-season1
+      season_id: 1
+      player_id: 472769
     - _id: player493250-season1
       season_id: 1
       player_id: 493250
@@ -1203,15 +1257,21 @@
     - _id: player106760-season1
       season_id: 1
       player_id: 106760
-    - _id: player214590-season1
-      season_id: 1
-      player_id: 214590
     - _id: player458249-season1
       season_id: 1
       player_id: 458249
     - _id: player550864-season1
       season_id: 1
       player_id: 550864
+    - _id: player209365-season1
+      season_id: 1
+      player_id: 209365
+    - _id: player230001-season1
+      season_id: 1
+      player_id: 230001
+    - _id: player490881-season1
+      season_id: 1
+      player_id: 490881
     - _id: player545477-season1
       season_id: 1
       player_id: 545477
@@ -1311,6 +1371,9 @@
     - _id: player578512-season1
       season_id: 1
       player_id: 578512
+    - _id: player538207-season1
+      season_id: 1
+      player_id: 538207
     - _id: player159506-season1
       season_id: 1
       player_id: 159506
@@ -1398,6 +1461,18 @@
     - _id: player227444-season1
       season_id: 1
       player_id: 227444
+    - _id: player510500-season1
+      season_id: 1
+      player_id: 510500
+    - _id: player502222-season1
+      season_id: 1
+      player_id: 502222
+    - _id: player433979-season1
+      season_id: 1
+      player_id: 433979
+    - _id: player503714-season1
+      season_id: 1
+      player_id: 503714
     - _id: player502697-season1
       season_id: 1
       player_id: 502697
@@ -1488,6 +1563,12 @@
     - _id: player204814-season1
       season_id: 1
       player_id: 204814
+    - _id: player496661-season1
+      season_id: 1
+      player_id: 496661
+    - _id: player154566-season1
+      season_id: 1
+      player_id: 154566
     - _id: player548308-season1
       season_id: 1
       player_id: 548308
@@ -1587,6 +1668,18 @@
     - _id: player175941-season1
       season_id: 1
       player_id: 175941
+    - _id: player552427-season1
+      season_id: 1
+      player_id: 552427
+    - _id: player499721-season1
+      season_id: 1
+      player_id: 499721
+    - _id: player550839-season1
+      season_id: 1
+      player_id: 550839
+    - _id: player214590-season1
+      season_id: 1
+      player_id: 214590
     - _id: player213999-season1
       season_id: 1
       player_id: 213999
@@ -1656,6 +1749,15 @@
     - _id: player450070-season1
       season_id: 1
       player_id: 450070
+    - _id: player197024-season1
+      season_id: 1
+      player_id: 197024
+    - _id: player91889-season1
+      season_id: 1
+      player_id: 91889
+    - _id: player462116-season1
+      season_id: 1
+      player_id: 462116
     - _id: player448514-season1
       season_id: 1
       player_id: 448514
@@ -1737,9 +1839,6 @@
     - _id: player200402-season1
       season_id: 1
       player_id: 200402
-    - _id: player247632-season1
-      season_id: 1
-      player_id: 247632
     - _id: player641221-season1
       season_id: 1
       player_id: 641221

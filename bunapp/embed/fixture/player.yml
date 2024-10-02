@@ -7,7 +7,7 @@
       second_name: Ferreira Vieira
       web_name: Fábio Vieira
       player_type: 3
-      status: a
+      status: d
       team_id: 3
     - _id: player205651
       id: 205651
@@ -43,7 +43,7 @@
       second_name: Hein
       web_name: Hein
       player_type: 1
-      status: a
+      status: u
       team_id: 3
     - _id: player445122
       id: 445122
@@ -178,7 +178,7 @@
       second_name: Tierney
       web_name: Tierney
       player_type: 2
-      status: a
+      status: i
       team_id: 3
     - _id: player223723
       id: 223723
@@ -187,7 +187,7 @@
       second_name: Takehiro
       web_name: Tomiyasu
       player_type: 2
-      status: a
+      status: i
       team_id: 3
     - _id: player116216
       id: 116216
@@ -225,6 +225,15 @@
       player_type: 2
       status: a
       team_id: 3
+    - _id: player499169
+      id: 499169
+      fpl_tracker_id: 597
+      first_name: Myles
+      second_name: Lewis-Skelly
+      web_name: Lewis-Skelly
+      player_type: 3
+      status: a
+      team_id: 3
     - _id: player106468
       id: 106468
       fpl_tracker_id: 26
@@ -232,15 +241,6 @@
       second_name: Moreno Lopera
       web_name: Alex Moreno
       player_type: 2
-      status: a
-      team_id: 7
-    - _id: player433979
-      id: 433979
-      fpl_tracker_id: 27
-      first_name: Cameron
-      second_name: Archer
-      web_name: Archer
-      player_type: 4
       status: a
       team_id: 7
     - _id: player215711
@@ -331,7 +331,7 @@
       second_name: Dobbin
       web_name: Dobbin
       player_type: 3
-      status: a
+      status: u
       team_id: 7
     - _id: player476344
       id: 476344
@@ -385,7 +385,7 @@
       second_name: Kesler-Hayden
       web_name: Kesler-Hayden
       player_type: 2
-      status: a
+      status: u
       team_id: 7
     - _id: player199798
       id: 199798
@@ -457,7 +457,7 @@
       second_name: Olsen
       web_name: Olsen
       player_type: 1
-      status: a
+      status: d
       team_id: 7
     - _id: player244954
       id: 244954
@@ -502,7 +502,7 @@
       second_name: da Cruz Sousa
       web_name: Sousa
       player_type: 2
-      status: a
+      status: u
       team_id: 7
     - _id: player166989
       id: 166989
@@ -540,6 +540,15 @@
       player_type: 3
       status: a
       team_id: 7
+    - _id: player515597
+      id: 515597
+      fpl_tracker_id: 598
+      first_name: Lamare
+      second_name: Bogarde
+      web_name: Bogarde
+      player_type: 2
+      status: a
+      team_id: 7
     - _id: player232980
       id: 232980
       fpl_tracker_id: 59
@@ -574,7 +583,7 @@
       second_name: Brooks
       web_name: Brooks
       player_type: 3
-      status: a
+      status: i
       team_id: 91
     - _id: player158499
       id: 158499
@@ -601,7 +610,7 @@
       second_name: Ünal
       web_name: Enes Ünal
       player_type: 4
-      status: a
+      status: i
       team_id: 91
     - _id: player441240
       id: 441240
@@ -610,7 +619,7 @@
       second_name: Faivre
       web_name: Faivre
       player_type: 3
-      status: a
+      status: u
       team_id: 91
     - _id: player424044
       id: 424044
@@ -691,7 +700,7 @@
       second_name: Paulsen
       web_name: Paulsen
       player_type: 1
-      status: a
+      status: u
       team_id: 91
     - _id: player168991
       id: 168991
@@ -747,15 +756,6 @@
       player_type: 2
       status: a
       team_id: 91
-    - _id: player154566
-      id: 154566
-      fpl_tracker_id: 82
-      first_name: Dominic
-      second_name: Solanke-Mitchell
-      web_name: Solanke
-      player_type: 4
-      status: a
-      team_id: 91
     - _id: player201658
       id: 201658
       fpl_tracker_id: 83
@@ -790,6 +790,33 @@
       second_name: Huijsen
       web_name: Huijsen
       player_type: 2
+      status: a
+      team_id: 91
+    - _id: player436893
+      id: 436893
+      fpl_tracker_id: 592
+      first_name: Julián
+      second_name: Araujo Zúñiga
+      web_name: J.Araujo
+      player_type: 2
+      status: a
+      team_id: 91
+    - _id: player444172
+      id: 444172
+      fpl_tracker_id: 599
+      first_name: Will
+      second_name: Dennis
+      web_name: Dennis
+      player_type: 1
+      status: a
+      team_id: 91
+    - _id: player444102
+      id: 444102
+      fpl_tracker_id: 617
+      first_name: Francisco Evanilson
+      second_name: de Lima Barbosa
+      web_name: Evanilson
+      player_type: 4
       status: a
       team_id: 91
     - _id: player191866
@@ -835,7 +862,7 @@
       second_name: Dasilva
       web_name: Dasilva
       player_type: 3
-      status: a
+      status: i
       team_id: 94
     - _id: player118342
       id: 118342
@@ -853,7 +880,7 @@
       second_name: Henry
       web_name: Henry
       player_type: 2
-      status: a
+      status: d
       team_id: 94
     - _id: player472713
       id: 472713
@@ -862,7 +889,7 @@
       second_name: Hickey
       web_name: Hickey
       player_type: 2
-      status: a
+      status: i
       team_id: 94
     - _id: player204580
       id: 204580
@@ -1033,6 +1060,24 @@
       second_name: Jorgensen
       web_name: Zanka
       player_type: 2
+      status: u
+      team_id: 94
+    - _id: player244858
+      id: 244858
+      fpl_tracker_id: 314
+      first_name: Fábio
+      second_name: Freitas Gouveia Carvalho
+      web_name: Carvalho
+      player_type: 3
+      status: a
+      team_id: 94
+    - _id: player591357
+      id: 591357
+      fpl_tracker_id: 602
+      first_name: Ryan
+      second_name: Trevitt
+      web_name: Trevitt
+      player_type: 3
       status: a
       team_id: 94
     - _id: player535818
@@ -1051,7 +1096,7 @@
       second_name: Baker-Boaitey
       web_name: Baker-Boaitey
       player_type: 3
-      status: a
+      status: u
       team_id: 36
     - _id: player535301
       id: 535301
@@ -1069,15 +1114,6 @@
       second_name: Barco
       web_name: Barco
       player_type: 2
-      status: a
-      team_id: 36
-    - _id: player536916
-      id: 536916
-      fpl_tracker_id: 117
-      first_name: Facundo
-      second_name: Buonanotte
-      web_name: Buonanotte
-      player_type: 3
       status: a
       team_id: 36
     - _id: player519324
@@ -1114,7 +1150,7 @@
       second_name: Enciso
       web_name: Enciso
       player_type: 3
-      status: a
+      status: d
       team_id: 36
     - _id: player204214
       id: 204214
@@ -1123,7 +1159,7 @@
       second_name: Estupiñán
       web_name: Estupiñan
       player_type: 2
-      status: i
+      status: d
       team_id: 36
     - _id: player487117
       id: 487117
@@ -1132,7 +1168,7 @@
       second_name: Ferguson
       web_name: Ferguson
       player_type: 4
-      status: i
+      status: d
       team_id: 36
     - _id: player243568
       id: 243568
@@ -1168,7 +1204,7 @@
       second_name: Osman
       web_name: I.Osman
       player_type: 3
-      status: a
+      status: u
       team_id: 36
     - _id: player223434
       id: 223434
@@ -1204,7 +1240,7 @@
       second_name: Lamptey
       web_name: Lamptey
       player_type: 2
-      status: a
+      status: d
       team_id: 36
     - _id: player109345
       id: 109345
@@ -1240,7 +1276,7 @@
       second_name: Minteh
       web_name: Minteh
       player_type: 3
-      status: a
+      status: d
       team_id: 36
     - _id: player451340
       id: 451340
@@ -1312,7 +1348,7 @@
       second_name: Undav
       web_name: Undav
       player_type: 4
-      status: a
+      status: u
       team_id: 36
     - _id: player469142
       id: 469142
@@ -1339,7 +1375,7 @@
       second_name: Verbruggen
       web_name: Verbruggen
       player_type: 1
-      status: a
+      status: d
       team_id: 36
     - _id: player110735
       id: 110735
@@ -1365,6 +1401,51 @@
       first_name: Mats
       second_name: Wieffer
       web_name: Wieffer
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player513433
+      id: 513433
+      fpl_tracker_id: 595
+      first_name: Brajan
+      second_name: Gruda
+      web_name: Gruda
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player509416
+      id: 509416
+      fpl_tracker_id: 600
+      first_name: Yasin
+      second_name: Ayari
+      web_name: Ayari
+      player_type: 3
+      status: a
+      team_id: 36
+    - _id: player513834
+      id: 513834
+      fpl_tracker_id: 601
+      first_name: Andrew
+      second_name: Moran
+      web_name: Moran
+      player_type: 3
+      status: u
+      team_id: 36
+    - _id: player472739
+      id: 472739
+      fpl_tracker_id: 615
+      first_name: Carl
+      second_name: Rushworth
+      web_name: Rushworth
+      player_type: 1
+      status: a
+      team_id: 36
+    - _id: player463067
+      id: 463067
+      fpl_tracker_id: 618
+      first_name: Georginio
+      second_name: Rutter
+      web_name: Georginio
       player_type: 3
       status: a
       team_id: 36
@@ -1555,7 +1636,7 @@
       second_name: Gilchrist
       web_name: Gilchrist
       player_type: 2
-      status: a
+      status: u
       team_id: 8
     - _id: player482609
       id: 482609
@@ -1710,15 +1791,6 @@
       player_type: 2
       status: a
       team_id: 8
-    - _id: player503714
-      id: 503714
-      fpl_tracker_id: 188
-      first_name: Lesley
-      second_name: Ugochukwu
-      web_name: Ugochukwu
-      player_type: 3
-      status: a
-      team_id: 8
     - _id: player444463
       id: 444463
       fpl_tracker_id: 189
@@ -1728,6 +1800,15 @@
       player_type: 2
       status: a
       team_id: 8
+    - _id: player247632
+      id: 247632
+      fpl_tracker_id: 560
+      first_name: Pedro
+      second_name: Lomba Neto
+      web_name: Neto
+      player_type: 3
+      status: a
+      team_id: 8
     - _id: player488464
       id: 488464
       fpl_tracker_id: 575
@@ -1735,7 +1816,7 @@
       second_name: Wiley
       web_name: Wiley
       player_type: 2
-      status: a
+      status: u
       team_id: 8
     - _id: player508479
       id: 508479
@@ -1915,7 +1996,7 @@
       second_name: França de Oliveira
       web_name: M.França
       player_type: 3
-      status: a
+      status: i
       team_id: 31
     - _id: player169593
       id: 169593
@@ -1960,7 +2041,7 @@
       second_name: Rak-Sakyi
       web_name: Rak-Sakyi
       player_type: 3
-      status: a
+      status: u
       team_id: 31
     - _id: player86417
       id: 86417
@@ -2023,7 +2104,7 @@
       second_name: Branthwaite
       web_name: Branthwaite
       player_type: 2
-      status: a
+      status: i
       team_id: 11
     - _id: player177815
       id: 177815
@@ -2041,7 +2122,7 @@
       second_name: Coleman
       web_name: Coleman
       player_type: 2
-      status: a
+      status: i
       team_id: 11
     - _id: player80801
       id: 80801
@@ -2059,7 +2140,7 @@
       second_name: Garner
       web_name: Garner
       player_type: 3
-      status: a
+      status: i
       team_id: 11
     - _id: player221399
       id: 221399
@@ -2149,7 +2230,7 @@
       second_name: Patterson
       web_name: Patterson
       player_type: 2
-      status: a
+      status: i
       team_id: 11
     - _id: player111234
       id: 111234
@@ -2176,7 +2257,7 @@
       second_name: Ramalho Chermiti
       web_name: Y. Chermiti
       player_type: 4
-      status: d
+      status: i
       team_id: 11
     - _id: player18892
       id: 18892
@@ -2185,7 +2266,7 @@
       second_name: Young
       web_name: Young
       player_type: 2
-      status: a
+      status: s
       team_id: 11
     - _id: player463903
       id: 463903
@@ -2203,6 +2284,24 @@
       second_name: O'Brien
       web_name: O'Brien
       player_type: 2
+      status: a
+      team_id: 11
+    - _id: player609873
+      id: 609873
+      fpl_tracker_id: 603
+      first_name: Harrison
+      second_name: Armstrong
+      web_name: Armstrong
+      player_type: 3
+      status: a
+      team_id: 11
+    - _id: player491557
+      id: 491557
+      fpl_tracker_id: 614
+      first_name: Jenson
+      second_name: Metcalfe
+      web_name: Metcalfe
+      player_type: 3
       status: a
       team_id: 11
     - _id: player209289
@@ -2347,7 +2446,7 @@
       second_name: Ream
       web_name: Ream
       player_type: 2
-      status: a
+      status: u
       team_id: 54
     - _id: player153366
       id: 153366
@@ -2421,6 +2520,24 @@
       player_type: 2
       status: a
       team_id: 54
+    - _id: player577725
+      id: 577725
+      fpl_tracker_id: 604
+      first_name: Josh
+      second_name: King
+      web_name: King
+      player_type: 3
+      status: a
+      team_id: 54
+    - _id: player573062
+      id: 573062
+      fpl_tracker_id: 605
+      first_name: Martial
+      second_name: Godo
+      web_name: Godo
+      player_type: 3
+      status: a
+      team_id: 54
     - _id: player462387
       id: 462387
       fpl_tracker_id: 260
@@ -2437,7 +2554,7 @@
       second_name: Baggott
       web_name: Baggott
       player_type: 2
-      status: a
+      status: u
       team_id: 40
     - _id: player173818
       id: 173818
@@ -2464,7 +2581,7 @@
       second_name: Burns
       web_name: Burns
       player_type: 3
-      status: a
+      status: d
       team_id: 40
     - _id: player196411
       id: 196411
@@ -2482,7 +2599,7 @@
       second_name: Clarke
       web_name: Clarke
       player_type: 2
-      status: d
+      status: i
       team_id: 40
     - _id: player455084
       id: 455084
@@ -2536,7 +2653,7 @@
       second_name: Hirst
       web_name: Hirst
       player_type: 4
-      status: a
+      status: i
       team_id: 40
     - _id: player524180
       id: 524180
@@ -2646,6 +2763,15 @@
       player_type: 2
       status: a
       team_id: 40
+    - _id: player155405
+      id: 155405
+      fpl_tracker_id: 359
+      first_name: Kalvin
+      second_name: Phillips
+      web_name: Phillips
+      player_type: 3
+      status: "n"
+      team_id: 40
     - _id: player232917
       id: 232917
       fpl_tracker_id: 568
@@ -2653,7 +2779,7 @@
       second_name: Muric
       web_name: Muric
       player_type: 1
-      status: a
+      status: d
       team_id: 40
     - _id: player108053
       id: 108053
@@ -2664,6 +2790,33 @@
       player_type: 2
       status: a
       team_id: 40
+    - _id: player172453
+      id: 172453
+      fpl_tracker_id: 611
+      first_name: Sam
+      second_name: Szmodics
+      web_name: Szmodics
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player454667
+      id: 454667
+      fpl_tracker_id: 619
+      first_name: Jens
+      second_name: Cajuste
+      web_name: Cajuste
+      player_type: 3
+      status: a
+      team_id: 40
+    - _id: player536916
+      id: 536916
+      fpl_tracker_id: 117
+      first_name: Facundo
+      second_name: Buonanotte
+      web_name: Buonanotte
+      player_type: 3
+      status: a
+      team_id: 13
     - _id: player225902
       id: 225902
       fpl_tracker_id: 285
@@ -2698,7 +2851,7 @@
       second_name: Coady
       web_name: Coady
       player_type: 2
-      status: a
+      status: i
       team_id: 13
     - _id: player245419
       id: 245419
@@ -2707,7 +2860,7 @@
       second_name: Daka
       web_name: Daka
       player_type: 4
-      status: a
+      status: i
       team_id: 13
     - _id: player96994
       id: 96994
@@ -2833,7 +2986,7 @@
       second_name: Souttar
       web_name: Souttar
       player_type: 2
-      status: a
+      status: u
       team_id: 13
     - _id: player436680
       id: 436680
@@ -2898,6 +3051,24 @@
       player_type: 3
       status: a
       team_id: 13
+    - _id: player532534
+      id: 532534
+      fpl_tracker_id: 606
+      first_name: Will
+      second_name: Alves
+      web_name: Alves
+      player_type: 3
+      status: a
+      team_id: 13
+    - _id: player501770
+      id: 501770
+      fpl_tracker_id: 616
+      first_name: Ben
+      second_name: Nelson
+      web_name: Nelson
+      player_type: 2
+      status: a
+      team_id: 13
     - _id: player116535
       id: 116535
       fpl_tracker_id: 310
@@ -2932,15 +3103,6 @@
       second_name: Bradley
       web_name: Bradley
       player_type: 2
-      status: a
-      team_id: 14
-    - _id: player244858
-      id: 244858
-      fpl_tracker_id: 314
-      first_name: Fábio
-      second_name: Freitas Gouveia Carvalho
-      web_name: Carvalho
-      player_type: 3
       status: a
       team_id: 14
     - _id: player491970
@@ -3202,7 +3364,7 @@
       second_name: Bobb
       web_name: Bobb
       player_type: 3
-      status: a
+      status: i
       team_id: 43
     - _id: player17601
       id: 17601
@@ -3283,7 +3445,7 @@
       second_name: Álvarez
       web_name: J.Alvarez
       player_type: 4
-      status: a
+      status: u
       team_id: 43
     - _id: player121145
       id: 121145
@@ -3339,15 +3501,6 @@
       player_type: 1
       status: a
       team_id: 43
-    - _id: player155405
-      id: 155405
-      fpl_tracker_id: 359
-      first_name: Kalvin
-      second_name: Phillips
-      web_name: Phillips
-      player_type: 3
-      status: a
-      team_id: 43
     - _id: player220566
       id: 220566
       fpl_tracker_id: 360
@@ -3355,7 +3508,7 @@
       second_name: Hernandez
       web_name: Rodrigo
       player_type: 3
-      status: a
+      status: i
       team_id: 43
     - _id: player171314
       id: 171314
@@ -3390,6 +3543,15 @@
       first_name: Sávio 'Savinho'
       second_name: Moreira de Oliveira
       web_name: Sávio
+      player_type: 3
+      status: d
+      team_id: 43
+    - _id: player472769
+      id: 472769
+      fpl_tracker_id: 607
+      first_name: Nico
+      second_name: O'Reilly
+      web_name: O’Reilly
       player_type: 3
       status: a
       team_id: 43
@@ -3607,16 +3769,7 @@
       second_name: Shaw
       web_name: Shaw
       player_type: 2
-      status: a
-      team_id: 1
-    - _id: player214590
-      id: 214590
-      fpl_tracker_id: 388
-      first_name: Aaron
-      second_name: Wan-Bissaka
-      web_name: Wan-Bissaka
-      player_type: 2
-      status: a
+      status: i
       team_id: 1
     - _id: player458249
       id: 458249
@@ -3635,6 +3788,33 @@
       web_name: Yoro
       player_type: 2
       status: i
+      team_id: 1
+    - _id: player209365
+      id: 209365
+      fpl_tracker_id: 593
+      first_name: Matthijs
+      second_name: de Ligt
+      web_name: De Ligt
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player230001
+      id: 230001
+      fpl_tracker_id: 594
+      first_name: Noussair
+      second_name: Mazraoui
+      web_name: Mazraoui
+      player_type: 2
+      status: a
+      team_id: 1
+    - _id: player490881
+      id: 490881
+      fpl_tracker_id: 613
+      first_name: Toby
+      second_name: Collyer
+      web_name: Collyer
+      player_type: 3
+      status: a
       team_id: 1
     - _id: player545477
       id: 545477
@@ -3868,7 +4048,7 @@
       second_name: Schär
       web_name: Schär
       player_type: 2
-      status: a
+      status: s
       team_id: 4
     - _id: player169359
       id: 169359
@@ -3922,7 +4102,7 @@
       second_name: Wilson
       web_name: Wilson
       player_type: 4
-      status: d
+      status: i
       team_id: 4
     - _id: player578512
       id: 578512
@@ -3933,6 +4113,15 @@
       player_type: 2
       status: a
       team_id: 4
+    - _id: player538207
+      id: 538207
+      fpl_tracker_id: 590
+      first_name: William
+      second_name: Osula
+      web_name: Osula
+      player_type: 4
+      status: a
+      team_id: 4
     - _id: player159506
       id: 159506
       fpl_tracker_id: 422
@@ -3940,7 +4129,7 @@
       second_name: Aina
       web_name: Aina
       player_type: 2
-      status: a
+      status: d
       team_id: 17
     - _id: player215379
       id: 215379
@@ -4003,7 +4192,7 @@
       second_name: dos Santos de Oliveira
       web_name: Danilo
       player_type: 3
-      status: a
+      status: i
       team_id: 17
     - _id: player230251
       id: 230251
@@ -4030,7 +4219,7 @@
       second_name: Elanga
       web_name: Elanga
       player_type: 3
-      status: a
+      status: d
       team_id: 17
     - _id: player222531
       id: 222531
@@ -4194,6 +4383,42 @@
       player_type: 2
       status: a
       team_id: 17
+    - _id: player510500
+      id: 510500
+      fpl_tracker_id: 596
+      first_name: João Pedro
+      second_name: Ferreira Silva
+      web_name: Jota Silva
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player502222
+      id: 502222
+      fpl_tracker_id: 620
+      first_name: Ramón
+      second_name: Sosa
+      web_name: Sosa
+      player_type: 3
+      status: a
+      team_id: 17
+    - _id: player433979
+      id: 433979
+      fpl_tracker_id: 27
+      first_name: Cameron
+      second_name: Archer
+      web_name: Archer
+      player_type: 4
+      status: a
+      team_id: 20
+    - _id: player503714
+      id: 503714
+      fpl_tracker_id: 188
+      first_name: Lesley
+      second_name: Ugochukwu
+      web_name: Ugochukwu
+      player_type: 3
+      status: a
+      team_id: 20
     - _id: player502697
       id: 502697
       fpl_tracker_id: 450
@@ -4318,7 +4543,7 @@
       second_name: Lallana
       web_name: Lallana
       player_type: 3
-      status: a
+      status: i
       team_id: 20
     - _id: player515571
       id: 515571
@@ -4327,7 +4552,7 @@
       second_name: Larios López
       web_name: Larios
       player_type: 2
-      status: a
+      status: i
       team_id: 20
     - _id: player200428
       id: 200428
@@ -4408,7 +4633,7 @@
       second_name: Stewart
       web_name: Stewart
       player_type: 4
-      status: a
+      status: i
       team_id: 20
     - _id: player219279
       id: 219279
@@ -4464,6 +4689,24 @@
       player_type: 3
       status: a
       team_id: 20
+    - _id: player496661
+      id: 496661
+      fpl_tracker_id: 608
+      first_name: Tyler
+      second_name: Dibling
+      web_name: Dibling
+      player_type: 3
+      status: a
+      team_id: 20
+    - _id: player154566
+      id: 154566
+      fpl_tracker_id: 82
+      first_name: Dominic
+      second_name: Solanke-Mitchell
+      web_name: Solanke
+      player_type: 4
+      status: a
+      team_id: 6
     - _id: player548308
       id: 548308
       fpl_tracker_id: 478
@@ -4489,7 +4732,7 @@
       second_name: Bentancur
       web_name: Bentancur
       player_type: 3
-      status: a
+      status: d
       team_id: 6
     - _id: player570526
       id: 570526
@@ -4507,7 +4750,7 @@
       second_name: Bissouma
       web_name: Bissouma
       player_type: 3
-      status: a
+      status: "n"
       team_id: 6
     - _id: player436234
       id: 436234
@@ -4552,7 +4795,7 @@
       second_name: Leite de Souza Junior
       web_name: E.Royal
       player_type: 2
-      status: a
+      status: u
       team_id: 6
     - _id: player40383
       id: 40383
@@ -4624,7 +4867,7 @@
       second_name: Porro
       web_name: Pedro Porro
       player_type: 2
-      status: a
+      status: d
       team_id: 6
     - _id: player199249
       id: 199249
@@ -4658,7 +4901,7 @@
       fpl_tracker_id: 499
       first_name: Pape Matar
       second_name: Sarr
-      web_name: P.Sarr
+      web_name: P.M.Sarr
       player_type: 3
       status: a
       team_id: 6
@@ -4669,7 +4912,7 @@
       second_name: Scarlett
       web_name: Scarlett
       player_type: 4
-      status: a
+      status: u
       team_id: 6
     - _id: player209042
       id: 209042
@@ -4732,7 +4975,7 @@
       second_name: Véliz
       web_name: Veliz
       player_type: 4
-      status: a
+      status: u
       team_id: 6
     - _id: player184254
       id: 184254
@@ -4761,6 +5004,42 @@
       player_type: 1
       status: a
       team_id: 6
+    - _id: player552427
+      id: 552427
+      fpl_tracker_id: 609
+      first_name: Will
+      second_name: Lankshear
+      web_name: Lankshear
+      player_type: 4
+      status: a
+      team_id: 6
+    - _id: player499721
+      id: 499721
+      fpl_tracker_id: 610
+      first_name: Mikey
+      second_name: Moore
+      web_name: Moore
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player550839
+      id: 550839
+      fpl_tracker_id: 612
+      first_name: Wilson
+      second_name: Odobert
+      web_name: Odobert
+      player_type: 3
+      status: a
+      team_id: 6
+    - _id: player214590
+      id: 214590
+      fpl_tracker_id: 388
+      first_name: Aaron
+      second_name: Wan-Bissaka
+      web_name: Wan-Bissaka
+      player_type: 2
+      status: a
+      team_id: 21
     - _id: player213999
       id: 213999
       fpl_tracker_id: 511
@@ -4768,7 +5047,7 @@
       second_name: Álvarez Velázquez
       web_name: Álvarez
       player_type: 3
-      status: a
+      status: d
       team_id: 21
     - _id: player57531
       id: 57531
@@ -4831,7 +5110,7 @@
       second_name: Earthy
       web_name: Earthy
       player_type: 3
-      status: a
+      status: u
       team_id: 21
     - _id: player109533
       id: 109533
@@ -4968,6 +5247,33 @@
       player_type: 3
       status: a
       team_id: 21
+    - _id: player197024
+      id: 197024
+      fpl_tracker_id: 588
+      first_name: Guido
+      second_name: Rodríguez
+      web_name: G.Rodríguez
+      player_type: 3
+      status: a
+      team_id: 21
+    - _id: player91889
+      id: 91889
+      fpl_tracker_id: 589
+      first_name: Niclas
+      second_name: Füllkrug
+      web_name: Füllkrug
+      player_type: 4
+      status: a
+      team_id: 21
+    - _id: player462116
+      id: 462116
+      fpl_tracker_id: 591
+      first_name: Jean-Clair
+      second_name: Todibo
+      web_name: Todibo
+      player_type: 2
+      status: a
+      team_id: 21
     - _id: player448514
       id: 448514
       fpl_tracker_id: 533
@@ -5029,7 +5335,7 @@
       second_name: Chiwome
       web_name: Chiwome
       player_type: 4
-      status: a
+      status: i
       team_id: 39
     - _id: player245923
       id: 245923
@@ -5119,7 +5425,7 @@
       second_name: Bueno López
       web_name: H.Bueno
       player_type: 2
-      status: a
+      status: u
       team_id: 39
     - _id: player184754
       id: 184754
@@ -5210,15 +5516,6 @@
       web_name: N.Semedo
       player_type: 2
       status: s
-      team_id: 39
-    - _id: player247632
-      id: 247632
-      fpl_tracker_id: 560
-      first_name: Pedro
-      second_name: Lomba Neto
-      web_name: Neto
-      player_type: 3
-      status: a
       team_id: 39
     - _id: player641221
       id: 641221

@@ -14,8 +14,11 @@ import (
 
 	"github.com/benbjohnson/clock"
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dialect/pgdialect"
-	"github.com/uptrace/bun/driver/pgdriver"
+
+	//	"github.com/uptrace/bun/dialect/pgdialect"
+	//"github.com/uptrace/bun/driver/pgdriver"
+	_ "github.com/go-sql-driver/mysql"
+	"github.com/uptrace/bun/dialect/mysqldialect"
 	"github.com/uptrace/bun/extra/bundebug"
 	"github.com/urfave/cli/v2"
 )
@@ -132,9 +135,17 @@ func (app *App) SetClock(clock clock.Clock) {
 
 func (app *App) DB() *bun.DB {
 	app.dbOnce.Do(func() {
-		sqldb := sql.OpenDB(pgdriver.NewConnector(pgdriver.WithDSN(app.cfg.PGX.DSN)))
+		mysqldb, err := sql.Open("mysql", app.cfg.MYSQL.DSN)
+		if err != nil {
+			panic(err)
+		}
+		//sqldb := sql.OpenDB(pgdriver.NewConnector(pgdriver.WithDSN(app.cfg.PGX.DSN)))
 
-		db := bun.NewDB(sqldb, pgdialect.New())
+		db := bun.NewDB(
+			mysqldb,
+			mysqldialect.New(),
+		)
+		//		db := bun.NewDB(sqldb, pgdialect.New())
 		db.AddQueryHook(bundebug.NewQueryHook(
 			bundebug.WithEnabled(app.IsDebug()),
 			bundebug.FromEnv(""),
