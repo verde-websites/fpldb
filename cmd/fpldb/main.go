@@ -261,7 +261,7 @@ func newDBCommand(migrations *migrate.Migrations) *cli.Command {
 						return err
 					}
 					defer app.Stop()
-					app.DB().RegisterModel((*models.Season)(nil), (*models.Team)(nil), (*models.Player)(nil), (*models.PlayerFplSeason)(nil), (*models.Gameweek)(nil), (*models.TeamFplSeason)(nil), (*models.Fixture)(nil))
+					app.DB().RegisterModel((*models.Season)(nil), (*models.Team)(nil), (*models.Player)(nil), (*models.PlayerFplSeason)(nil), (*models.Gameweek)(nil), (*models.TeamFplSeason)(nil), (*models.Fixture)(nil), (*models.FplManagerSession)(nil))
 					fixture := dbfixture.New(app.DB(), dbfixture.WithTruncateTables())
 
 					// seed the season fixtures
@@ -296,6 +296,12 @@ func newDBCommand(migrations *migrate.Migrations) *cli.Command {
 					}
 					// seed the fixture fixtures
 					err = fixture.Load(context.Background(), bunapp.FS(), "fixture/fixture.yml")
+					if err != nil {
+						return err
+					}
+
+					// seed the fpl manager session fixtures
+					err = fixture.Load(context.Background(), bunapp.FS(), "fixture/fpl_manager_session.yml")
 					if err != nil {
 						return err
 					}

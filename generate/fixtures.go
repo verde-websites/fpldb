@@ -39,7 +39,10 @@ func GenerateFixtures(fplFixturesResp []dto.FixtureFPLResponseDto, teamData []Te
 	}
 	fixtureData := []FixtureModel{}
 	for _, fixture := range fplFixturesResp {
-		fixtureID := fmt.Sprintf("fixture%d", fixture.Code)
+		fixtureID := fmt.Sprintf("fixture%d", fixture.Event)
+		if fixture.Event == 0 {
+			continue
+		}
 		fixtureModel := FixtureModel{
 			Model: "Fixture",
 			Rows:  []FixtureRow{},

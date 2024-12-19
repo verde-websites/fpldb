@@ -2,7 +2,9 @@ debug: true
 
 dbEngine: mysql
 mysql:
-  dsn: q5gAX8iqB3yWiwZ.root:JgrPwghNNUeOV8Es@tcp(gateway01.eu-central-1.prod.aws.tidbcloud.com:4000)/test?tls=true
+  #dsn: q5gAX8iqB3yWiwZ.root:JgrPwghNNUeOV8Es@tcp(gateway01.eu-central-1.prod.aws.tidbcloud.com:4000)/test?tls=true
+  #dsn: fplhub:passwordisgod@localhost:3306/fplhub
+  dsn: fplhub:passwordisgod@tcp(127.0.0.1:3306)/fplhub
 
 pgx:
   dsn: postgres://fpl-web:lcjQkPirwxWrTJPo@localhost:5432/fpl-web?sslmode=disable
